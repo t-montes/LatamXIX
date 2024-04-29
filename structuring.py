@@ -15,7 +15,7 @@ def extract_data_from_json(json_file):
                 'title': metadata['newspaper'],
                 'year': metadata['year'],
                 'city': metadata['city'],
-                'text': context['text']
+                'text': context['text'].strip()
             }
             rows.append(row)
         return rows
@@ -33,4 +33,4 @@ def process_folder(folder_path):
 folder_path = './data/raw'
 df_latamnp = process_folder(folder_path)
 df_latamnp.to_parquet('./data/original-latam-xix.parquet')
-#df_latamnp.to_csv('./data/original-latam-xix.tsv', sep='\t', index=False)
+df_latamnp.to_csv('./data/original-latam-xix.tsv', sep='\t', index=False)
