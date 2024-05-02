@@ -3,3 +3,4 @@ data/raw
 *.env
 !template.env
 *.json
+!surfaceForms.json
