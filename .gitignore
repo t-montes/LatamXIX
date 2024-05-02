@@ -1,2 +1,5 @@
 data/raw
 *.tsv
+*.env
+!template.env
+*.json
