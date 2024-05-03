@@ -1,230 +1,172 @@
 {
     "a": {
-        "á": 34738,
-        "à": 1114,
+        "á": 34602,
+        "à": 1098,
         "â": 9,
         "å": 6,
         "ã": 1,
-        "2": 2,
-        "4": 34,
-        "ń": 9,
-        "1": 2,
-        "z": 3,
-        "ª": 1,
-        "za": 1,
-        "fa": 3,
-        "6": 5,
-        "5": 3
+        "ª": 1
     },
     "y": {
-        "zy": 1,
-        "v": 3,
-        "i": 4348,
-        "6": 4,
-        "º": 2,
         "ý": 1,
-        "5": 5,
-        "ye": 3,
-        "ofr": 2,
-        "mas": 1,
-        "1": 12
-    },
-    "o": {
-        "ó": 3770,
-        "ò": 91,
-        "6": 361,
-        "ő": 2,
-        "0": 5,
-        "5": 4,
-        "of": 1,
-        "ô": 1
+        "i": 4118,
+        "q": 1
     },
     "más": {
-        "mas": 4064,
+        "mas": 4011,
         "màs": 2,
-        "ma": 2,
-        "por": 1,
         "mås": 1,
-        "max": 4
+        "max": 3
+    },
+    "o": {
+        "ó": 3760,
+        "ò": 91,
+        "ő": 2,
+        "ô": 1
     },
     "fue": {
-        "fué": 3371,
+        "fué": 3362,
         "fuè": 6,
-        "fu6": 2,
         "fuê": 1
     },
     "e": {
-        "é": 1463,
+        "é": 1457,
         "è": 17,
-        "6": 5,
         "ê": 1
     },
     "qué": {
-        "que": 1340,
+        "que": 1291,
         "què": 19,
         "quê": 2,
         "q": 2
     },
     "día": {
-        "dia": 1216
+        "dia": 1195
     },
     "él": {
-        "el": 1169,
-        "èl": 7,
-        "e": 2,
-        "6l": 2,
-        "61": 2
+        "el": 1147,
+        "èl": 7
     },
     "también": {
-        "tambien": 1038,
-        "tamblery": 1,
-        "tanibien": 3
+        "tambien": 1019
     },
     "después": {
-        "despues": 882,
-        "despúes": 1,
-        "despuca": 3
+        "despues": 869,
+        "despúes": 1
     },
     "había": {
-        "habia": 809,
-        "habi": 1,
+        "habia": 808,
         "havia": 1
     },
     "número": {
-        "numero": 784,
+        "numero": 774,
         "numéro": 3,
         "nùmero": 1,
         "nůmero": 1
     },
     "dio": {
-        "dió": 753,
+        "dió": 750,
         "diò": 5
     },
     "está": {
-        "esta": 601,
-        "està": 19,
+        "esta": 589,
+        "està": 18,
         "extá": 3,
         "ecta": 1
     },
-    "días": {
-        "dias": 613,
-        "dins": 1,
-        "díaz": 1,
-        "diaz": 1
-    },
     "solo": {
-        "sólo": 599,
-        "sol": 1,
+        "sólo": 593,
         "colo": 3,
         "zolo": 1
     },
+    "días": {
+        "dias": 595,
+        "díaz": 1,
+        "diaz": 1
+    },
     "señor": {
-        "senor": 547,
+        "senor": 542,
         "señór": 2,
-        "sefior": 1,
-        "seffor": 5,
-        "sefor": 1,
         "sr": 3
     },
     "sí": {
-        "si": 539,
+        "si": 523,
         "sì": 6,
-        "6i": 2,
-        "sip": 2,
-        "3si": 1,
         "ší": 1,
         "ci": 1
     },
     "aquí": {
-        "aqui": 500,
+        "aqui": 485,
         "aquì": 6
     },
     "así": {
-        "asi": 454,
-        "asì": 11,
-        "i": 2,
-        "bres": 1,
-        "as": 1,
+        "asi": 447,
+        "asì": 9,
         "axi": 2
     },
     "país": {
-        "pais": 443,
+        "pais": 437,
         "paix": 2
     },
-    "bogotá": {
-        "bogota": 427,
-        "bogotà": 16
-    },
     "república": {
-        "republica": 434,
+        "republica": 428,
         "republisa": 1
     },
+    "bogotá": {
+        "bogota": 414,
+        "bogotà": 14
+    },
     "aún": {
-        "aun": 383,
+        "aun": 379,
         "áun": 10
     },
     "este": {
-        "éste": 370,
-        "esteramo": 2
+        "éste": 362
     },
     "josé": {
-        "jose": 349
+        "jose": 344
     },
     "ya": {
-        "yá": 324,
+        "yá": 323,
         "yà": 9,
         "yâ": 2,
-        "já": 2,
         "iá": 1,
         "ia": 3
     },
     "artículo": {
-        "articulo": 331,
+        "articulo": 323,
         "artìculo": 1
     },
     "tenía": {
-        "tenia": 297
+        "tenia": 296
     },
     "demás": {
         "demas": 289
     },
-    "según": {
-        "segun": 288
-    },
     "algún": {
-        "algun": 287
+        "algun": 284
+    },
+    "según": {
+        "segun": 283
     },
     "vio": {
-        "vió": 262,
+        "vió": 260,
         "viò": 3,
-        "vi6": 4,
         "vío": 1,
         "vyo": 1,
         "bio": 1
     },
+    "periódico": {
+        "periodico": 262
+    },
     "nación": {
-        "nacion": 264,
+        "nacion": 256,
         "nacíon": 1,
         "nasion": 1
     },
-    "periódico": {
-        "periodico": 264
-    },
-    "quién": {
-        "quien": 260
-    },
     "corazón": {
-        "corazon": 255,
+        "corazon": 254,
         "corason": 1
-    },
-    "están": {
-        "estan": 244,
-        "estàn": 5,
-        "estun": 3
-    },
-    "público": {
-        "publico": 248,
-        "půblico": 1
     },
     "será": {
         "sera": 229,
@@ -232,302 +174,280 @@
         "serã": 1,
         "cera": 1
     },
-    "sería": {
-        "seria": 244,
-        "serìa": 2
+    "están": {
+        "estan": 242,
+        "estàn": 5
+    },
+    "público": {
+        "publico": 243,
+        "půblico": 1
+    },
+    "quién": {
+        "quien": 242
     },
     "allí": {
-        "alli": 240,
-        "allì": 4,
-        "all": 1
+        "alli": 235,
+        "allì": 4
+    },
+    "sería": {
+        "seria": 236,
+        "serìa": 2
     },
     "allá": {
-        "alla": 239,
+        "alla": 233,
         "allà": 3,
         "allâ": 1
     },
-    "mí": {
-        "mi": 239,
-        "mì": 1
-    },
     "razón": {
-        "razon": 237,
+        "razon": 233,
         "rason": 2
     },
-    "tú": {
-        "tu": 227,
-        "tů": 4,
-        "tù": 5,
-        "tû": 1
-    },
     "jamás": {
-        "jamas": 232,
+        "jamas": 225,
         "jamàs": 3
+    },
+    "mí": {
+        "mi": 223,
+        "mì": 1
+    },
+    "opinión": {
+        "opinion": 221
     },
     "general": {
         "generál": 1,
-        "enoral": 2,
-        "jeneral": 227
-    },
-    "opinión": {
-        "opinion": 224
+        "jeneral": 218
     },
     "habían": {
-        "habian": 217
-    },
-    "cómo": {
-        "como": 216
-    },
-    "muy": {
-        "mui": 213,
-        "mily": 1,
-        "yn": 1
-    },
-    "hay": {
-        "hai": 213
+        "habian": 215
     },
     "pública": {
         "publica": 210
     },
+    "hay": {
+        "hai": 209
+    },
+    "tú": {
+        "tu": 198,
+        "tů": 2,
+        "tù": 5,
+        "tû": 1
+    },
     "ningún": {
-        "ningun": 206
+        "ningun": 204
+    },
+    "muy": {
+        "mui": 202
     },
     "luego": {
-        "luégo": 195,
-        "lurgo": 2
-    },
-    "sé": {
-        "se": 189,
-        "sè": 5,
-        "46": 3
+        "luégo": 195
     },
     "parís": {
-        "paris": 196
+        "paris": 192
+    },
+    "sé": {
+        "se": 187,
+        "sè": 5
     },
     "política": {
-        "politica": 194,
-        "polítical": 1
+        "politica": 190
+    },
+    "cómo": {
+        "como": 185
     },
     "esta": {
-        "ésta": 179,
+        "ésta": 177,
         "está": 5,
         "exta": 2
     },
     "río": {
-        "rio": 184,
-        "in": 2
+        "rio": 184
     },
     "sesión": {
-        "sesion": 183,
+        "sesion": 178,
         "cesion": 1
     },
     "ángel": {
-        "angel": 143,
-        "anjel": 34,
-        "nagelo": 1,
+        "angel": 142,
+        "anjel": 31,
         "ánjel": 5
     },
     "interés": {
-        "interes": 178,
+        "interes": 174,
         "interès": 2
     },
     "mío": {
-        "mio": 177
-    },
-    "aquel": {
-        "aquél": 173
+        "mio": 174
     },
     "maría": {
         "maria": 173
     },
+    "aquel": {
+        "aquél": 170
+    },
     "bolívar": {
-        "bolivar": 169
+        "bolivar": 166
     },
     "dónde": {
-        "donde": 166
+        "donde": 163
     },
     "época": {
         "epoca": 148,
-        "època": 1,
-        "6poda": 5
-    },
-    "menos": {
-        "ménos": 142,
-        "mènos": 2,
-        "mênos": 2,
-        "monos": 3
-    },
-    "no": {
-        "nó": 128,
-        "nò": 4,
-        "n": 2,
-        "nd": 3,
-        "ño": 1,
-        "to": 3,
-        "nc": 3
+        "època": 1
     },
     "mía": {
-        "mia": 143
+        "mia": 138
     },
     "estos": {
-        "éstos": 137,
-        "esto": 1,
+        "éstos": 135,
         "extos": 2
     },
+    "menos": {
+        "ménos": 132,
+        "mènos": 2,
+        "mênos": 2
+    },
     "león": {
-        "leon": 136
+        "leon": 135
+    },
+    "panamá": {
+        "panama": 130,
+        "panamà": 3
     },
     "núñez": {
-        "nuñez": 99,
+        "nuñez": 96,
         "nunez": 27,
         "núnez": 5,
         "núňez": 4,
         "nunes": 1
     },
     "podía": {
-        "podia": 134,
+        "podia": 129,
         "pódia": 1
     },
-    "panamá": {
-        "panama": 130,
-        "panamà": 3
+    "no": {
+        "nó": 125,
+        "nò": 4,
+        "ño": 1
     },
     "revolución": {
-        "revolucion": 132
-    },
-    "órdenes": {
-        "ordenes": 123,
-        "ordeces": 5,
-        "ordenez": 1
+        "revolucion": 129
     },
     "hoy": {
-        "hoi": 128
+        "hoi": 125
     },
     "carácter": {
-        "caracter": 127
+        "caracter": 124
     },
     "joaquín": {
-        "joaquin": 125
-    },
-    "u": {
-        "ú": 122,
-        "6": 2
+        "joaquin": 124
     },
     "hacía": {
         "hacia": 122,
         "hacìa": 1
     },
+    "u": {
+        "ú": 122
+    },
     "ejército": {
-        "ejercito": 120,
+        "ejercito": 118,
         "exército": 2,
         "exercito": 1
     },
     "pie": {
-        "pié": 115,
+        "pié": 112,
         "piè": 7
     },
     "años": {
-        "anos": 118
-    },
-    "atención": {
-        "atencion": 118
-    },
-    "constitución": {
-        "constitucion": 116,
-        "constitusion": 1
+        "anos": 116
     },
     "aquellos": {
         "aquéllos": 116
     },
-    "francés": {
-        "frances": 115,
-        "france8": 1
+    "atención": {
+        "atencion": 116
     },
-    "vía": {
-        "via": 111,
-        "bia": 3,
-        "bía": 1
+    "constitución": {
+        "constitucion": 115,
+        "constitusion": 1
+    },
+    "órdenes": {
+        "ordenes": 113,
+        "ordenez": 1
     },
     "capitán": {
         "capitan": 114
     },
-    "cuestión": {
-        "cuestion": 108,
-        "question": 4
-    },
     "américa": {
-        "america": 109,
+        "america": 107,
         "amèrica": 2,
         "améríca": 1
     },
-    "decía": {
-        "decia": 111
+    "vía": {
+        "via": 107,
+        "bia": 3
     },
-    "números": {
-        "numeros": 110,
-        "nùmeros": 1
+    "francés": {
+        "frances": 110
     },
-    "colón": {
-        "colon": 110
-    },
-    "llegó": {
-        "llego": 104,
-        "llegò": 3,
-        "llegõ": 1,
-        "lleg6": 2
-    },
-    "común": {
-        "comun": 109
-    },
-    "cámara": {
-        "camara": 104,
-        "câmara": 5
+    "cuestión": {
+        "cuestion": 105,
+        "question": 4
     },
     "ahí": {
         "ahi": 109
-    },
-    "religión": {
-        "religion": 83,
-        "reilgio0": 2,
-        "relijion": 24
     },
     "debía": {
         "debia": 107,
         "devia": 1
     },
-    "inglés": {
-        "ingles": 108
+    "decía": {
+        "decia": 108
     },
-    "unión": {
-        "union": 107
+    "cámara": {
+        "camara": 103,
+        "câmara": 5
+    },
+    "común": {
+        "comun": 107
+    },
+    "llegó": {
+        "llego": 103,
+        "llegò": 3,
+        "llegõ": 1
+    },
+    "colón": {
+        "colon": 106
+    },
+    "inglés": {
+        "ingles": 106
     },
     "ser": {
         "sér": 101,
         "cer": 4
     },
-    "oír": {
-        "oir": 102,
-        "vor": 3
+    "números": {
+        "numeros": 104,
+        "nùmeros": 1
     },
     "todavía": {
         "todavia": 103
+    },
+    "oír": {
+        "oir": 102
     },
     "don": {
         "dón": 45,
         "d": 57
     },
     "año": {
-        "ano": 101
-    },
-    "último": {
-        "ultimo": 101
+        "ano": 100
     },
     "habéis": {
         "habeis": 99,
         "haveis": 1
     },
-    "administración": {
-        "administracion": 100
+    "unión": {
+        "union": 100
     },
     "tanto": {
         "tánto": 99
@@ -536,20 +456,26 @@
         "ademas": 98,
         "ademàs": 1
     },
+    "religión": {
+        "religion": 77,
+        "relijion": 22
+    },
+    "administración": {
+        "administracion": 99
+    },
     "parecía": {
         "parecia": 97
     },
-    "tío": {
-        "tio": 94,
-        "tió": 1
+    "último": {
+        "ultimo": 95
     },
     "próximo": {
         "proximo": 92,
         "prosimo": 1
     },
-    "habría": {
-        "habria": 89,
-        "habris": 3
+    "tío": {
+        "tio": 91,
+        "tió": 1
     },
     "córdoba": {
         "cordoba": 86,
@@ -558,12 +484,6 @@
     },
     "jesuitas": {
         "jesuítas": 89
-    },
-    "regeneración": {
-        "regeneracion": 52,
-        "rejeneraciun": 3,
-        "rejeneracion": 33,
-        "regenerasion": 1
     },
     "espíritu": {
         "espiritu": 87,
@@ -574,47 +494,32 @@
         "habrà": 4,
         "habrå": 1
     },
-    "quedó": {
-        "quedo": 82,
-        "quedò": 3,
-        "quod6": 2
+    "habría": {
+        "habria": 84
     },
-    "cuál": {
-        "cual": 86,
-        "qual": 1
+    "quedó": {
+        "quedo": 81,
+        "quedò": 3
     },
     "título": {
-        "titulo": 84,
+        "titulo": 83,
         "tìtulo": 1
     },
     "aquella": {
-        "aquélla": 84,
-        "quella": 1
+        "aquélla": 84
+    },
+    "cuál": {
+        "cual": 83,
+        "qual": 1
     },
     "entró": {
         "entro": 77,
-        "entrò": 6,
+        "entrò": 5,
         "entrõ": 2
-    },
-    "he": {
-        "hé": 83
-    },
-    "ción": {
-        "cion": 82
     },
     "ocasión": {
         "ocasion": 80,
         "ocacion": 2
-    },
-    "compañía": {
-        "compañia": 38,
-        "compania": 30,
-        "companía": 12,
-        "compaui": 2
-    },
-    "lágrimas": {
-        "lagrimas": 80,
-        "lagrima": 1
     },
     "países": {
         "paises": 81
@@ -623,6 +528,12 @@
         "hácia": 78,
         "hacía": 2,
         "hàcia": 1
+    },
+    "he": {
+        "hé": 81
+    },
+    "ción": {
+        "cion": 80
     },
     "páginas": {
         "paginas": 70,
@@ -635,34 +546,33 @@
     "adiós": {
         "adios": 80
     },
-    "pasó": {
-        "paso": 75,
-        "pasò": 4
+    "regeneración": {
+        "regeneracion": 47,
+        "rejeneracion": 32,
+        "regenerasion": 1
     },
     "doña": {
         "dona": 78,
         "d": 1
     },
-    "que": {
-        "qué": 17,
-        "què": 4,
-        "sque": 1,
-        "qne": 2,
-        "qu0": 3,
-        "q": 52
+    "compañía": {
+        "compañia": 37,
+        "compania": 30,
+        "companía": 12
+    },
+    "lágrimas": {
+        "lagrimas": 78
     },
     "comisión": {
         "comision": 76,
         "comicion": 2
     },
-    "página": {
-        "pagina": 66,
-        "pågina": 2,
-        "pájina": 5,
-        "pajina": 4
-    },
     "propósito": {
         "proposito": 76
+    },
+    "pasó": {
+        "paso": 72,
+        "pasò": 4
     },
     "fui": {
         "fuí": 74,
@@ -672,15 +582,19 @@
         "desempeño": 71,
         "desempeno": 3
     },
+    "página": {
+        "pagina": 64,
+        "pågina": 2,
+        "pájina": 4,
+        "pajina": 4
+    },
     "difícil": {
         "dificil": 73
     },
-    "pérez": {
-        "perez": 72,
-        "peres": 1
-    },
-    "ramón": {
-        "ramon": 73
+    "que": {
+        "qué": 17,
+        "què": 4,
+        "q": 52
     },
     "término": {
         "termino": 72
@@ -697,13 +611,8 @@
         "dá": 70,
         "dà": 2
     },
-    "almacén": {
-        "almacen": 72
-    },
-    "son": {
-        "són": 64,
-        "con": 5,
-        "zon": 2
+    "ramón": {
+        "ramon": 72
     },
     "jesús": {
         "jesus": 70,
@@ -712,12 +621,17 @@
     "oído": {
         "oido": 71
     },
-    "hará": {
-        "hara": 66,
-        "harà": 5
+    "son": {
+        "són": 64,
+        "con": 4,
+        "zon": 2
     },
-    "sábado": {
-        "sabado": 71
+    "pérez": {
+        "perez": 69,
+        "peres": 1
+    },
+    "almacén": {
+        "almacen": 70
     },
     "gutiérrez": {
         "gutierrez": 69,
@@ -726,35 +640,30 @@
     "pies": {
         "piés": 69
     },
-    "popayán": {
-        "popayan": 69
-    },
-    "educación": {
-        "educacion": 69
-    },
     "dirección": {
         "direccion": 68,
         "direcsion": 1
     },
+    "hará": {
+        "hara": 64,
+        "harà": 5
+    },
+    "popayán": {
+        "popayan": 68
+    },
+    "educación": {
+        "educacion": 66
+    },
     "estas": {
         "éstas": 63,
         "estás": 1,
-        "eztaz": 1,
         "extas": 1
-    },
-    "última": {
-        "ultima": 64,
-        "ultimo": 2
     },
     "joven": {
         "jóven": 65
     },
-    "podrá": {
-        "podra": 62,
-        "podrà": 2
-    },
-    "napoleón": {
-        "napoleon": 64
+    "sábado": {
+        "sabado": 65
     },
     "género": {
         "genero": 51,
@@ -762,25 +671,12 @@
         "jénero": 6,
         "jenero": 6
     },
-    "frío": {
-        "frio": 61,
-        "friol": 2
-    },
-    "político": {
-        "politico": 63
-    },
-    "gómez": {
-        "gomez": 60,
-        "gomes": 3
-    },
-    "públicos": {
-        "publicos": 62
+    "podrá": {
+        "podra": 61,
+        "podrà": 2
     },
     "música": {
         "musica": 62
-    },
-    "podría": {
-        "podria": 62
     },
     "crédito": {
         "credito": 62
@@ -788,14 +684,21 @@
     "crítica": {
         "critica": 62
     },
-    "va": {
-        "vá": 43,
-        "ba": 17,
-        "bà": 1,
-        "bá": 1
+    "gómez": {
+        "gomez": 59,
+        "gomes": 3
+    },
+    "frío": {
+        "frio": 61
+    },
+    "podría": {
+        "podria": 61
     },
     "álbum": {
         "album": 61
+    },
+    "última": {
+        "ultima": 61
     },
     "miércoles": {
         "miercoles": 61
@@ -803,9 +706,14 @@
     "detrás": {
         "detras": 60
     },
-    "atrás": {
-        "atras": 59,
-        "atra1": 1
+    "político": {
+        "politico": 60
+    },
+    "napoleón": {
+        "napoleon": 60
+    },
+    "públicos": {
+        "publicos": 59
     },
     "reunión": {
         "reunion": 59
@@ -819,8 +727,11 @@
         "rejimen": 4,
         "réjimen": 4
     },
-    "filosofía": {
-        "filosofia": 59
+    "va": {
+        "vá": 40,
+        "ba": 17,
+        "bà": 1,
+        "bá": 1
     },
     "práctica": {
         "practica": 58
@@ -828,21 +739,11 @@
     "ríos": {
         "rios": 58
     },
-    "quería": {
-        "queria": 57,
-        "quertia": 1
-    },
-    "salón": {
-        "salon": 58
-    },
     "instrucción": {
         "instruccion": 58
     },
     "publicación": {
         "publicacion": 57
-    },
-    "áfrica": {
-        "africa": 57
     },
     "medellín": {
         "medellin": 57
@@ -854,99 +755,93 @@
         "merito": 55,
         "mêrito": 2
     },
-    "nicolás": {
-        "nicolas": 57
+    "filosofía": {
+        "filosofia": 57
     },
-    "continuará": {
-        "continuara": 48,
-        "continuarà": 5,
-        "continuarâ": 2,
-        "continuarã": 2
+    "áfrica": {
+        "africa": 56
     },
     "misión": {
         "mision": 54,
         "micion": 1,
         "mición": 1
     },
-    "santafé": {
-        "santafe": 56
+    "quería": {
+        "queria": 56
     },
-    "prisión": {
-        "prision": 50,
-        "prleton": 5,
-        "pricion": 1
+    "nicolás": {
+        "nicolas": 56
     },
-    "vélez": {
-        "velez": 55,
-        "véles": 1
+    "atrás": {
+        "atras": 55
     },
-    "méxico": {
-        "mexico": 24,
-        "méjico": 24,
-        "mejico": 8
-    },
-    "cuando": {
-        "cuándo": 3,
-        "quando": 53
-    },
-    "soy": {
-        "soi": 55,
-        "zoy": 1
-    },
-    "posición": {
-        "posicion": 54,
-        "posisión": 1
-    },
-    "simón": {
-        "simon": 55
+    "continuará": {
+        "continuara": 46,
+        "continuarà": 5,
+        "continuarâ": 2,
+        "continuarã": 2
     },
     "población": {
         "poblacion": 54
-    },
-    "reúne": {
-        "reune": 54
     },
     "acá": {
         "aca": 50,
         "acà": 4
     },
-    "garcía": {
-        "garcia": 54
+    "salón": {
+        "salon": 54
     },
-    "fe": {
-        "fé": 52,
-        "fè": 2
+    "vélez": {
+        "velez": 53,
+        "véles": 1
     },
-    "continuó": {
-        "continuo": 48,
-        "continuò": 5,
-        "continúo": 1
-    },
-    "colegio": {
-        "colégio": 1,
-        "colejio": 53
-    },
-    "jóvenes": {
-        "jovenes": 53
+    "simón": {
+        "simon": 54
     },
     "garantías": {
         "garantias": 53
     },
+    "posición": {
+        "posicion": 52,
+        "posisión": 1
+    },
+    "continuó": {
+        "continuo": 47,
+        "continuò": 5,
+        "continúo": 1
+    },
+    "méxico": {
+        "mexico": 24,
+        "méjico": 23,
+        "mejico": 6
+    },
+    "colegio": {
+        "colégio": 1,
+        "colejio": 52
+    },
+    "cuando": {
+        "cuándo": 3,
+        "quando": 50
+    },
+    "jóvenes": {
+        "jovenes": 52
+    },
+    "reúne": {
+        "reune": 52
+    },
+    "garcía": {
+        "garcia": 52
+    },
     "tomó": {
-        "tomo": 49,
+        "tomo": 48,
         "tomò": 4
-    },
-    "médico": {
-        "medico": 52
-    },
-    "división": {
-        "division": 52
     },
     "príncipe": {
         "principe": 52
     },
-    "resolución": {
-        "resolucion": 51
+    "soy": {
+        "soi": 51,
+        "zoy": 1
     },
     "martín": {
         "martin": 51
@@ -957,17 +852,18 @@
     "acción": {
         "accion": 51
     },
+    "fe": {
+        "fé": 49,
+        "fè": 2
+    },
     "fácil": {
         "facil": 51
     },
-    "ti": {
-        "tí": 51
+    "división": {
+        "division": 51
     },
-    "sección": {
-        "seccion": 51
-    },
-    "jeroglíficos": {
-        "geroglíficos": 51
+    "resolución": {
+        "resolucion": 50
     },
     "capítulo": {
         "capitulo": 50
@@ -981,47 +877,38 @@
     "folletín": {
         "folletin": 50
     },
-    "tomás": {
-        "tomas": 50
-    },
-    "ley": {
-        "lei": 50
+    "ti": {
+        "tí": 50
     },
     "ánimo": {
         "animo": 48,
         "ânimo": 1
     },
-    "civilización": {
-        "civilizacion": 49
+    "médico": {
+        "medico": 49
     },
     "contestó": {
         "contesto": 44,
         "contestò": 5
     },
-    "agustín": {
-        "agustin": 49
+    "sección": {
+        "seccion": 49
     },
-    "cuánto": {
-        "cuanto": 45,
-        "cuànto": 1,
-        "quanto": 3
-    },
-    "simpatías": {
-        "simpatias": 48
-    },
-    "llevó": {
-        "llevo": 46,
-        "llev6": 2
+    "jeroglíficos": {
+        "geroglíficos": 49
     },
     "pérdida": {
         "perdida": 48
     },
-    "dé": {
-        "de": 47,
-        "dè": 1
+    "santafé": {
+        "santafe": 48
     },
-    "transeúntes": {
-        "transeuntes": 48
+    "prisión": {
+        "prision": 47,
+        "pricion": 1
+    },
+    "civilización": {
+        "civilizacion": 48
     },
     "discusión": {
         "discusion": 44,
@@ -1031,92 +918,95 @@
     "tenían": {
         "tenian": 48
     },
-    "últimamente": {
-        "ultimamente": 48
+    "tomás": {
+        "tomas": 48
     },
     "continúa": {
         "continua": 48
+    },
+    "ley": {
+        "lei": 48
+    },
+    "simpatías": {
+        "simpatias": 47
     },
     "presentó": {
         "presento": 45,
         "presentò": 1,
         "precentó": 1
     },
-    "artículos": {
-        "articulos": 47
+    "transeúntes": {
+        "transeuntes": 47
     },
     "serafín": {
         "serafin": 46
     },
+    "llevó": {
+        "llevo": 46
+    },
     "límites": {
         "limites": 46
+    },
+    "dé": {
+        "de": 45,
+        "dè": 1
     },
     "heroica": {
         "heróica": 45,
         "heroíca": 1
     },
-    "niño": {
-        "nino": 46
-    },
-    "héroe": {
-        "heroe": 46
-    },
-    "quizá": {
-        "quiza": 33,
-        "quizà": 13
+    "agustín": {
+        "agustin": 46
     },
     "dejó": {
         "dejo": 45
     },
-    "débil": {
-        "debil": 45
+    "artículos": {
+        "articulos": 45
     },
-    "expresión": {
-        "expresion": 34,
-        "espresion": 11
+    "últimamente": {
+        "ultimamente": 45
     },
-    "pasión": {
-        "pasion": 43,
-        "pación": 1
+    "héroe": {
+        "heroe": 45
     },
-    "elección": {
-        "eleccion": 43,
-        "elesción": 1
+    "cuánto": {
+        "cuanto": 42,
+        "cuànto": 1,
+        "quanto": 2
+    },
+    "quizá": {
+        "quiza": 32,
+        "quizà": 13
+    },
+    "niño": {
+        "nino": 44
     },
     "órgano": {
         "organo": 44
     },
-    "ángeles": {
-        "angeles": 36,
-        "anjeles": 8
-    },
-    "catástrofe": {
-        "catastrofe": 44
+    "expresión": {
+        "expresion": 34,
+        "espresion": 10
     },
     "océano": {
         "oceano": 34,
         "oceáno": 10
     },
-    "fases": {
-        "faces": 44
-    },
     "septiembre": {
         "setiembre": 44
     },
-    "célebre": {
-        "celebre": 43
-    },
     "hacían": {
         "hacian": 43
-    },
-    "árbol": {
-        "arbol": 43
     },
     "contribuido": {
         "contribuído": 43
     },
     "ambición": {
         "ambicion": 43
+    },
+    "débil": {
+        "debil": 43
     },
     "función": {
         "funcion": 43
@@ -1136,44 +1026,38 @@
         "quereis": 42,
         "quereís": 1
     },
+    "ángeles": {
+        "angeles": 35,
+        "anjeles": 8
+    },
+    "fases": {
+        "faces": 43
+    },
     "prácticas": {
         "practicas": 42
+    },
+    "árbol": {
+        "arbol": 42
     },
     "manifestó": {
         "manifesto": 40,
         "manifestő": 2
     },
-    "energía": {
-        "energia": 32,
-        "enerjia": 4,
-        "enerjía": 6
+    "elección": {
+        "eleccion": 41,
+        "elesción": 1
     },
-    "murió": {
-        "murio": 37,
-        "muriò": 1,
-        "muri6": 2,
-        "mario": 2
-    },
-    "genio": {
-        "génio": 21,
-        "gênio": 1,
-        "geniò": 1,
-        "énio": 3,
-        "jenio": 13,
-        "jénio": 2,
-        "jènio": 1
+    "catástrofe": {
+        "catastrofe": 42
     },
     "recién": {
         "recien": 41
     },
-    "públicas": {
-        "publicas": 41
+    "pasión": {
+        "pasion": 41
     },
     "concluida": {
         "concluída": 41
-    },
-    "cárcel": {
-        "carcel": 41
     },
     "expedición": {
         "expedicion": 37,
@@ -1189,25 +1073,17 @@
     "debían": {
         "debian": 40
     },
+    "célebre": {
+        "celebre": 40
+    },
     "leído": {
         "leido": 40
     },
     "encontró": {
         "encontro": 40
     },
-    "heroico": {
-        "heróico": 40
-    },
     "cadáver": {
         "cadaver": 40
-    },
-    "martínez": {
-        "martinez": 39,
-        "martins": 1
-    },
-    "verá": {
-        "vera": 36,
-        "verà": 4
     },
     "preguntó": {
         "pregunto": 40
@@ -1216,12 +1092,13 @@
         "unico": 37,
         "ùnico": 3
     },
+    "energía": {
+        "energia": 31,
+        "enerjia": 4,
+        "enerjía": 5
+    },
     "aquellas": {
         "aquéllas": 40
-    },
-    "oposición": {
-        "oposicion": 38,
-        "opocicion": 2
     },
     "venía": {
         "venia": 40
@@ -1230,36 +1107,31 @@
         "exposicion": 37,
         "esposicion": 3
     },
-    "concluir": {
-        "concluír": 39
+    "martínez": {
+        "martinez": 39
     },
-    "lejos": {
-        "léjos": 38,
-        "lèjos": 1
+    "verá": {
+        "vera": 35,
+        "verà": 4
     },
-    "serían": {
-        "serian": 39
+    "oposición": {
+        "oposicion": 37,
+        "opocicion": 2
     },
     "crónica": {
         "cronica": 39
     },
-    "representación": {
-        "representacion": 39
-    },
-    "es": {
-        "és": 10,
-        "e": 3,
-        "ès": 2,
-        "éj": 2,
-        "les": 1,
-        "ex": 18,
-        "ez": 3
-    },
-    "gente": {
-        "jente": 39
+    "concluir": {
+        "concluír": 38
     },
     "ha": {
         "há": 38
+    },
+    "heroico": {
+        "heróico": 38
+    },
+    "públicas": {
+        "publicas": 38
     },
     "relación": {
         "relacion": 38
@@ -1267,49 +1139,40 @@
     "crítico": {
         "critico": 38
     },
-    "marqués": {
-        "marques": 37,
-        "marquez": 1
-    },
     "boyacá": {
         "boyaca": 38
     },
-    "tal": {
-        "tál": 38
+    "lejos": {
+        "léjos": 37,
+        "lèjos": 1
+    },
+    "genio": {
+        "génio": 21,
+        "gênio": 1,
+        "geniò": 1,
+        "jenio": 12,
+        "jénio": 2,
+        "jènio": 1
+    },
+    "gente": {
+        "jente": 38
     },
     "línea": {
         "linea": 37
     },
-    "profesión": {
-        "profesion": 36,
-        "profeción": 1
+    "marqués": {
+        "marques": 36,
+        "marquez": 1
     },
-    "perú": {
-        "peru": 33,
-        "perù": 3,
-        "perű": 1
+    "murió": {
+        "murio": 36,
+        "muriò": 1
+    },
+    "representación": {
+        "representacion": 37
     },
     "humorístico": {
         "humoristico": 37
-    },
-    "cual": {
-        "cuál": 15,
-        "qual": 22
-    },
-    "la": {
-        "lá": 3,
-        "là": 1,
-        "lap": 1,
-        "a": 2,
-        "l": 3,
-        "lu": 4,
-        "dt": 4,
-        "ja": 3,
-        "is": 4,
-        "in": 4,
-        "relith": 2,
-        "te": 3,
-        "rala": 3
     },
     "jardín": {
         "jardin": 36
@@ -1320,59 +1183,43 @@
     "marroquín": {
         "marroquin": 36
     },
-    "fundó": {
-        "fundo": 36
-    },
-    "víctima": {
-        "victima": 36
-    },
     "través": {
         "traves": 35,
         "travez": 1
     },
-    "ve": {
-        "vé": 35,
-        "be": 1
-    },
     "fácilmente": {
         "facilmente": 35
     },
-    "señora": {
-        "senora": 35
+    "perú": {
+        "peru": 31,
+        "perù": 3,
+        "perű": 1
     },
-    "víctimas": {
-        "victimas": 34,
-        "fictimas": 1
-    },
-    "traición": {
-        "traicion": 35
+    "ve": {
+        "vé": 34,
+        "be": 1
     },
     "alemán": {
         "aleman": 35
     },
-    "conocía": {
-        "conocia": 35
-    },
-    "confusión": {
-        "confusion": 33,
-        "confucion": 2
-    },
-    "mefistófeles": {
-        "mefistofeles": 35
-    },
-    "papá": {
-        "papa": 28,
-        "papà": 5,
-        "papat": 2
-    },
-    "mamá": {
-        "mama": 35
+    "serían": {
+        "serian": 35
     },
     "geografía": {
         "geografia": 35
     },
     "podían": {
         "podian": 34
+    },
+    "profesión": {
+        "profesion": 33,
+        "profeción": 1
+    },
+    "cárcel": {
+        "carcel": 34
+    },
+    "fundó": {
+        "fundo": 34
     },
     "orden": {
         "órden": 31,
@@ -1382,19 +1229,17 @@
     "fría": {
         "fria": 34
     },
+    "señora": {
+        "senora": 34
+    },
     "álvarez": {
         "alvarez": 34
     },
-    "vargas": {
-        "várgas": 34
+    "mefistófeles": {
+        "mefistofeles": 34
     },
     "águila": {
         "aguila": 34
-    },
-    "últimos": {
-        "ultimos": 32,
-        "ùltimos": 1,
-        "ultimo": 1
     },
     "transcurrido": {
         "trascurrido": 34
@@ -1405,21 +1250,30 @@
     "destruido": {
         "destruído": 33
     },
-    "impresión": {
-        "impresion": 33
+    "víctima": {
+        "victima": 33
+    },
+    "víctimas": {
+        "victimas": 33
+    },
+    "traición": {
+        "traicion": 33
     },
     "cóndor": {
         "condor": 33
     },
+    "conocía": {
+        "conocia": 33
+    },
+    "confusión": {
+        "confusion": 31,
+        "confucion": 2
+    },
     "dúo": {
         "duo": 33
     },
-    "julián": {
-        "julian": 30,
-        "tulián": 3
-    },
-    "cuán": {
-        "cuan": 33
+    "vargas": {
+        "várgas": 33
     },
     "líneas": {
         "lineas": 33
@@ -1431,17 +1285,9 @@
     "gaitán": {
         "gaitan": 33
     },
-    "ópera": {
-        "opera": 33
-    },
-    "se": {
-        "sé": 1,
-        "w": 4,
-        "eu": 5,
-        "ba": 2,
-        "ce": 14,
-        "ze": 6,
-        "xe": 1
+    "últimos": {
+        "ultimos": 32,
+        "ùltimos": 1
     },
     "construida": {
         "construída": 32
@@ -1464,25 +1310,24 @@
         "seran": 31,
         "seràn": 1
     },
-    "mandó": {
-        "mando": 31,
-        "mandò": 1
-    },
     "hábil": {
         "habil": 32
     },
     "redacción": {
         "redaccion": 32
     },
-    "vergüenza": {
-        "verguenza": 32
-    },
-    "dirá": {
-        "dira": 32
+    "tal": {
+        "tál": 32
     },
     "imaginación": {
         "imaginacion": 25,
         "imajinacion": 7
+    },
+    "es": {
+        "és": 10,
+        "ès": 2,
+        "ex": 17,
+        "ez": 3
     },
     "dará": {
         "dara": 29,
@@ -1497,51 +1342,37 @@
     "contribuir": {
         "contribuír": 31
     },
+    "cuán": {
+        "cuan": 31
+    },
     "lógica": {
         "logica": 20,
         "lójica": 4,
         "lòjica": 4,
         "lojica": 3
     },
-    "el": {
-        "él": 6,
-        "e": 1,
-        "èl": 3,
-        "1": 1,
-        "01": 3,
-        "27": 2,
-        "of": 3,
-        "in": 2,
-        "6": 1,
-        "s": 1,
-        "al": 3,
-        "lo": 2,
-        "f3": 2,
-        "de el": 1
+    "ópera": {
+        "opera": 31
     },
-    "voy": {
-        "voi": 27,
-        "boy": 3,
-        "boi": 1
+    "papá": {
+        "papa": 26,
+        "papà": 5
     },
-    "publicó": {
-        "publico": 30
+    "mandó": {
+        "mando": 29,
+        "mandò": 1
     },
-    "sáenz": {
-        "saenz": 29,
-        "gas": 1
+    "impresión": {
+        "impresion": 30
     },
     "creído": {
         "creido": 30
     },
-    "teníamos": {
-        "teniamos": 30
-    },
-    "código": {
-        "codigo": 30
-    },
     "habrán": {
         "habran": 30
+    },
+    "dirá": {
+        "dira": 30
     },
     "cuántos": {
         "cuantos": 28,
@@ -1567,30 +1398,32 @@
     "míos": {
         "mios": 29
     },
-    "simpatía": {
-        "simpatia": 29
-    },
     "héroes": {
         "heroes": 29
     },
     "árboles": {
         "arboles": 29
     },
+    "sáenz": {
+        "saenz": 29
+    },
     "mártir": {
         "martir": 29
     },
-    "cariño": {
-        "carino": 27,
-        "clien": 2
-    },
     "balcón": {
         "balcon": 29
+    },
+    "código": {
+        "codigo": 29
     },
     "edición": {
         "edicion": 29
     },
     "vías": {
         "vias": 29
+    },
+    "julián": {
+        "julian": 29
     },
     "únicamente": {
         "unicamente": 29
@@ -1601,23 +1434,23 @@
     "sombrío": {
         "sombrio": 29
     },
+    "mamá": {
+        "mama": 29
+    },
     "di": {
         "dí": 29
     },
     "galán": {
         "galan": 29
     },
-    "de": {
-        "dé": 2,
-        "dè": 3,
-        "le": 3,
-        "llia": 4,
-        "tde": 2,
-        "2de": 2,
-        "do": 13
+    "cual": {
+        "cuál": 9,
+        "qual": 20
     },
-    "gentes": {
-        "jentes": 29
+    "voy": {
+        "voi": 26,
+        "boy": 2,
+        "boi": 1
     },
     "era": {
         "éra": 28
@@ -1627,6 +1460,9 @@
     },
     "pólvora": {
         "polvora": 28
+    },
+    "simpatía": {
+        "simpatia": 28
     },
     "daría": {
         "daria": 28
@@ -1640,11 +1476,14 @@
     "construir": {
         "construír": 28
     },
+    "vergüenza": {
+        "verguenza": 28
+    },
     "rincón": {
         "rincon": 28
     },
-    "organización": {
-        "organizacion": 28
+    "teníamos": {
+        "teniamos": 28
     },
     "guía": {
         "guia": 28
@@ -1667,24 +1506,12 @@
     "máquina": {
         "maquina": 28
     },
-    "señores": {
-        "senores": 28
-    },
-    "pabellón": {
-        "pabellon": 23,
-        "pavellon": 5
-    },
     "caída": {
         "caida": 28
     },
     "próxima": {
         "proxima": 27,
         "prosima": 1
-    },
-    "cámaras": {
-        "camaras": 22,
-        "câmaras": 5,
-        "camarna": 1
     },
     "colaboración": {
         "colaboracion": 28
@@ -1693,6 +1520,9 @@
         "sanchez": 24,
         "sanches": 3,
         "sánches": 1
+    },
+    "publicó": {
+        "publico": 27
     },
     "admiración": {
         "admiracion": 27
@@ -1707,20 +1537,11 @@
     "tendrán": {
         "tendran": 27
     },
-    "disposición": {
-        "disposicion": 26,
-        "dispocicion": 1
-    },
     "egoísmo": {
         "egoismo": 27
     },
     "tantas": {
         "tántas": 27
-    },
-    "media": {
-        "média": 22,
-        "liu": 4,
-        "medía": 1
     },
     "heroísmo": {
         "heroismo": 27
@@ -1738,19 +1559,8 @@
         "señoria": 21,
         "senoria": 6
     },
-    "terminó": {
-        "termino": 24,
-        "termin6": 3
-    },
-    "sabéis": {
-        "sabeis": 27
-    },
     "pacífico": {
         "pacifico": 27
-    },
-    "específico": {
-        "especifico": 26,
-        "especific": 1
     },
     "últimas": {
         "ultimas": 27
@@ -1758,8 +1568,14 @@
     "nació": {
         "nacio": 27
     },
+    "gentes": {
+        "jentes": 27
+    },
     "caído": {
         "caido": 26
+    },
+    "organización": {
+        "organizacion": 26
     },
     "posesión": {
         "posesion": 25,
@@ -1771,12 +1587,15 @@
     "proporción": {
         "proporcion": 26
     },
-    "cuándo": {
-        "cuando": 25,
-        "quando": 1
-    },
     "íntima": {
         "intima": 26
+    },
+    "señores": {
+        "senores": 26
+    },
+    "pabellón": {
+        "pabellon": 22,
+        "pavellon": 4
     },
     "bárbara": {
         "barbara": 26
@@ -1789,9 +1608,12 @@
         "prógimo": 4,
         "progimo": 2
     },
-    "construcción": {
-        "construccion": 24,
-        "coustruccion": 2
+    "cámaras": {
+        "camaras": 21,
+        "câmaras": 5
+    },
+    "sabéis": {
+        "sabeis": 26
     },
     "útil": {
         "util": 23,
@@ -1800,27 +1622,12 @@
     "votación": {
         "votacion": 26
     },
-    "cuanto": {
-        "cuánto": 5,
-        "quanto": 21
-    },
-    "exclamó": {
-        "exclamo": 5,
-        "esclamó": 12,
-        "esclamo": 9
-    },
-    "del": {
-        "de": 3,
-        "do": 3,
-        "cel": 3,
-        "de el": 17
-    },
-    "estoy": {
-        "estoi": 26
-    },
     "usted": {
         "usté": 23,
         "ud": 3
+    },
+    "cariño": {
+        "carino": 25
     },
     "vivía": {
         "vivia": 25
@@ -1828,25 +1635,26 @@
     "carbón": {
         "carbon": 25
     },
-    "análisis": {
-        "analisis": 25
+    "disposición": {
+        "disposicion": 24,
+        "dispocicion": 1
     },
-    "perdón": {
-        "perdon": 25
-    },
-    "cayó": {
-        "cayo": 23,
-        "cay6": 2
-    },
-    "café": {
-        "cafe": 23,
-        "cafè": 2
+    "cuándo": {
+        "cuando": 24,
+        "quando": 1
     },
     "jiménez": {
         "jimenez": 25
     },
     "españa": {
         "espana": 25
+    },
+    "específico": {
+        "especifico": 25
+    },
+    "cuanto": {
+        "cuánto": 5,
+        "quanto": 20
     },
     "petróleo": {
         "petroleo": 25
@@ -1875,14 +1683,8 @@
         "decicion": 1,
         "desicion": 1
     },
-    "políticos": {
-        "politicos": 24
-    },
     "guzmán": {
         "guzman": 24
-    },
-    "berlín": {
-        "berlin": 24
     },
     "habíamos": {
         "habiamos": 24
@@ -1902,11 +1704,6 @@
     "cónsul": {
         "consul": 24
     },
-    "pues": {
-        "pués": 20,
-        "pnes": 2,
-        "pure": 2
-    },
     "estaría": {
         "estaria": 23,
         "extaria": 1
@@ -1917,6 +1714,9 @@
     "quitrín": {
         "quitrin": 24
     },
+    "terminó": {
+        "termino": 24
+    },
     "huir": {
         "huír": 24
     },
@@ -1924,19 +1724,11 @@
         "explicacion": 18,
         "esplicacion": 6
     },
-    "bastón": {
-        "baston": 24
-    },
     "rápidamente": {
         "rapidamente": 24
     },
-    "repúblicas": {
-        "republicas": 23,
-        "republicesa": 1
-    },
-    "cañón": {
-        "canon": 11,
-        "cañon": 13
+    "estoy": {
+        "estoi": 24
     },
     "transparente": {
         "trasparente": 24
@@ -1960,6 +1752,9 @@
     "prócer": {
         "procer": 23
     },
+    "berlín": {
+        "berlin": 23
+    },
     "matachín": {
         "matachin": 23
     },
@@ -1970,11 +1765,18 @@
     "garantía": {
         "garantia": 23
     },
+    "perdón": {
+        "perdon": 23
+    },
     "periódicos": {
         "periodicos": 23
     },
     "tesorería": {
         "tesoreria": 23
+    },
+    "media": {
+        "média": 22,
+        "medía": 1
     },
     "baldón": {
         "baldon": 23
@@ -1985,21 +1787,18 @@
     "huracán": {
         "huracan": 23
     },
-    "óleo": {
-        "oleo": 21,
-        "olco": 2
-    },
-    "volvió": {
-        "volvio": 23
+    "cayó": {
+        "cayo": 23
     },
     "fórmula": {
         "formula": 23
     },
+    "café": {
+        "cafe": 21,
+        "cafè": 2
+    },
     "biografía": {
         "biografia": 23
-    },
-    "lección": {
-        "leccion": 23
     },
     "destruir": {
         "destruír": 23
@@ -2015,9 +1814,8 @@
         "escandalo": 21,
         "escândalo": 2
     },
-    "bien": {
-        "bién": 21,
-        "vien": 2
+    "construcción": {
+        "construccion": 23
     },
     "andrés": {
         "andres": 23
@@ -2028,23 +1826,14 @@
     "cúcuta": {
         "cucuta": 23
     },
-    "excepción": {
-        "excepcion": 18,
-        "excopcion": 2,
-        "escepcion": 3
+    "bastón": {
+        "baston": 23
     },
-    "herrán": {
-        "herran": 23
-    },
-    "lópez": {
-        "lopez": 22,
-        "lopes": 1
+    "repúblicas": {
+        "republicas": 23
     },
     "sazón": {
         "sazon": 23
-    },
-    "traje": {
-        "trage": 23
     },
     "inteligencia": {
         "intelijencia": 23
@@ -2064,9 +1853,6 @@
     "magnífico": {
         "magnifico": 22
     },
-    "debió": {
-        "debio": 22
-    },
     "extensión": {
         "extension": 18,
         "extención": 2,
@@ -2075,28 +1861,21 @@
     "júpiter": {
         "jupiter": 22
     },
-    "pequeño": {
-        "pequeno": 22
-    },
     "región": {
         "region": 19,
         "rejion": 3
     },
+    "volvió": {
+        "volvio": 22
+    },
     "raíces": {
         "raices": 22
-    },
-    "gritó": {
-        "grito": 17,
-        "gritò": 5
     },
     "haría": {
         "haria": 22
     },
     "reír": {
         "reir": 22
-    },
-    "diría": {
-        "diria": 22
     },
     "física": {
         "fisica": 22
@@ -2119,11 +1898,6 @@
     "fábrica": {
         "fabrica": 22
     },
-    "declaró": {
-        "declaro": 19,
-        "declarò": 1,
-        "declar6": 2
-    },
     "echó": {
         "echo": 21,
         "echõ": 1
@@ -2131,44 +1905,38 @@
     "moderación": {
         "moderacion": 22
     },
-    "compasión": {
-        "compasion": 18,
-        "compación": 2,
-        "compacion": 2
-    },
     "estación": {
         "estacion": 22
+    },
+    "herrán": {
+        "herran": 22
     },
     "núm": {
         "num": 22
     },
-    "para": {
-        "pára": 11,
-        "pará": 3,
-        "pura": 3,
-        "pala": 3,
-        "pary": 2
+    "se": {
+        "sé": 1,
+        "ce": 14,
+        "ze": 6,
+        "xe": 1
     },
-    "los": {
-        "lós": 5,
-        "gallin": 2,
-        "108": 3,
-        "la": 2,
-        "notiles": 3,
-        "lox": 5,
-        "loz": 1,
-        "loc": 1
-    },
-    "ay": {
-        "jay": 1,
-        "ray": 1,
-        "ai": 20
+    "traje": {
+        "trage": 22
     },
     "patíbulo": {
         "patibulo": 21
     },
+    "políticos": {
+        "politicos": 21
+    },
     "invasión": {
         "invasion": 21
+    },
+    "debió": {
+        "debio": 21
+    },
+    "análisis": {
+        "analisis": 21
     },
     "entregó": {
         "entrego": 21
@@ -2182,17 +1950,17 @@
     "cadáveres": {
         "cadaveres": 21
     },
+    "pequeño": {
+        "pequeno": 21
+    },
     "confín": {
         "confin": 21
-    },
-    "éxito": {
-        "exito": 21
     },
     "ríe": {
         "rie": 21
     },
-    "íntimo": {
-        "intimo": 21
+    "lección": {
+        "leccion": 21
     },
     "visión": {
         "vision": 21
@@ -2204,19 +1972,8 @@
         "habiendose": 19,
         "habièndose": 2
     },
-    "útiles": {
-        "utiles": 20,
-        "tiles": 1
-    },
-    "cía": {
-        "cia": 20,
-        "c": 1
-    },
     "próceres": {
         "proceres": 21
-    },
-    "teléfono": {
-        "telefono": 21
     },
     "economía": {
         "economia": 21
@@ -2225,14 +1982,23 @@
         "virgenes": 18,
         "virjenes": 3
     },
+    "excepción": {
+        "excepcion": 18,
+        "escepcion": 3
+    },
     "filósofo": {
         "filosofo": 21
     },
     "páramo": {
         "paramo": 21
     },
-    "histórica": {
-        "historica": 21
+    "lópez": {
+        "lopez": 20,
+        "lopes": 1
+    },
+    "cañón": {
+        "canon": 8,
+        "cañon": 13
     },
     "logró": {
         "logro": 20
@@ -2246,9 +2012,6 @@
     "víveres": {
         "viveres": 20
     },
-    "políticas": {
-        "politicas": 20
-    },
     "pensó": {
         "penso": 20
     },
@@ -2259,8 +2022,17 @@
     "colección": {
         "coleccion": 20
     },
+    "éxito": {
+        "exito": 20
+    },
     "constituida": {
         "constituída": 20
+    },
+    "pues": {
+        "pués": 20
+    },
+    "diría": {
+        "diria": 20
     },
     "transeúnte": {
         "transeunte": 20
@@ -2274,12 +2046,6 @@
         "estê": 1,
         "estè": 1,
         "exté": 1
-    },
-    "resolvió": {
-        "resolvio": 16,
-        "resolviò": 1,
-        "resolvi6": 2,
-        "recolvio": 1
     },
     "vendrá": {
         "vendra": 20
@@ -2296,8 +2062,19 @@
     "estén": {
         "esten": 20
     },
+    "cía": {
+        "cia": 20
+    },
     "composición": {
         "composicion": 20
+    },
+    "bien": {
+        "bién": 19,
+        "vien": 1
+    },
+    "declaró": {
+        "declaro": 19,
+        "declarò": 1
     },
     "mártires": {
         "martires": 20
@@ -2305,43 +2082,27 @@
     "tendría": {
         "tendria": 20
     },
+    "compasión": {
+        "compasion": 16,
+        "compación": 2,
+        "compacion": 2
+    },
     "monarquía": {
         "monarquia": 20
-    },
-    "tranvía": {
-        "tranvia": 20
-    },
-    "publíquese": {
-        "publiquese": 17,
-        "publiqueso": 3
     },
     "librería": {
         "libreria": 20
     },
+    "histórica": {
+        "historica": 20
+    },
     "píldoras": {
         "pildoras": 20
     },
-    "sus": {
-        "aus": 10,
-        "sús": 1,
-        "ioa": 3,
-        "sux": 2,
-        "cus": 2,
-        "xus": 1,
-        "zus": 1
-    },
-    "diez": {
-        "dier": 4,
-        "dies": 16
-    },
-    "su": {
-        "şu": 1,
-        "sù": 2,
-        "u": 1,
-        "imenso": 1,
-        "zu": 12,
-        "cu": 2,
-        "xu": 1
+    "exclamó": {
+        "exclamo": 5,
+        "esclamó": 9,
+        "esclamo": 6
     },
     "expiró": {
         "expiro": 3,
@@ -2351,14 +2112,27 @@
     "pedía": {
         "pedia": 19
     },
+    "políticas": {
+        "politicas": 19
+    },
     "harán": {
         "haran": 19
     },
     "envío": {
         "envio": 19
     },
+    "óleo": {
+        "oleo": 19
+    },
     "creía": {
         "creia": 19
+    },
+    "íntimo": {
+        "intimo": 19
+    },
+    "gritó": {
+        "grito": 15,
+        "gritò": 4
     },
     "gálvez": {
         "galvez": 19
@@ -2366,19 +2140,14 @@
     "apenas": {
         "apénas": 19
     },
-    "siguió": {
-        "siguio": 15,
-        "siguiò": 2,
-        "sigui6": 2
-    },
     "diversión": {
         "diversion": 19
     },
+    "útiles": {
+        "utiles": 19
+    },
     "césar": {
         "cesar": 19
-    },
-    "producción": {
-        "produccion": 19
     },
     "armonía": {
         "armonia": 19
@@ -2390,29 +2159,17 @@
     "daño": {
         "dano": 19
     },
-    "cálculo": {
-        "calculo": 19
-    },
     "facatativá": {
         "facatativa": 19
     },
-    "podrán": {
-        "podran": 19
+    "teléfono": {
+        "telefono": 19
     },
     "abnegación": {
         "abnegacion": 19
     },
     "ría": {
         "ria": 19
-    },
-    "pío": {
-        "pio": 19
-    },
-    "leyó": {
-        "leyo": 15,
-        "leyò": 1,
-        "leyő": 1,
-        "ley6": 2
     },
     "increíble": {
         "increible": 19
@@ -2440,13 +2197,13 @@
     "príncipes": {
         "principes": 19
     },
-    "garcés": {
-        "garces": 19
-    },
     "gonzález": {
         "gonzalez": 16,
         "gonzales": 2,
         "gonzáles": 1
+    },
+    "ajeno": {
+        "ageno": 19
     },
     "suscriptores": {
         "suscritores": 19
@@ -2472,8 +2229,10 @@
     "redención": {
         "redencion": 18
     },
-    "asociación": {
-        "asociacion": 18
+    "resolvió": {
+        "resolvio": 16,
+        "resolviò": 1,
+        "recolvio": 1
     },
     "títulos": {
         "titulos": 18
@@ -2481,62 +2240,34 @@
     "oración": {
         "oracion": 18
     },
-    "moisés": {
-        "moises": 18
+    "cálculo": {
+        "calculo": 18
     },
     "quizás": {
         "quizas": 17,
         "quisas": 1
     },
-    "diplomático": {
-        "diplomatico": 17,
-        "diplomàtico": 1
-    },
     "máquinas": {
         "maquinas": 18
     },
-    "barón": {
-        "baron": 18
+    "podrán": {
+        "podran": 18
     },
     "suscripción": {
         "suscripcion": 18
+    },
+    "tranvía": {
+        "tranvia": 18
     },
     "cristóbal": {
         "cristobal": 16,
         "cristoval": 2
     },
-    "afición": {
-        "aficion": 18
-    },
-    "confesión": {
-        "confesion": 18
-    },
     "clarín": {
         "clarin": 18
     },
-    "en": {
-        "én": 8,
-        "1b": 2,
-        "u": 2,
-        "on": 5,
-        "èn": 1
-    },
-    "yo": {
-        "yó": 10,
-        "o": 1,
-        "yof": 1,
-        "io": 6
-    },
-    "origen": {
-        "orígen": 2,
-        "orijen": 14,
-        "oríjen": 2
-    },
     "dirige": {
         "dirije": 18
-    },
-    "ajeno": {
-        "ageno": 18
     },
     "reino": {
         "reyno": 18
@@ -2569,19 +2300,28 @@
     "constituido": {
         "constituído": 17
     },
+    "asociación": {
+        "asociacion": 17
+    },
     "maíz": {
         "maiz": 14,
         "mais": 3
     },
+    "siguió": {
+        "siguio": 15,
+        "siguiò": 2
+    },
     "sueño": {
         "sueno": 17
     },
-    "irá": {
-        "ira": 16,
-        "irà": 1
-    },
     "manía": {
         "mania": 17
+    },
+    "moisés": {
+        "moises": 17
+    },
+    "producción": {
+        "produccion": 17
     },
     "habló": {
         "hablo": 12,
@@ -2596,8 +2336,9 @@
     "vacío": {
         "vacio": 17
     },
-    "estómago": {
-        "estomago": 17
+    "diplomático": {
+        "diplomatico": 16,
+        "diplomàtico": 1
     },
     "lúgubre": {
         "lugubre": 17
@@ -2614,14 +2355,11 @@
     "veían": {
         "veian": 17
     },
-    "méndez": {
-        "mendez": 17
-    },
-    "dirán": {
-        "diran": 17
-    },
     "sabio": {
         "sábio": 17
+    },
+    "barón": {
+        "baron": 17
     },
     "artística": {
         "artistica": 17
@@ -2629,11 +2367,13 @@
     "sentí": {
         "senti": 17
     },
+    "leyó": {
+        "leyo": 15,
+        "leyò": 1,
+        "leyő": 1
+    },
     "imitación": {
         "imitacion": 17
-    },
-    "creación": {
-        "creacion": 17
     },
     "corporación": {
         "corporacion": 17
@@ -2645,8 +2385,8 @@
         "seguirà": 9,
         "seguira": 8
     },
-    "cuántas": {
-        "cuantas": 17
+    "publíquese": {
+        "publiquese": 17
     },
     "legación": {
         "legacion": 17
@@ -2657,32 +2397,18 @@
     "baúles": {
         "baules": 17
     },
+    "confesión": {
+        "confesion": 17
+    },
     "darío": {
         "dario": 17
-    },
-    "enérgico": {
-        "energico": 12,
-        "énérgico": 1,
-        "enerjico": 3,
-        "enérjico": 1
-    },
-    "si": {
-        "sí": 4,
-        "sì": 2,
-        "sı": 3,
-        "ci": 5,
-        "xi": 3
     },
     "velásquez": {
         "velasquez": 16,
         "velasques": 1
     },
-    "mi": {
-        "mï": 1,
-        "mí": 4,
-        "a": 3,
-        "in": 5,
-        "my": 4
+    "del": {
+        "de el": 17
     },
     "antipolítico": {
         "antipolitico": 16
@@ -2708,9 +2434,6 @@
     },
     "prohíbe": {
         "prohibe": 16
-    },
-    "ilusión": {
-        "ilusion": 16
     },
     "inútiles": {
         "inutiles": 16
@@ -2738,6 +2461,9 @@
         "publicara": 15,
         "publicarà": 1
     },
+    "méndez": {
+        "mendez": 16
+    },
     "compás": {
         "compas": 16
     },
@@ -2746,6 +2472,9 @@
     },
     "señorita": {
         "senorita": 16
+    },
+    "dirán": {
+        "diran": 16
     },
     "obligación": {
         "obligacion": 16
@@ -2761,12 +2490,18 @@
     "cuáles": {
         "cuales": 16
     },
+    "creación": {
+        "creacion": 16
+    },
     "causó": {
         "causo": 13,
         "causò": 3
     },
     "félix": {
         "felix": 16
+    },
+    "cuántas": {
+        "cuantas": 16
     },
     "legislación": {
         "legislacion": 11,
@@ -2794,12 +2529,8 @@
     "práctico": {
         "practico": 16
     },
-    "montón": {
-        "monton": 13,
-        "montob": 3
-    },
-    "concepción": {
-        "concepcion": 16
+    "afición": {
+        "aficion": 16
     },
     "gobernación": {
         "gobernacion": 16
@@ -2816,19 +2547,30 @@
         "niquel": 4,
         "nikel": 12
     },
-    "católica": {
-        "catolica": 14,
-        "cat6lica": 2
+    "yo": {
+        "yó": 10,
+        "io": 6
     },
     "señorías": {
         "señorias": 7,
         "senorias": 7,
         "senorías": 2
     },
+    "origen": {
+        "orígen": 2,
+        "orijen": 12,
+        "oríjen": 2
+    },
     "dieciséis": {
         "dieciseis": 1,
         "dieziseis": 1,
         "diez y seis": 14
+    },
+    "su": {
+        "şu": 1,
+        "sù": 2,
+        "zu": 11,
+        "cu": 2
     },
     "transmitir": {
         "trasmitir": 16
@@ -2838,6 +2580,9 @@
     },
     "institución": {
         "institucion": 15
+    },
+    "ilusión": {
+        "ilusion": 15
     },
     "pérdidas": {
         "perdidas": 15
@@ -2884,8 +2629,8 @@
     "tránsito": {
         "transito": 15
     },
-    "víctor": {
-        "victor": 15
+    "pío": {
+        "pio": 15
     },
     "entonces": {
         "entónces": 15
@@ -2898,10 +2643,6 @@
     },
     "mármol": {
         "marmol": 15
-    },
-    "regresó": {
-        "regreso": 13,
-        "regres6": 2
     },
     "veintidós": {
         "veintidos": 15
@@ -2921,19 +2662,12 @@
         "valia": 13,
         "balia": 2
     },
-    "mató": {
-        "mato": 13,
-        "mat6": 2
-    },
     "unánime": {
         "unanime": 15
     },
     "sabrá": {
         "sabra": 12,
         "sabrà": 3
-    },
-    "querían": {
-        "querian": 15
     },
     "habríamos": {
         "habriamos": 15
@@ -2943,6 +2677,9 @@
     },
     "estudió": {
         "estudio": 15
+    },
+    "concepción": {
+        "concepcion": 15
     },
     "emigración": {
         "emigracion": 15
@@ -2956,13 +2693,11 @@
     "economías": {
         "economias": 15
     },
-    "miró": {
-        "miro": 14,
-        "mirò": 1
-    },
-    "zipaquirá": {
-        "zipaquira": 14,
-        "zipaquirà": 1
+    "si": {
+        "sí": 4,
+        "sì": 2,
+        "ci": 6,
+        "xi": 3
     },
     "cuánta": {
         "cuanta": 15
@@ -2984,6 +2719,10 @@
     "nuestro": {
         "nuéstro": 14
     },
+    "irá": {
+        "ira": 13,
+        "irà": 1
+    },
     "porción": {
         "porcion": 14
     },
@@ -3000,8 +2739,8 @@
     "corrupción": {
         "corrupcion": 14
     },
-    "motín": {
-        "motin": 14
+    "estómago": {
+        "estomago": 14
     },
     "mías": {
         "mias": 13,
@@ -3009,9 +2748,6 @@
     },
     "veréis": {
         "vereis": 14
-    },
-    "portón": {
-        "porton": 14
     },
     "cómplices": {
         "complices": 14
@@ -3027,6 +2763,9 @@
     },
     "sirvió": {
         "sirvio": 14
+    },
+    "víctor": {
+        "victor": 14
     },
     "haré": {
         "hare": 13,
@@ -3047,23 +2786,12 @@
     "índole": {
         "indole": 14
     },
-    "sentía": {
-        "sentia": 14
-    },
-    "procesión": {
-        "procesion": 14
-    },
     "perfección": {
         "perfeccion": 13,
         "perfecsion": 1
     },
     "reputación": {
         "reputacion": 14
-    },
-    "imagen": {
-        "imágen": 8,
-        "imajen": 4,
-        "imájen": 2
     },
     "símbolo": {
         "simbolo": 13,
@@ -3077,6 +2805,9 @@
     },
     "obsequió": {
         "obsequio": 14
+    },
+    "querían": {
+        "querian": 14
     },
     "arbeláez": {
         "arbelaez": 14
@@ -3096,13 +2827,6 @@
     "portugués": {
         "portugues": 14
     },
-    "dígame": {
-        "digame": 14
-    },
-    "levantó": {
-        "levanto": 13,
-        "levantõ": 1
-    },
     "ramírez": {
         "ramirez": 14
     },
@@ -3110,18 +2834,14 @@
         "hernandez": 13,
         "hernandes": 1
     },
+    "enérgico": {
+        "energico": 9,
+        "énérgico": 1,
+        "enerjico": 3,
+        "enérjico": 1
+    },
     "comunión": {
         "comunion": 14
-    },
-    "depósito": {
-        "deposito": 14
-    },
-    "sino": {
-        "sinó": 6,
-        "síno": 4,
-        "sinò": 1,
-        "sinő": 2,
-        "cino": 1
     },
     "porfía": {
         "porfia": 14
@@ -3129,17 +2849,11 @@
     "usías": {
         "usias": 14
     },
-    "con": {
-        "cón": 4,
-        "1con": 1,
-        "contera": 1,
-        "co": 4,
-        "son": 2,
-        "qon": 2
+    "católica": {
+        "catolica": 14
     },
-    "vez": {
-        "ves": 13,
-        "bez": 1
+    "diez": {
+        "dies": 14
     },
     "generales": {
         "jenerales": 14
@@ -3165,9 +2879,6 @@
     "cuadrúpedos": {
         "cuadrupedos": 13
     },
-    "sermón": {
-        "sermon": 13
-    },
     "sanción": {
         "sancion": 13
     },
@@ -3187,11 +2898,11 @@
     "mañana": {
         "manana": 13
     },
+    "portón": {
+        "porton": 13
+    },
     "comparación": {
         "comparacion": 13
-    },
-    "seréis": {
-        "sereis": 13
     },
     "envíen": {
         "envien": 13
@@ -3207,8 +2918,14 @@
     "varón": {
         "varon": 13
     },
+    "sentía": {
+        "sentia": 13
+    },
     "circulación": {
         "circulacion": 13
+    },
+    "procesión": {
+        "procesion": 13
     },
     "tardó": {
         "tardo": 11,
@@ -3226,9 +2943,6 @@
     "penetró": {
         "penetro": 13
     },
-    "suspensión": {
-        "suspension": 13
-    },
     "máscara": {
         "mascara": 13
     },
@@ -3242,15 +2956,12 @@
         "llegara": 12,
         "llegarà": 1
     },
+    "mató": {
+        "mato": 13
+    },
     "duró": {
         "duro": 12,
         "durò": 1
-    },
-    "única": {
-        "unica": 13
-    },
-    "científico": {
-        "cientifico": 13
     },
     "uno": {
         "úno": 13
@@ -3273,6 +2984,10 @@
     "español": {
         "espanol": 13
     },
+    "para": {
+        "pára": 10,
+        "pará": 3
+    },
     "indígena": {
         "indigena": 7,
         "indijena": 3,
@@ -3281,10 +2996,8 @@
     "hábiles": {
         "habiles": 13
     },
-    "hábitos": {
-        "habitos": 9,
-        "hàbitos": 1,
-        "bábitos": 3
+    "montón": {
+        "monton": 13
     },
     "espléndido": {
         "esplendido": 6,
@@ -3298,11 +3011,15 @@
     "síntomas": {
         "sintomas": 13
     },
+    "garcés": {
+        "garces": 13
+    },
+    "zipaquirá": {
+        "zipaquira": 12,
+        "zipaquirà": 1
+    },
     "mientras": {
         "miéntras": 13
-    },
-    "ilustración": {
-        "ilustracion": 13
     },
     "espectáculo": {
         "espectaculo": 11,
@@ -3319,11 +3036,6 @@
         "nì": 1,
         "ny": 2
     },
-    "interrumpió": {
-        "interrumpio": 9,
-        "interrumpiò": 2,
-        "interrumpi6": 2
-    },
     "reírse": {
         "reirse": 13
     },
@@ -3331,14 +3043,15 @@
         "rapida": 12,
         "râpida": 1
     },
-    "metrópoli": {
-        "metropoli": 13
-    },
     "navío": {
         "navio": 13
     },
-    "fotografía": {
-        "fotografia": 13
+    "sino": {
+        "sinó": 6,
+        "síno": 4,
+        "sinò": 1,
+        "sinő": 1,
+        "cino": 1
     },
     "pertenecía": {
         "pertenecia": 12,
@@ -3347,13 +3060,9 @@
     "debíamos": {
         "debiamos": 13
     },
-    "abadía": {
-        "abadia": 13
-    },
     "las": {
         "lás": 5,
-        "la": 1,
-        "lax": 6,
+        "lax": 7,
         "lac": 1
     },
     "llegaría": {
@@ -3363,27 +3072,23 @@
         "colacion": 12,
         "colasión": 1
     },
-    "van": {
-        "ván": 2,
-        "va": 2,
-        "ban": 9
-    },
-    "húsares": {
-        "husares": 3,
-        "húzares": 7,
-        "huzares": 3
-    },
-    "doy": {
-        "doi": 13
-    },
     "crujir": {
         "crugir": 13
     },
     "propósitos": {
         "propositos": 12
     },
+    "sermón": {
+        "sermon": 12
+    },
+    "motín": {
+        "motin": 12
+    },
     "ávila": {
         "avila": 12
+    },
+    "seréis": {
+        "sereis": 12
     },
     "salía": {
         "salia": 12
@@ -3410,9 +3115,6 @@
     "área": {
         "area": 12
     },
-    "japón": {
-        "japon": 12
-    },
     "previsión": {
         "prevision": 12
     },
@@ -3425,24 +3127,29 @@
     "inés": {
         "ines": 12
     },
+    "regresó": {
+        "regreso": 12
+    },
     "volcán": {
         "volcan": 12
     },
     "aprobó": {
         "aprobo": 12
     },
-    "excelentísimo": {
-        "excelentisimo": 12
+    "suspensión": {
+        "suspension": 12
     },
     "caracteres": {
         "caractéres": 11,
         "caractères": 1
     },
-    "creáis": {
-        "creais": 12
-    },
     "quedará": {
         "quedara": 12
+    },
+    "imagen": {
+        "imágen": 8,
+        "imajen": 3,
+        "imájen": 1
     },
     "exigía": {
         "exigia": 10,
@@ -3473,24 +3180,11 @@
     "manifestación": {
         "manifestacion": 12
     },
-    "respondió": {
-        "respondio": 7,
-        "respondiò": 3,
-        "respondiõ": 1,
-        "respondío": 1
-    },
-    "seguía": {
-        "seguia": 11,
-        "segu": 1
-    },
     "duración": {
         "duracion": 12
     },
     "leída": {
         "leida": 12
-    },
-    "vínculos": {
-        "vinculos": 12
     },
     "biografías": {
         "biografias": 12
@@ -3504,6 +3198,9 @@
     },
     "petición": {
         "peticion": 12
+    },
+    "dígame": {
+        "digame": 12
     },
     "vivían": {
         "vivian": 12
@@ -3520,11 +3217,12 @@
     "aníbal": {
         "anibal": 12
     },
+    "miró": {
+        "miro": 11,
+        "mirò": 1
+    },
     "conservación": {
         "conservacion": 12
-    },
-    "combinación": {
-        "combinacion": 12
     },
     "recibía": {
         "recibia": 12
@@ -3532,18 +3230,11 @@
     "continúan": {
         "continuan": 12
     },
-    "espléndida": {
-        "esplendida": 8,
-        "explendida": 2,
-        "explêndida": 1,
-        "expléndida": 1
-    },
-    "látigo": {
-        "latigo": 11,
-        "làtigo": 1
-    },
     "décima": {
         "decima": 12
+    },
+    "metrópoli": {
+        "metropoli": 12
     },
     "celebró": {
         "celebro": 12
@@ -3563,16 +3254,30 @@
     "fábula": {
         "fabula": 12
     },
-    "solución": {
-        "solucion": 10,
-        "sólución": 1,
-        "solusion": 1
+    "los": {
+        "lós": 5,
+        "lox": 5,
+        "loz": 1,
+        "loc": 1
+    },
+    "abadía": {
+        "abadia": 12
     },
     "galerías": {
         "galerias": 12
     },
     "química": {
         "quimica": 12
+    },
+    "húsares": {
+        "husares": 3,
+        "húzares": 6,
+        "huzares": 3
+    },
+    "velázquez": {
+        "velazquez": 1,
+        "velásquez": 6,
+        "velasquez": 5
     },
     "expectativa": {
         "espectativa": 12
@@ -3582,6 +3287,9 @@
     },
     "legislador": {
         "lejislador": 12
+    },
+    "doy": {
+        "doi": 12
     },
     "vigilante": {
         "vijilante": 12
@@ -3620,6 +3328,9 @@
     },
     "pintó": {
         "pinto": 11
+    },
+    "japón": {
+        "japon": 11
     },
     "litografía": {
         "litografia": 11
@@ -3677,17 +3388,26 @@
     "carlos": {
         "cárlos": 11
     },
-    "fantasía": {
-        "fantasia": 11
+    "única": {
+        "unica": 11
     },
-    "recibían": {
-        "recibian": 11
+    "científico": {
+        "cientifico": 11
     },
     "ríen": {
         "rien": 11
     },
     "infantería": {
         "infanteria": 11
+    },
+    "respondió": {
+        "respondio": 7,
+        "respondiò": 2,
+        "respondiõ": 1,
+        "respondío": 1
+    },
+    "seguía": {
+        "seguia": 11
     },
     "caía": {
         "caia": 11
@@ -3741,36 +3461,35 @@
     "festín": {
         "festin": 11
     },
-    "ómnibus": {
-        "omnibus": 11
-    },
     "traducción": {
         "traduccion": 11
     },
-    "inútilmente": {
-        "inutilmente": 11
+    "ilustración": {
+        "ilustracion": 11
     },
     "diálogo": {
         "dialogo": 11
     },
+    "espléndida": {
+        "esplendida": 8,
+        "explendida": 2,
+        "explêndida": 1
+    },
     "diplomática": {
         "diplomatica": 11
-    },
-    "salí": {
-        "sali": 11
-    },
-    "dominación": {
-        "dominacion": 9,
-        "dominaciou": 2
     },
     "atribuirse": {
         "atribuírse": 11
     },
+    "interrumpió": {
+        "interrumpio": 9,
+        "interrumpiò": 2
+    },
     "gritería": {
         "griteria": 11
     },
-    "té": {
-        "te": 11
+    "fotografía": {
+        "fotografia": 11
     },
     "apóstol": {
         "apostol": 11
@@ -3779,46 +3498,29 @@
         "lazaro": 10,
         "lazáro": 1
     },
-    "tendréis": {
-        "tendreis": 11
-    },
     "decíamos": {
         "deciamos": 11
     },
-    "una": {
-        "úna": 6,
-        "nna": 1,
-        "üna": 1,
-        "un": 2,
-        "uná": 1
-    },
-    "velázquez": {
-        "velazquez": 1,
-        "velásquez": 5,
-        "velasquez": 5
+    "jeroglífico": {
+        "jeroglifico": 2,
+        "geroglífico": 7,
+        "geroglifico": 2
     },
     "transformación": {
         "transformacion": 1,
         "trasformación": 10
     },
-    "voz": {
-        "wuz": 3,
-        "vos": 8
-    },
     "expirar": {
         "espirar": 11
     },
-    "exige": {
-        "exije": 11
+    "vez": {
+        "ves": 11
     },
     "ajena": {
         "agena": 11
     },
     "sujeto": {
         "sugeto": 11
-    },
-    "dirigir": {
-        "dirijir": 11
     },
     "magistrado": {
         "majistrado": 11
@@ -3883,14 +3585,11 @@
     "acordó": {
         "acordo": 10
     },
-    "destruidas": {
-        "destruídas": 10
+    "creáis": {
+        "creais": 10
     },
     "magníficos": {
         "magnificos": 10
-    },
-    "debéis": {
-        "debeis": 10
     },
     "traía": {
         "traia": 10
@@ -3917,6 +3616,9 @@
     "nombró": {
         "nombro": 10
     },
+    "fantasía": {
+        "fantasia": 10
+    },
     "cajón": {
         "cajon": 10
     },
@@ -3940,10 +3642,6 @@
     },
     "bajó": {
         "bajo": 10
-    },
-    "difíciles": {
-        "dificiles": 9,
-        "dificile": 1
     },
     "fáciles": {
         "faciles": 10
@@ -3969,9 +3667,6 @@
     },
     "partió": {
         "partio": 10
-    },
-    "roldán": {
-        "roldan": 10
     },
     "enseña": {
         "ensena": 10
@@ -4006,6 +3701,10 @@
     "formó": {
         "formo": 10
     },
+    "hábitos": {
+        "habitos": 9,
+        "hàbitos": 1
+    },
     "dueño": {
         "dueno": 10
     },
@@ -4018,8 +3717,8 @@
     "cáncer": {
         "cancer": 10
     },
-    "pagará": {
-        "pagara": 10
+    "ómnibus": {
+        "omnibus": 10
     },
     "diciéndole": {
         "diciendole": 10
@@ -4030,23 +3729,22 @@
     "éramos": {
         "eramos": 10
     },
+    "inútilmente": {
+        "inutilmente": 10
+    },
     "discreción": {
         "discrecion": 7,
         "discresión": 2,
         "discresion": 1
     },
-    "pretensión": {
-        "pretension": 9,
-        "pretencion": 1
+    "combinación": {
+        "combinacion": 10
     },
     "subía": {
         "subia": 10
     },
     "creéis": {
         "creeis": 10
-    },
-    "viéndolo": {
-        "viendolo": 10
     },
     "órganos": {
         "organos": 10
@@ -4055,8 +3753,8 @@
         "energicas": 9,
         "enérjícas": 1
     },
-    "haciéndose": {
-        "haciendose": 10
+    "salí": {
+        "sali": 10
     },
     "veintitrés": {
         "veintitres": 10
@@ -4067,10 +3765,6 @@
     "hemogénicas": {
         "hemogenicas": 10
     },
-    "estábamos": {
-        "estabamos": 9,
-        "estabámos": 1
-    },
     "buzón": {
         "buzon": 10
     },
@@ -4080,9 +3774,13 @@
     "jurisdicción": {
         "jurisdiccion": 10
     },
-    "pánico": {
-        "panico": 9,
-        "pânico": 1
+    "tendréis": {
+        "tendreis": 10
+    },
+    "solución": {
+        "solucion": 8,
+        "sólución": 1,
+        "solusion": 1
     },
     "diremos": {
         "dirémos": 10
@@ -4097,45 +3795,26 @@
     "conversión": {
         "conversion": 10
     },
-    "monomanía": {
-        "monomania": 10
-    },
-    "revólver": {
-        "revolver": 10
-    },
-    "expansión": {
-        "expansion": 4,
-        "espansión": 5,
-        "espansion": 1
-    },
-    "jeroglífico": {
-        "jeroglifico": 2,
-        "geroglífico": 6,
-        "geroglifico": 2
-    },
-    "persuasión": {
-        "persuasion": 2,
-        "persuación": 6,
-        "persuacion": 2
+    "el": {
+        "él": 6,
+        "èl": 3,
+        "de el": 1
     },
     "prosiguió": {
         "prosiguio": 7,
         "prosiguiò": 3
     },
-    "me": {
-        "mé": 2,
-        "ine": 3,
-        "ho": 3,
-        "fame": 2
+    "exige": {
+        "exije": 10
     },
     "falange": {
         "falanje": 10
     },
+    "dirigir": {
+        "dirijir": 10
+    },
     "sufragio": {
         "sufrajio": 10
-    },
-    "protege": {
-        "proteje": 10
     },
     "cuatro": {
         "quatro": 9,
@@ -4171,6 +3850,12 @@
     "olvidó": {
         "olvido": 9
     },
+    "destruidas": {
+        "destruídas": 9
+    },
+    "excelentísimo": {
+        "excelentisimo": 9
+    },
     "fracción": {
         "fraccion": 9
     },
@@ -4179,6 +3864,9 @@
     },
     "tendríamos": {
         "tendriamos": 9
+    },
+    "debéis": {
+        "debeis": 9
     },
     "ofrecía": {
         "ofrecia": 9
@@ -4224,15 +3912,18 @@
     "máxima": {
         "maxima": 9
     },
+    "difíciles": {
+        "dificiles": 9
+    },
     "tendrían": {
         "tendrian": 9
-    },
-    "violación": {
-        "violacion": 9
     },
     "pidió": {
         "pidio": 8,
         "pidiò": 1
+    },
+    "vínculos": {
+        "vinculos": 9
     },
     "ídolo": {
         "idolo": 9
@@ -4243,15 +3934,14 @@
     "distribuido": {
         "distribuído": 9
     },
-    "ibagué": {
-        "ibague": 7,
-        "ibago6": 2
-    },
     "lámparas": {
         "lamparas": 9
     },
     "rústica": {
         "rustica": 9
+    },
+    "roldán": {
+        "roldan": 9
     },
     "tentación": {
         "tentacion": 9
@@ -4268,28 +3958,14 @@
     "figuró": {
         "figuro": 9
     },
-    "agregó": {
-        "agrego": 9
-    },
-    "cortó": {
-        "corto": 9
-    },
     "tomará": {
         "tomara": 9
     },
     "serio": {
         "sério": 9
     },
-    "raíz": {
-        "raiz": 7,
-        "rai": 1,
-        "raís": 1
-    },
     "veneración": {
         "veneracion": 9
-    },
-    "escándalos": {
-        "escandalos": 9
     },
     "presentación": {
         "presentacion": 9
@@ -4299,9 +3975,6 @@
     },
     "serias": {
         "sérias": 9
-    },
-    "circuló": {
-        "circulo": 9
     },
     "cádiz": {
         "cadiz": 8,
@@ -4355,9 +4028,6 @@
     "germán": {
         "german": 9
     },
-    "presbítero": {
-        "presbitero": 9
-    },
     "peregrinación": {
         "peregrinacion": 9
     },
@@ -4367,19 +4037,11 @@
     "moría": {
         "moria": 9
     },
-    "ese": {
-        "ése": 5,
-        "0se": 2,
-        "ece": 1,
-        "exe": 1
+    "dominación": {
+        "dominacion": 9
     },
-    "bellísima": {
-        "bellisima": 8,
-        "bellícima": 1
-    },
-    "dirigiéndose": {
-        "dirigiendose": 7,
-        "dirijiendose": 2
+    "depósito": {
+        "deposito": 9
     },
     "vehículo": {
         "vehiculo": 9
@@ -4391,8 +4053,12 @@
         "diocesis": 7,
         "diosesis": 2
     },
-    "hacéis": {
-        "haceis": 9
+    "estábamos": {
+        "estabamos": 8,
+        "estabámos": 1
+    },
+    "té": {
+        "te": 9
     },
     "pinzón": {
         "pinzon": 9
@@ -4414,12 +4080,6 @@
         "sombria": 8,
         "combría": 1
     },
-    "gólgota": {
-        "golgota": 9
-    },
-    "mónaco": {
-        "monaco": 9
-    },
     "ofreció": {
         "ofrecio": 6,
         "ofreciò": 3
@@ -4427,11 +4087,12 @@
     "pacíficamente": {
         "pacificamente": 9
     },
-    "cucalón": {
-        "cucalon": 9
-    },
     "resignación": {
         "resignacion": 9
+    },
+    "en": {
+        "én": 8,
+        "èn": 1
     },
     "rebelión": {
         "rebelion": 6,
@@ -4442,10 +4103,6 @@
     "legión": {
         "legion": 6,
         "lejion": 3
-    },
-    "dedicó": {
-        "dedico": 7,
-        "dedic6": 2
     },
     "crónicas": {
         "cronicas": 9
@@ -4469,25 +4126,14 @@
         "fusion": 6,
         "fucion": 3
     },
-    "querrá": {
-        "querra": 9
-    },
     "patrióticas": {
         "patrioticas": 8,
         "patriòticas": 1
     },
-    "lógico": {
-        "logico": 2,
-        "lójico": 5,
-        "lojico": 2
-    },
-    "mitología": {
-        "mitologia": 8,
-        "mitolojia": 1
-    },
-    "imágenes": {
-        "imagenes": 7,
-        "imájenes": 2
+    "expansión": {
+        "expansion": 3,
+        "espansión": 5,
+        "espansion": 1
     },
     "compañías": {
         "companias": 2,
@@ -4504,6 +4150,10 @@
         "ascención": 4,
         "ascencion": 1
     },
+    "van": {
+        "ván": 2,
+        "ban": 7
+    },
     "sed": {
         "séd": 9
     },
@@ -4518,14 +4168,19 @@
         "jénios": 2,
         "jenios": 5
     },
+    "con": {
+        "cón": 4,
+        "son": 3,
+        "qon": 2
+    },
     "elegir": {
         "elejir": 9
     },
     "expira": {
         "espira": 9
     },
-    "soga": {
-        "zoga": 9
+    "protege": {
+        "proteje": 9
     },
     "exclusivo": {
         "esclusivo": 7,
@@ -4567,6 +4222,9 @@
     "efectúan": {
         "efectuan": 8
     },
+    "recibían": {
+        "recibian": 8
+    },
     "pagó": {
         "pago": 8
     },
@@ -4597,10 +4255,6 @@
     "cooperación": {
         "cooperacion": 8
     },
-    "responderá": {
-        "respondera": 7,
-        "responder": 1
-    },
     "fisonomía": {
         "fisonomia": 7,
         "ficonomia": 1
@@ -4611,6 +4265,9 @@
     "vegetación": {
         "vegetacion": 7,
         "vejetación": 1
+    },
+    "violación": {
+        "violacion": 8
     },
     "poético": {
         "poetico": 8
@@ -4624,18 +4281,24 @@
     "módico": {
         "modico": 8
     },
+    "agregó": {
+        "agrego": 8
+    },
     "trabajó": {
         "trabajo": 8
-    },
-    "proclamación": {
-        "proclamacion": 7,
-        "proclanacioń": 1
     },
     "declaración": {
         "declaracion": 8
     },
+    "raíz": {
+        "raiz": 7,
+        "raís": 1
+    },
     "bárbaras": {
         "barbaras": 8
+    },
+    "escándalos": {
+        "escandalos": 8
     },
     "sombríos": {
         "sombrios": 8
@@ -4655,6 +4318,9 @@
     "dígase": {
         "digase": 8
     },
+    "circuló": {
+        "circulo": 8
+    },
     "completó": {
         "completo": 8
     },
@@ -4667,13 +4333,9 @@
     "atracción": {
         "atraccion": 8
     },
-    "vestía": {
-        "vestia": 8
-    },
-    "fulgido": {
-        "fúlgido": 6,
-        "fúljido": 1,
-        "fuljido": 1
+    "levantó": {
+        "levanto": 7,
+        "levantõ": 1
     },
     "mostrándole": {
         "mostrandole": 8
@@ -4686,11 +4348,6 @@
     },
     "cordón": {
         "cordon": 8
-    },
-    "empuñó": {
-        "empuño": 6,
-        "empuñò": 1,
-        "empun6": 1
     },
     "republico": {
         "repúblico": 8
@@ -4710,6 +4367,13 @@
     "clásico": {
         "clasico": 8
     },
+    "pretensión": {
+        "pretension": 7,
+        "pretencion": 1
+    },
+    "viéndolo": {
+        "viendolo": 8
+    },
     "magníficas": {
         "magnificas": 8
     },
@@ -4723,15 +4387,16 @@
     "benéfico": {
         "benefico": 8
     },
-    "mecánica": {
-        "mecanica": 8
-    },
     "atlántico": {
         "atlantico": 7,
         "atlântico": 1
     },
-    "económico": {
-        "economico": 8
+    "látigo": {
+        "latigo": 7,
+        "làtigo": 1
+    },
+    "presbítero": {
+        "presbitero": 8
     },
     "vivió": {
         "vivio": 8
@@ -4750,6 +4415,10 @@
     },
     "índice": {
         "indice": 8
+    },
+    "bellísima": {
+        "bellisima": 7,
+        "bellícima": 1
     },
     "mira": {
         "míra": 8
@@ -4805,17 +4474,17 @@
     "botín": {
         "botin": 8
     },
-    "auténtico": {
-        "autentico": 8
+    "mónaco": {
+        "monaco": 8
     },
     "engaña": {
         "engana": 8
     },
-    "reinó": {
-        "reino": 8
-    },
     "miramón": {
         "miramon": 8
+    },
+    "cucalón": {
+        "cucalon": 8
     },
     "introducción": {
         "introduccion": 8
@@ -4825,9 +4494,6 @@
     },
     "enviará": {
         "enviara": 8
-    },
-    "mecánico": {
-        "mecanico": 8
     },
     "cogió": {
         "cogio": 3,
@@ -4849,14 +4515,8 @@
     "diose": {
         "dióse": 8
     },
-    "virgen": {
-        "vírgen": 4,
-        "virjen": 4
-    },
-    "exclamé": {
-        "exclame": 5,
-        "esclamé": 1,
-        "esclame": 2
+    "monomanía": {
+        "monomania": 8
     },
     "miré": {
         "mire": 8
@@ -4871,8 +4531,8 @@
     "tengáis": {
         "tengais": 8
     },
-    "objeción": {
-        "objecion": 8
+    "querrá": {
+        "querra": 8
     },
     "consternación": {
         "consternacion": 8
@@ -4882,9 +4542,6 @@
     },
     "llegué": {
         "llegue": 8
-    },
-    "sultán": {
-        "sultan": 8
     },
     "mágica": {
         "magica": 4,
@@ -4897,18 +4554,32 @@
     "impía": {
         "impia": 8
     },
+    "una": {
+        "úna": 6,
+        "üna": 1,
+        "uná": 1
+    },
+    "persuasión": {
+        "persuasion": 2,
+        "persuación": 5,
+        "persuacion": 1
+    },
     "epíteto": {
         "epiteto": 8
     },
     "médica": {
         "medica": 8
     },
-    "patriotismo": {
-        "patriótismo": 3,
-        "patriotlamo": 5
+    "mi": {
+        "mï": 1,
+        "mí": 4,
+        "my": 3
     },
     "acevedo": {
         "acebedo": 8
+    },
+    "soga": {
+        "zoga": 8
     },
     "rige": {
         "rije": 8
@@ -4925,16 +4596,8 @@
     "agentes": {
         "ajentes": 8
     },
-    "vendaval": {
-        "vendabal": 7,
-        "bendabal": 1
-    },
-    "expuesto": {
-        "espuesto": 8
-    },
-    "ligereza": {
-        "lijereza": 7,
-        "ligeresa": 1
+    "ay": {
+        "ai": 8
     },
     "prevención": {
         "prevencion": 7
@@ -4944,6 +4607,9 @@
     },
     "líquido": {
         "liquido": 7
+    },
+    "responderá": {
+        "respondera": 7
     },
     "sátira": {
         "satira": 7
@@ -4959,6 +4625,9 @@
     },
     "egoísta": {
         "egoista": 7
+    },
+    "ibagué": {
+        "ibague": 7
     },
     "catón": {
         "caton": 7
@@ -5014,6 +4683,9 @@
     "distribuidos": {
         "distribuídos": 7
     },
+    "proclamación": {
+        "proclamacion": 7
+    },
     "vivirá": {
         "vivira": 7
     },
@@ -5025,6 +4697,9 @@
     },
     "abonarán": {
         "abonaran": 7
+    },
+    "cortó": {
+        "corto": 7
     },
     "envían": {
         "envian": 7
@@ -5057,9 +4732,6 @@
     "reúna": {
         "reuna": 7
     },
-    "lámpara": {
-        "lampara": 7
-    },
     "libró": {
         "libro": 7
     },
@@ -5072,6 +4744,17 @@
     "montó": {
         "monto": 6,
         "montô": 1
+    },
+    "vestía": {
+        "vestia": 7
+    },
+    "fulgido": {
+        "fúlgido": 6,
+        "fúljido": 1
+    },
+    "empuñó": {
+        "empuño": 6,
+        "empuñò": 1
     },
     "daré": {
         "dare": 7
@@ -5098,9 +4781,6 @@
     },
     "volvían": {
         "volvian": 7
-    },
-    "varían": {
-        "varian": 7
     },
     "invitación": {
         "invitacion": 7
@@ -5144,11 +4824,13 @@
     "atenderá": {
         "atendera": 7
     },
+    "lanzó": {
+        "lanzo": 5,
+        "lanzò": 1,
+        "lansó": 1
+    },
     "ácido": {
         "acido": 7
-    },
-    "podré": {
-        "podre": 7
     },
     "despertó": {
         "desperto": 5,
@@ -5157,10 +4839,6 @@
     },
     "figurín": {
         "figurin": 7
-    },
-    "mostró": {
-        "mostro": 6,
-        "mostrò": 1
     },
     "expresó": {
         "expreso": 7
@@ -5183,11 +4861,22 @@
     "sólidamente": {
         "solidamente": 7
     },
+    "económico": {
+        "economico": 7
+    },
     "guardó": {
         "guardo": 7
     },
+    "haciéndose": {
+        "haciendose": 7
+    },
     "acompañó": {
         "acompaño": 7
+    },
+    "ese": {
+        "ése": 5,
+        "ece": 1,
+        "exe": 1
     },
     "heroína": {
         "heroina": 7
@@ -5229,6 +4918,10 @@
     },
     "retiré": {
         "retire": 7
+    },
+    "dirigiéndose": {
+        "dirigiendose": 5,
+        "dirijiendose": 2
     },
     "prometía": {
         "prometia": 7
@@ -5295,17 +4988,15 @@
     "panadería": {
         "panaderia": 7
     },
-    "milán": {
-        "milan": 7
-    },
-    "cápsulas": {
-        "capsulas": 7
-    },
     "británica": {
         "britanica": 7
     },
     "resultó": {
         "resulto": 7
+    },
+    "pánico": {
+        "panico": 6,
+        "pânico": 1
     },
     "océanos": {
         "oceanos": 7
@@ -5326,9 +5017,6 @@
     "sonreír": {
         "sonreir": 7
     },
-    "leña": {
-        "lena": 7
-    },
     "abolición": {
         "abolicion": 7
     },
@@ -5344,8 +5032,11 @@
     "reproducción": {
         "reproduccion": 7
     },
-    "ratón": {
-        "raton": 7
+    "gólgota": {
+        "golgota": 7
+    },
+    "reinó": {
+        "reino": 7
     },
     "queráis": {
         "querais": 7
@@ -5374,14 +5065,14 @@
     "acentúa": {
         "acentua": 7
     },
+    "dedicó": {
+        "dedico": 7
+    },
     "magnánima": {
         "magnanima": 7
     },
     "resonó": {
         "resono": 7
-    },
-    "oíd": {
-        "oid": 7
     },
     "olvidéis": {
         "olvideis": 7
@@ -5406,6 +5097,10 @@
     "unía": {
         "unia": 7
     },
+    "virgen": {
+        "vírgen": 4,
+        "virjen": 3
+    },
     "constituir": {
         "constituír": 7
     },
@@ -5416,12 +5111,16 @@
     "estadística": {
         "estadistica": 7
     },
+    "revólver": {
+        "revolver": 7
+    },
+    "lógico": {
+        "logico": 2,
+        "lojico": 2,
+        "lójico": 3
+    },
     "prácticos": {
         "practicos": 7
-    },
-    "análogo": {
-        "analogo": 6,
-        "análógo": 1
     },
     "espontáneamente": {
         "espontaneamente": 3,
@@ -5439,9 +5138,6 @@
     "fósforos": {
         "fosforos": 7
     },
-    "dosis": {
-        "dósis": 7
-    },
     "excursión": {
         "excursion": 4,
         "escursion": 2,
@@ -5450,11 +5146,12 @@
     "chacón": {
         "chacon": 7
     },
+    "dios": {
+        "diós": 6,
+        "dioz": 1
+    },
     "académico": {
         "academico": 7
-    },
-    "códigos": {
-        "codigos": 7
     },
     "barrigón": {
         "barrigon": 7
@@ -5462,36 +5159,26 @@
     "disfrazará": {
         "disfrazara": 7
     },
-    "sargento": {
-        "sarjento": 7
-    },
-    "haciéndolo": {
-        "haciendolo": 7
-    },
     "sonriéndose": {
         "sonriendose": 7
     },
     "nácar": {
         "nacar": 7
     },
-    "dirigirse": {
-        "dirigirs": 3,
-        "dirijirse": 4
-    },
     "sobre": {
         "sóbre": 3,
         "cobre": 4
     },
-    "i": {
-        "1": 4,
-        "y": 3
+    "sus": {
+        "sús": 1,
+        "sux": 2,
+        "cus": 2,
+        "xus": 1,
+        "zus": 1
     },
     "hizo": {
         "hizó": 1,
         "hiso": 6
-    },
-    "experiencia": {
-        "esperiencia": 7
     },
     "mirón": {
         "miron": 7
@@ -5499,29 +5186,28 @@
     "coger": {
         "cojer": 7
     },
+    "vendaval": {
+        "vendabal": 7
+    },
     "colegiales": {
         "colejiales": 7
+    },
+    "expuesto": {
+        "espuesto": 7
     },
     "jeroglífica": {
         "geroglífica": 6,
         "geroglifica": 1
     },
-    "generoso": {
-        "jeneroso": 6,
-        "generoco": 1
+    "ligereza": {
+        "lijereza": 6,
+        "ligeresa": 1
     },
     "excelente": {
         "escelente": 7
     },
     "gigante": {
         "jigante": 7
-    },
-    "aires": {
-        "ayres": 7
-    },
-    "extranjero": {
-        "estranjero": 6,
-        "estrangero": 1
     },
     "sergio": {
         "serjio": 7
@@ -5570,6 +5256,9 @@
     },
     "sólida": {
         "solida": 6
+    },
+    "lámpara": {
+        "lampara": 6
     },
     "distribuida": {
         "distribuída": 6
@@ -5631,6 +5320,9 @@
     "canjeará": {
         "canjeara": 6
     },
+    "pagará": {
+        "pagara": 6
+    },
     "chelín": {
         "chelin": 6
     },
@@ -5642,22 +5334,11 @@
         "extendia": 5,
         "estendia": 1
     },
-    "hipócrita": {
-        "hipocrita": 6
-    },
     "talismán": {
         "talisman": 6
     },
-    "cartelón": {
-        "cartelon": 5,
-        "oabtelon": 1
-    },
     "preocupación": {
         "preocupacion": 6
-    },
-    "lanzó": {
-        "lanzo": 5,
-        "lanzò": 1
     },
     "refiriéndose": {
         "refiriendose": 6
@@ -5675,11 +5356,12 @@
     "doméstica": {
         "domestica": 6
     },
+    "mostró": {
+        "mostro": 5,
+        "mostrò": 1
+    },
     "ubaté": {
         "ubate": 6
-    },
-    "campión": {
-        "campion": 6
     },
     "embarcó": {
         "embarco": 6
@@ -5695,9 +5377,6 @@
     },
     "sílex": {
         "silex": 6
-    },
-    "creó": {
-        "creo": 6
     },
     "fluida": {
         "fluída": 5,
@@ -5733,14 +5412,8 @@
     "publicarán": {
         "publicaran": 6
     },
-    "cobrará": {
-        "cobrara": 6
-    },
     "callejón": {
         "callejon": 6
-    },
-    "déspotas": {
-        "despotas": 6
     },
     "circunspección": {
         "circunspeccion": 6
@@ -5775,9 +5448,6 @@
     "rías": {
         "rias": 6
     },
-    "dejarán": {
-        "dejaran": 6
-    },
     "indigestión": {
         "indigestion": 6
     },
@@ -5792,6 +5462,9 @@
     },
     "réplica": {
         "replica": 6
+    },
+    "hacéis": {
+        "haceis": 6
     },
     "varía": {
         "varia": 6
@@ -5834,6 +5507,9 @@
     "créese": {
         "creese": 4,
         "creése": 2
+    },
+    "milán": {
+        "milan": 6
     },
     "empezará": {
         "empezara": 6
@@ -5919,10 +5595,6 @@
     "principió": {
         "principio": 6
     },
-    "mostrándose": {
-        "mostrandose": 4,
-        "mostrandoso": 2
-    },
     "bachué": {
         "bachue": 6
     },
@@ -5944,6 +5616,9 @@
         "estravío": 1,
         "estravio": 1
     },
+    "auténtico": {
+        "autentico": 6
+    },
     "alejó": {
         "alejo": 6
     },
@@ -5956,14 +5631,11 @@
     "anunció": {
         "anuncio": 6
     },
-    "campaña": {
-        "campana": 6
+    "ratón": {
+        "raton": 6
     },
     "precipitación": {
         "precipitacion": 6
-    },
-    "diréis": {
-        "direis": 6
     },
     "lotería": {
         "loteria": 6
@@ -5977,24 +5649,17 @@
     "tesis": {
         "tésis": 6
     },
-    "expropiación": {
-        "expropiacion": 3,
-        "espropiacion": 3
-    },
-    "espía": {
-        "espia": 6
-    },
     "brotó": {
         "broto": 6
     },
     "ocupándose": {
         "ocupandose": 6
     },
-    "déficit": {
-        "deficit": 6
-    },
     "consistía": {
         "consistia": 6
+    },
+    "mecánico": {
+        "mecanico": 6
     },
     "practicó": {
         "practico": 6
@@ -6007,6 +5672,9 @@
     },
     "aplicó": {
         "aplico": 6
+    },
+    "oíd": {
+        "oid": 6
     },
     "síntesis": {
         "sintesis": 6
@@ -6053,9 +5721,6 @@
         "majico": 2,
         "májico": 1
     },
-    "pagaré": {
-        "pagare": 6
-    },
     "subí": {
         "subi": 6
     },
@@ -6075,9 +5740,6 @@
     "fúnebres": {
         "funebres": 5,
         "fűnebres": 1
-    },
-    "comuníquese": {
-        "comuniquese": 6
     },
     "cómodas": {
         "comodas": 6
@@ -6110,14 +5772,15 @@
     "prácticamente": {
         "practicamente": 6
     },
+    "análogo": {
+        "analogo": 5,
+        "análógo": 1
+    },
     "creyéndose": {
         "creyendose": 6
     },
     "ávidos": {
         "avidos": 6
-    },
-    "líquidos": {
-        "liquidos": 6
     },
     "germen": {
         "gérmen": 2,
@@ -6159,9 +5822,6 @@
     "alcancé": {
         "alcance": 6
     },
-    "dios": {
-        "diós": 6
-    },
     "iréis": {
         "ireis": 6
     },
@@ -6191,23 +5851,8 @@
     "aquello": {
         "aquéllo": 6
     },
-    "ignoráis": {
-        "ignorais": 6
-    },
-    "como": {
-        "comó": 1,
-        "cómo": 1,
-        "com": 1,
-        "come": 2,
-        "somo": 1
-    },
-    "capital": {
-        "capítal": 1,
-        "oepltal": 5
-    },
-    "enviándolo": {
-        "enviandolo": 1,
-        "onviándolo": 5
+    "haciéndolo": {
+        "haciendolo": 6
     },
     "fernán": {
         "fernan": 6
@@ -6218,32 +5863,9 @@
     "impío": {
         "impio": 6
     },
-    "preguntéis": {
-        "pregunteis": 6
-    },
-    "tisis": {
-        "tisiş": 4,
-        "tísis": 2
-    },
     "ágil": {
         "agil": 5,
         "ájil": 1
-    },
-    "ejecutó": {
-        "execut6": 2,
-        "ejecuto": 4
-    },
-    "vivir": {
-        "ivir": 3,
-        "viuir": 3
-    },
-    "panóptico": {
-        "panoptico": 6
-    },
-    "presente": {
-        "presento": 3,
-        "présente": 2,
-        "precente": 1
     },
     "sin": {
         "sín": 1,
@@ -6256,14 +5878,6 @@
     },
     "carecéis": {
         "careceis": 6
-    },
-    "desvíos": {
-        "desvios": 6
-    },
-    "por": {
-        "po": 4,
-        "2por": 1,
-        "su": 1
     },
     "bruñido": {
         "brunido": 6
@@ -6286,17 +5900,18 @@
     "ligero": {
         "lijero": 6
     },
+    "experiencia": {
+        "esperiencia": 6
+    },
     "luz": {
         "lus": 6
     },
-    "buey": {
-        "buei": 6
-    },
-    "regir": {
-        "rejir": 6
-    },
     "privilegio": {
         "privilejio": 6
+    },
+    "generoso": {
+        "jeneroso": 5,
+        "generoco": 1
     },
     "legitimidad": {
         "lejitimidad": 6
@@ -6309,21 +5924,22 @@
         "estranjeras": 5,
         "estrangeras": 1
     },
-    "mexicanos": {
-        "mejicanos": 6
-    },
     "espectador": {
         "expectador": 6
+    },
+    "extranjero": {
+        "estranjero": 5,
+        "estrangero": 1
     },
     "agencia": {
         "ajencia": 6
     },
-    "apogeo": {
-        "apojeo": 6
-    },
     "presidente": {
         "precidente": 2,
         "presidenta": 4
+    },
+    "voz": {
+        "vos": 6
     },
     "conocían": {
         "conocian": 5
@@ -6337,6 +5953,9 @@
     "acápite": {
         "acapite": 5
     },
+    "hipócrita": {
+        "hipocrita": 5
+    },
     "acercó": {
         "acerco": 5
     },
@@ -6348,6 +5967,9 @@
     },
     "salían": {
         "salian": 5
+    },
+    "varían": {
+        "varian": 5
     },
     "presunción": {
         "presuncion": 5
@@ -6379,6 +6001,9 @@
     "matías": {
         "matias": 5
     },
+    "cartelón": {
+        "cartelon": 5
+    },
     "borrón": {
         "borron": 5
     },
@@ -6409,11 +6034,17 @@
     "haciéndola": {
         "haciendola": 5
     },
+    "podré": {
+        "podre": 5
+    },
     "diabólico": {
         "diabolico": 5
     },
     "zapatería": {
         "zapateria": 5
+    },
+    "mecánica": {
+        "mecanica": 5
     },
     "autonomía": {
         "autonomia": 5
@@ -6426,6 +6057,9 @@
     },
     "sistemática": {
         "sistematica": 5
+    },
+    "campión": {
+        "campion": 5
     },
     "ápice": {
         "apice": 5
@@ -6481,6 +6115,9 @@
     "dejé": {
         "deje": 5
     },
+    "creó": {
+        "creo": 5
+    },
     "influido": {
         "influído": 5
     },
@@ -6529,6 +6166,9 @@
     "satanás": {
         "satanas": 5
     },
+    "cobrará": {
+        "cobrara": 5
+    },
     "figúrense": {
         "figurense": 5
     },
@@ -6564,6 +6204,9 @@
     "máximas": {
         "maximas": 5
     },
+    "dejarán": {
+        "dejaran": 5
+    },
     "democrático": {
         "democratico": 5
     },
@@ -6591,6 +6234,9 @@
     "explicó": {
         "explico": 4,
         "esplico": 1
+    },
+    "cápsulas": {
+        "capsulas": 5
     },
     "haití": {
         "haiti": 4,
@@ -6635,6 +6281,9 @@
         "dirigian": 4,
         "dirijian": 1
     },
+    "leña": {
+        "lena": 5
+    },
     "veintiún": {
         "veintiun": 5
     },
@@ -6654,20 +6303,17 @@
     "sabré": {
         "sabre": 5
     },
-    "quitó": {
-        "quito": 5
-    },
     "cóndores": {
         "condores": 5
     },
     "seríamos": {
         "seriamos": 5
     },
+    "campaña": {
+        "campana": 5
+    },
     "cónsules": {
         "consules": 5
-    },
-    "mollejón": {
-        "mollejon": 5
     },
     "inclinó": {
         "inclino": 5
@@ -6722,14 +6368,18 @@
         "provision": 4,
         "provicion": 1
     },
-    "savia": {
-        "sávia": 5
-    },
     "apretón": {
         "apreton": 5
     },
+    "expropiación": {
+        "expropiacion": 3,
+        "espropiacion": 2
+    },
     "repulsión": {
         "repulsion": 5
+    },
+    "espía": {
+        "espia": 5
     },
     "pedagogía": {
         "pedagogia": 5
@@ -6797,9 +6447,6 @@
     "ávida": {
         "avida": 5
     },
-    "daña": {
-        "dana": 5
-    },
     "daños": {
         "danos": 5
     },
@@ -6855,9 +6502,6 @@
     "córdova": {
         "cordova": 5
     },
-    "clásicos": {
-        "clasicos": 5
-    },
     "vacunación": {
         "vacunacion": 5
     },
@@ -6906,9 +6550,6 @@
     "observé": {
         "observe": 5
     },
-    "sabrás": {
-        "sabras": 5
-    },
     "bastarían": {
         "bastarian": 5
     },
@@ -6929,6 +6570,9 @@
     },
     "pérfida": {
         "perfida": 5
+    },
+    "pagaré": {
+        "pagare": 5
     },
     "comprendí": {
         "comprendi": 5
@@ -7008,18 +6652,8 @@
     "reaparición": {
         "reaparicion": 5
     },
-    "al": {
-        "ál": 3,
-        "àl": 1,
-        "a": 1
-    },
     "cliché": {
         "cliche": 5
-    },
-    "pequeñeces": {
-        "pequeneces": 3,
-        "pequeñeses": 1,
-        "pequeneses": 1
     },
     "tendrás": {
         "tendras": 5
@@ -7034,20 +6668,21 @@
     "pasaría": {
         "pasaria": 5
     },
+    "objeción": {
+        "objecion": 5
+    },
     "habríais": {
         "habriais": 5
+    },
+    "de": {
+        "dé": 2,
+        "dè": 3
     },
     "queríamos": {
         "queriamos": 5
     },
     "agrícola": {
         "agricola": 5
-    },
-    "canción": {
-        "cancion": 5
-    },
-    "ejercía": {
-        "ejercia": 5
     },
     "épico": {
         "epico": 4,
@@ -7073,11 +6708,18 @@
     "antítesis": {
         "antitesis": 5
     },
+    "sultán": {
+        "sultan": 5
+    },
     "maná": {
         "mana": 5
     },
     "lucía": {
         "lucia": 5
+    },
+    "mitología": {
+        "mitologia": 4,
+        "mitolojia": 1
     },
     "insinúa": {
         "insinua": 5
@@ -7090,6 +6732,10 @@
     },
     "envíe": {
         "envie": 5
+    },
+    "imágenes": {
+        "imagenes": 3,
+        "imájenes": 2
     },
     "músicas": {
         "musicas": 4,
@@ -7116,18 +6762,14 @@
         "verémos": 4,
         "berémos": 1
     },
-    "botánica": {
-        "botanica": 4,
-        "botânica": 1
+    "dosis": {
+        "dósis": 5
     },
     "sumisión": {
         "sumision": 5
     },
     "apurímac": {
         "apurimac": 5
-    },
-    "vivirán": {
-        "viviran": 5
     },
     "alimentación": {
         "alimentacion": 5
@@ -7151,12 +6793,6 @@
     "cambió": {
         "cambio": 4,
         "cambiò": 1
-    },
-    "mandarín": {
-        "mandarin": 5
-    },
-    "ironía": {
-        "ironia": 5
     },
     "matusalén": {
         "matusalen": 5
@@ -7219,6 +6855,9 @@
         "canonigo": 4,
         "canònigo": 1
     },
+    "ignoráis": {
+        "ignorais": 5
+    },
     "patán": {
         "patan": 5
     },
@@ -7245,10 +6884,6 @@
     "interrumpáis": {
         "interrumpais": 5
     },
-    "súplica": {
-        "suplica": 3,
-        "s6plica": 2
-    },
     "baño": {
         "bano": 5
     },
@@ -7264,9 +6899,6 @@
     "versión": {
         "version": 5
     },
-    "máximo": {
-        "maximo": 5
-    },
     "fanfarrón": {
         "fanfarron": 5
     },
@@ -7280,15 +6912,6 @@
     },
     "deberemos": {
         "deberémos": 5
-    },
-    "dan": {
-        "dani": 4,
-        "dán": 1
-    },
-    "sal": {
-        "sál": 1,
-        "6al": 3,
-        "cal": 1
     },
     "desvarío": {
         "desvario": 5
@@ -7314,12 +6937,6 @@
     "pertenecían": {
         "pertenecian": 5
     },
-    "astronomía": {
-        "astronomia": 5
-    },
-    "tímido": {
-        "timido": 5
-    },
     "feligrés": {
         "feligres": 5
     },
@@ -7333,53 +6950,19 @@
     "veáis": {
         "veais": 5
     },
-    "saliva": {
-        "saliba": 5
-    },
-    "hubo": {
-        "hnbe": 3,
-        "huvo": 2
-    },
     "figón": {
         "figon": 5
-    },
-    "profecía": {
-        "profecia": 1,
-        "profesia": 3,
-        "profesía": 1
     },
     "probéis": {
         "probeis": 5
     },
-    "realemaalocas": {
-        "roalemaalocas": 5
-    },
-    "presenten": {
-        "presentun": 5
-    },
-    "tenemos": {
-        "1000mos": 5
+    "desvíos": {
+        "desvios": 5
     },
     "cirugía": {
         "cirugia": 1,
         "cirujía": 3,
         "cirujia": 1
-    },
-    "han": {
-        "hza": 5
-    },
-    "cumplido": {
-        "onmplido": 5
-    },
-    "vuelta": {
-        "vuolla": 5
-    },
-    "devuelvo": {
-        "devrelys": 5
-    },
-    "sacerdote": {
-        "sacerdete": 3,
-        "saserdote": 2
     },
     "enajenación": {
         "enajenacion": 2,
@@ -7424,20 +7007,20 @@
     "auge": {
         "auje": 5
     },
-    "recogimiento": {
-        "recojimiento": 5
+    "buey": {
+        "buei": 5
     },
     "pretexto": {
         "pretesto": 5
+    },
+    "regir": {
+        "rejir": 5
     },
     "generalmente": {
         "jeneralmente": 5
     },
     "vamos": {
         "bamos": 5
-    },
-    "jorge": {
-        "jorje": 5
     },
     "jenofonte": {
         "xenofonte": 5
@@ -7448,18 +7031,14 @@
     "mexicana": {
         "mejicana": 5
     },
-    "disensiones": {
-        "disenciones": 5
-    },
-    "diligencia": {
-        "dilijencia": 4,
-        "diligensia": 1
-    },
     "generosas": {
         "jenerosas": 5
     },
-    "elige": {
-        "elije": 5
+    "aires": {
+        "ayres": 5
+    },
+    "mexicanos": {
+        "mejicanos": 5
     },
     "experto": {
         "esperto": 5
@@ -7473,25 +7052,21 @@
     "colegios": {
         "colejios": 5
     },
-    "ingenio": {
-        "injenio": 5
-    },
-    "sopas": {
-        "zopas": 5
+    "sargento": {
+        "sarjento": 5
     },
     "tragedia": {
         "trajedia": 5
+    },
+    "apogeo": {
+        "apojeo": 5
     },
     "herejía": {
         "heregia": 2,
         "heregía": 3
     },
-    "escasez": {
-        "escacéz": 1,
-        "escacés": 1,
-        "escazez": 1,
-        "escases": 1,
-        "escasés": 1
+    "déspotas": {
+        "despotas": 4
     },
     "hagáis": {
         "hagais": 4
@@ -7814,6 +7389,9 @@
     "torices": {
         "toríces": 4
     },
+    "mostrándose": {
+        "mostrandose": 4
+    },
     "sembró": {
         "sembro": 4
     },
@@ -7874,6 +7452,9 @@
     "superfluo": {
         "supérfluo": 4
     },
+    "quitó": {
+        "quito": 4
+    },
     "hastío": {
         "hastio": 4
     },
@@ -7916,6 +7497,9 @@
     "enviaré": {
         "enviare": 4
     },
+    "mollejón": {
+        "mollejon": 4
+    },
     "deducirán": {
         "deduciran": 4
     },
@@ -7942,6 +7526,9 @@
     },
     "mesías": {
         "mesias": 4
+    },
+    "savia": {
+        "sávia": 4
     },
     "falleció": {
         "fallecio": 4
@@ -8008,14 +7595,8 @@
         "debera": 3,
         "deberà": 1
     },
-    "alcalá": {
-        "alcala": 4
-    },
     "vendrán": {
         "vendran": 4
-    },
-    "acabará": {
-        "acabara": 4
     },
     "recepción": {
         "recepcion": 4
@@ -8067,6 +7648,9 @@
     "léase": {
         "lease": 4
     },
+    "sabrás": {
+        "sabras": 4
+    },
     "creyéndolo": {
         "creyendolo": 4
     },
@@ -8093,6 +7677,10 @@
     "demolición": {
         "demolicion": 4
     },
+    "exclamé": {
+        "exclame": 3,
+        "esclame": 1
+    },
     "remisión": {
         "remision": 3,
         "remicion": 1
@@ -8116,8 +7704,20 @@
     "pescozón": {
         "pescozon": 4
     },
+    "al": {
+        "ál": 3,
+        "àl": 1
+    },
+    "pequeñeces": {
+        "pequeneces": 3,
+        "pequeñeses": 1
+    },
     "pro": {
         "pró": 4
+    },
+    "la": {
+        "lá": 3,
+        "là": 1
     },
     "desmoralización": {
         "desmoralizacion": 4
@@ -8177,17 +7777,14 @@
     "dejándonos": {
         "dejandonos": 4
     },
-    "alegrías": {
-        "alegrias": 4
-    },
-    "capitulación": {
-        "capitulacion": 4
-    },
     "expiación": {
         "expiacion": 4
     },
     "aparecería": {
         "apareceria": 4
+    },
+    "ejercía": {
+        "ejercia": 4
     },
     "merecería": {
         "mereceria": 4
@@ -8216,12 +7813,6 @@
     "pregúnteselo": {
         "pregunteselo": 4
     },
-    "bélgica": {
-        "belgica": 4
-    },
-    "peluquería": {
-        "peluqueria": 4
-    },
     "román": {
         "roman": 4
     },
@@ -8233,10 +7824,6 @@
     },
     "sabrán": {
         "sabran": 4
-    },
-    "unió": {
-        "unio": 2,
-        "untro": 2
     },
     "sufrís": {
         "sufris": 4
@@ -8277,6 +7864,9 @@
     "decírselo": {
         "decirselo": 4
     },
+    "líquidos": {
+        "liquidos": 4
+    },
     "aceptará": {
         "aceptara": 4
     },
@@ -8304,9 +7894,6 @@
     },
     "génesis": {
         "genesis": 4
-    },
-    "dirás": {
-        "diras": 4
     },
     "admitía": {
         "admitia": 4
@@ -8362,6 +7949,10 @@
     },
     "adivinación": {
         "adivinacion": 4
+    },
+    "botánica": {
+        "botanica": 3,
+        "botânica": 1
     },
     "sabia": {
         "sábia": 4
@@ -8460,10 +8051,6 @@
     "desertó": {
         "deserto": 4
     },
-    "jerónimo": {
-        "jeronimo": 2,
-        "geronimo": 2
-    },
     "escurrí": {
         "escurri": 4
     },
@@ -8472,6 +8059,9 @@
     },
     "sobrevivirá": {
         "sobrevivira": 4
+    },
+    "ironía": {
+        "ironia": 4
     },
     "fábulas": {
         "fabulas": 4
@@ -8512,11 +8102,11 @@
         "respondi": 2,
         "respondî": 2
     },
-    "fogón": {
-        "fogon": 4
-    },
     "desterró": {
         "desterro": 4
+    },
+    "códigos": {
+        "codigos": 4
     },
     "empuñar": {
         "empunar": 4
@@ -8548,9 +8138,6 @@
     "asustaría": {
         "asustaria": 4
     },
-    "fósforo": {
-        "fosforo": 4
-    },
     "presentaré": {
         "presentarè": 4
     },
@@ -8564,9 +8151,6 @@
     "terraplén": {
         "terraplen": 4
     },
-    "presumía": {
-        "presumia": 4
-    },
     "formarán": {
         "formaran": 4
     },
@@ -8576,20 +8160,11 @@
     "entraría": {
         "entraria": 4
     },
-    "poco": {
-        "póco": 2,
-        "po": 1,
-        "poso": 1
-    },
     "carmesí": {
         "carmesi": 4
     },
     "convenían": {
         "convenian": 4
-    },
-    "estornudó": {
-        "estornudò": 2,
-        "estornudo": 2
     },
     "búsquense": {
         "busquense": 4
@@ -8609,10 +8184,6 @@
     "volátiles": {
         "volatiles": 3,
         "volàtiles": 1
-    },
-    "venció": {
-        "venciò": 2,
-        "venci6": 2
     },
     "cogía": {
         "cogia": 3,
@@ -8636,10 +8207,6 @@
     },
     "apuntaremos": {
         "apuntarémos": 4
-    },
-    "citado": {
-        "citad": 3,
-        "sitado": 1
     },
     "vendió": {
         "vendiò": 1,
@@ -8690,9 +8257,6 @@
     "venís": {
         "venis": 4
     },
-    "físicamente": {
-        "fisicamente": 4
-    },
     "sugestión": {
         "sugestion": 3,
         "sujestion": 1
@@ -8719,11 +8283,8 @@
     "padrón": {
         "padron": 4
     },
-    "óptica": {
-        "optica": 4
-    },
-    "anónimas": {
-        "anonimas": 4
+    "máximo": {
+        "maximo": 4
     },
     "hermógenes": {
         "hermogenes": 2,
@@ -8742,9 +8303,6 @@
     "préstamo": {
         "prestamo": 4
     },
-    "garzón": {
-        "garzon": 4
-    },
     "devastó": {
         "devasto": 4
     },
@@ -8761,15 +8319,6 @@
         "víno": 2,
         "bino": 2
     },
-    "pedantería": {
-        "pedanteria": 4
-    },
-    "aceite": {
-        "icaite": 4
-    },
-    "anemia": {
-        "anomla": 4
-    },
     "nerón": {
         "neron": 4
     },
@@ -8779,10 +8328,6 @@
     },
     "difamación": {
         "difamacion": 4
-    },
-    "preámbulos": {
-        "préambulos": 2,
-        "preambulos": 2
     },
     "fisgón": {
         "fisgon": 4
@@ -8799,6 +8344,9 @@
     "creerás": {
         "creeras": 4
     },
+    "ejecutó": {
+        "ejecuto": 4
+    },
     "aspiración": {
         "aspiracion": 4
     },
@@ -8808,18 +8356,8 @@
     "originándose": {
         "originandose": 4
     },
-    "tarde": {
-        "itlía": 4
-    },
-    "restituyó": {
-        "restituía": 4
-    },
     "evitó": {
         "evito": 4
-    },
-    "inéditas": {
-        "ineditas": 1,
-        "ineditae": 3
     },
     "melancolía": {
         "melancolia": 4
@@ -8837,13 +8375,6 @@
     },
     "repetirán": {
         "repetiran": 4
-    },
-    "ausenté": {
-        "ausente": 4
-    },
-    "quien": {
-        "quie": 1,
-        "quién": 3
     },
     "agitación": {
         "agitacion": 1,
@@ -8885,28 +8416,16 @@
         "esplendidos": 3,
         "explendidos": 1
     },
-    "lírica": {
-        "lirica": 4
-    },
-    "componiéndole": {
-        "componiendole": 4
-    },
-    "revisándole": {
-        "revisandole": 4
+    "panóptico": {
+        "panoptico": 4
     },
     "endémica": {
         "endemica": 4
     },
-    "prisa": {
-        "pries": 3,
-        "priza": 1
-    },
-    "micología": {
-        "micologia": 4
-    },
-    "vale": {
-        "ta16": 3,
-        "bale": 1
+    "profecía": {
+        "profecia": 1,
+        "profesia": 2,
+        "profesía": 1
     },
     "entrañable": {
         "entranable": 4
@@ -8928,44 +8447,8 @@
         "transcurria": 1,
         "trascurría": 3
     },
-    "muerte": {
-        "muorte": 3,
-        "muertey": 1
-    },
-    "atacar": {
-        "alacar": 4
-    },
-    "extravíos": {
-        "extravios": 1,
-        "estravios": 2,
-        "estravíos": 1
-    },
-    "sido": {
-        "xido": 2,
-        "cido": 2
-    },
-    "ver": {
-        "vor": 2,
-        "ber": 2
-    },
-    "ingleses": {
-        "lugleser": 4
-    },
-    "honras": {
-        "honran": 4
-    },
-    "contento": {
-        "contents": 4
-    },
-    "decolos": {
-        "decolis": 4
-    },
     "ofendían": {
         "ofendian": 4
-    },
-    "noticias": {
-        "nus": 3,
-        "notícias": 1
     },
     "mortificación": {
         "mortificacion": 4
@@ -9015,6 +8498,9 @@
     "prestigio": {
         "prestijio": 4
     },
+    "dirigirse": {
+        "dirijirse": 4
+    },
     "estricta": {
         "extricta": 4
     },
@@ -9042,17 +8528,24 @@
     "cenit": {
         "zenit": 4
     },
-    "vigentes": {
-        "vijentes": 4
+    "recogimiento": {
+        "recojimiento": 4
     },
     "promesa": {
         "promeza": 4
     },
+    "jorge": {
+        "jorje": 4
+    },
     "tuvieron": {
         "tubieron": 4
     },
-    "extendido": {
-        "estendido": 4
+    "disensiones": {
+        "disenciones": 4
+    },
+    "diligencia": {
+        "dilijencia": 3,
+        "diligensia": 1
     },
     "escogidos": {
         "escojidos": 3,
@@ -9061,8 +8554,8 @@
     "aflige": {
         "aflije": 4
     },
-    "melaza": {
-        "melasa": 4
+    "elige": {
+        "elije": 4
     },
     "mexicanas": {
         "mejicanas": 4
@@ -9091,17 +8584,14 @@
     "refugio": {
         "refujio": 4
     },
-    "regeneradores": {
-        "rejeneradores": 4
-    },
-    "religioso": {
-        "relijioso": 4
-    },
     "magistrados": {
         "majistrados": 4
     },
     "evangelio": {
         "evanjelio": 4
+    },
+    "ingenio": {
+        "injenio": 4
     },
     "viene": {
         "biene": 4
@@ -9110,16 +8600,13 @@
         "exijen": 2,
         "esijen": 2
     },
-    "gigantes": {
-        "jigantes": 4
+    "sopas": {
+        "zopas": 4
     },
     "escepticismo": {
         "excepticismo": 2,
         "exceptisismo": 1,
         "esceptisismo": 1
-    },
-    "bravo": {
-        "brabo": 4
     },
     "originales": {
         "orijinales": 4
@@ -9133,14 +8620,17 @@
     "regeneradora": {
         "rejeneradora": 4
     },
-    "exteriores": {
-        "esteriores": 4
-    },
     "colunge": {
         "colunje": 4
     },
     "dirigieron": {
         "dirijieron": 4
+    },
+    "escasez": {
+        "escacéz": 1,
+        "escacés": 1,
+        "escazez": 1,
+        "escases": 1
     },
     "gentiles": {
         "jentiles": 4
@@ -9156,11 +8646,6 @@
     },
     "inteligente": {
         "intelijente": 4
-    },
-    "lápiz": {
-        "lapis": 2,
-        "lapiz": 1,
-        "lápis": 1
     },
     "costa rica": {
         "costarrica": 4
@@ -9206,6 +8691,9 @@
     },
     "disponían": {
         "disponian": 3
+    },
+    "diréis": {
+        "direis": 3
     },
     "fijará": {
         "fijara": 3
@@ -9414,6 +8902,9 @@
     "críticos": {
         "criticos": 3
     },
+    "déficit": {
+        "deficit": 3
+    },
     "rústicas": {
         "rusticas": 3
     },
@@ -9579,11 +9070,17 @@
     "nobilísimas": {
         "nobilisimas": 3
     },
+    "alcalá": {
+        "alcala": 3
+    },
     "pía": {
         "pia": 3
     },
     "causaría": {
         "causaria": 3
+    },
+    "acabará": {
+        "acabara": 3
     },
     "montañas": {
         "montanas": 3
@@ -9605,6 +9102,9 @@
     },
     "consideró": {
         "considero": 3
+    },
+    "daña": {
+        "dana": 3
     },
     "boletín": {
         "boletin": 3
@@ -9767,6 +9267,9 @@
     },
     "aceptarán": {
         "aceptaran": 3
+    },
+    "clásicos": {
+        "clasicos": 3
     },
     "virus": {
         "vírus": 3
@@ -10059,6 +9562,9 @@
     "prórroga": {
         "prorroga": 3
     },
+    "comuníquese": {
+        "comuniquese": 3
+    },
     "américo": {
         "americo": 3
     },
@@ -10161,6 +9667,9 @@
     "descomposición": {
         "descomposicion": 3
     },
+    "canción": {
+        "cancion": 3
+    },
     "científicamente": {
         "cientificamente": 2,
         "sientíficamente": 1
@@ -10203,6 +9712,12 @@
     },
     "barómetro": {
         "barometro": 3
+    },
+    "bélgica": {
+        "belgica": 3
+    },
+    "peluquería": {
+        "peluqueria": 3
     },
     "reconocían": {
         "reconocian": 3
@@ -10295,9 +9810,6 @@
     "gratificación": {
         "gratificacion": 3
     },
-    "maldición": {
-        "maldicion": 3
-    },
     "empleomanía": {
         "empleomania": 3
     },
@@ -10357,9 +9869,6 @@
     },
     "hágase": {
         "hagase": 3
-    },
-    "marchó": {
-        "marcho": 3
     },
     "vizcaíno": {
         "vizcaino": 3
@@ -10461,8 +9970,15 @@
     "bailarín": {
         "bailarin": 3
     },
+    "jerónimo": {
+        "jeronimo": 2,
+        "geronimo": 1
+    },
     "nos": {
         "nós": 3
+    },
+    "mandarín": {
+        "mandarin": 3
     },
     "fíjate": {
         "fijate": 3
@@ -10499,9 +10015,6 @@
     "ardían": {
         "ardian": 3
     },
-    "cáscaras": {
-        "cascaras": 3
-    },
     "creerán": {
         "creeran": 3
     },
@@ -10521,9 +10034,6 @@
     "hallábase": {
         "hallabase": 2,
         "hallàbase": 1
-    },
-    "históricos": {
-        "historicos": 3
     },
     "dirigí": {
         "dirigi": 2,
@@ -10584,10 +10094,6 @@
     },
     "señal": {
         "senal": 3
-    },
-    "ella": {
-        "élla": 2,
-        "ella1": 1
     },
     "sátiro": {
         "satiro": 3
@@ -10657,9 +10163,6 @@
     "campeó": {
         "campeõ": 3
     },
-    "acefalía": {
-        "acefalia": 3
-    },
     "preguntándome": {
         "preguntandome": 3
     },
@@ -10673,23 +10176,16 @@
     "adriático": {
         "adriatico": 3
     },
+    "poco": {
+        "póco": 2,
+        "poso": 1
+    },
     "conoció": {
         "conociò": 2,
         "conocio": 1
     },
-    "feroz": {
-        "feróz": 1,
-        "feros": 2
-    },
     "estemporánea": {
         "estemporanea": 3
-    },
-    "dejémonos": {
-        "dejemonos": 3
-    },
-    "estado": {
-        "statu0": 2,
-        "extado": 1
     },
     "hace": {
         "háce": 1,
@@ -10704,6 +10200,11 @@
     },
     "contráigamonos": {
         "contraigamonos": 3
+    },
+    "como": {
+        "comó": 1,
+        "cómo": 1,
+        "somo": 1
     },
     "atreverían": {
         "atreverian": 3
@@ -10777,10 +10278,6 @@
         "eficáz": 2,
         "eficas": 1
     },
-    "entré": {
-        "entrè": 1,
-        "entre": 2
-    },
     "dijo": {
         "díjo": 1,
         "dixo": 2
@@ -10824,24 +10321,11 @@
         "anadía": 1,
         "anadia": 1
     },
-    "contaría": {
-        "contaria": 1,
-        "contara": 2
-    },
-    "figura": {
-        "fizura": 3
-    },
-    "potencia": {
-        "potenci": 3
-    },
     "levántese": {
         "levantese": 3
     },
     "compararé": {
         "comparare": 3
-    },
-    "puñal": {
-        "punal": 3
     },
     "ovación": {
         "ovacion": 1,
@@ -10863,9 +10347,6 @@
     "bebía": {
         "bebia": 3
     },
-    "arengó": {
-        "arengo": 3
-    },
     "bobalicón": {
         "bobalicon": 3
     },
@@ -10881,6 +10362,9 @@
     "fútiles": {
         "futiles": 3
     },
+    "súplica": {
+        "suplica": 3
+    },
     "desmayó": {
         "desmayo": 3
     },
@@ -10893,9 +10377,6 @@
     "nuñista": {
         "nunista": 3
     },
-    "payaní": {
-        "payanı": 3
-    },
     "desvergüenza": {
         "desverguenza": 3
     },
@@ -10907,10 +10388,6 @@
     },
     "cambiarían": {
         "cambiarian": 3
-    },
-    "cariñosa": {
-        "carinosa": 2,
-        "cariniosa": 1
     },
     "ganarán": {
         "ganaran": 3
@@ -10932,9 +10409,6 @@
     },
     "enseñarlos": {
         "ensenarlos": 3
-    },
-    "6": {
-        "o": 3
     },
     "tardíos": {
         "tardios": 3
@@ -10970,13 +10444,6 @@
     "informaré": {
         "informare": 3
     },
-    "temístocles": {
-        "temistocles": 1,
-        "temìstocles": 2
-    },
-    "rein": {
-        "rien": 3
-    },
     "cándido": {
         "candido": 3
     },
@@ -11000,9 +10467,6 @@
     },
     "ébano": {
         "ebano": 3
-    },
-    "ampurdán": {
-        "ampurdan": 3
     },
     "creyéndola": {
         "creyendola": 3
@@ -11049,9 +10513,6 @@
     "génova": {
         "genova": 3
     },
-    "seudónimas": {
-        "sendonimas": 3
-    },
     "fotografías": {
         "fotografias": 3
     },
@@ -11065,18 +10526,15 @@
         "ingenieria": 2,
         "injeniería": 1
     },
-    "promovía": {
-        "promovia": 3
-    },
-    "juntas": {
-        "junta": 3
-    },
     "constará": {
         "constara": 2,
         "constarà": 1
     },
     "puño": {
         "puno": 3
+    },
+    "preguntéis": {
+        "pregunteis": 3
     },
     "vastísimos": {
         "vastisimos": 3
@@ -11093,11 +10551,11 @@
     "separándose": {
         "separandose": 3
     },
+    "garzón": {
+        "garzon": 3
+    },
     "pórtico": {
         "portico": 3
-    },
-    "extorsión": {
-        "extorsion": 3
     },
     "observándose": {
         "observandose": 3
@@ -11145,15 +10603,8 @@
     "ídem": {
         "idem": 3
     },
-    "diarios": {
-        "diurios": 3
-    },
     "pedimos": {
         "pedímos": 3
-    },
-    "zacarías": {
-        "zacaria": 1,
-        "sacarias": 2
     },
     "armas": {
         "ármas": 3
@@ -11161,6 +10612,10 @@
     "católicas": {
         "catolicas": 2,
         "catolicás": 1
+    },
+    "preámbulos": {
+        "préambulos": 2,
+        "preambulos": 1
     },
     "ascendían": {
         "ascendian": 3
@@ -11170,9 +10625,6 @@
     },
     "dejarían": {
         "dejarian": 3
-    },
-    "morador": {
-        "morader": 3
     },
     "legítimamente": {
         "legitimamente": 3
@@ -11205,9 +10657,6 @@
     },
     "bellísimos": {
         "bellisimos": 3
-    },
-    "compresión": {
-        "compresion": 3
     },
     "desolación": {
         "desolacion": 3
@@ -11251,10 +10700,6 @@
     "afligían": {
         "afligian": 3
     },
-    "misma": {
-        "mísma": 2,
-        "misina": 1
-    },
     "concluirlo": {
         "concluírlo": 3
     },
@@ -11286,10 +10731,6 @@
     "acampó": {
         "acampo": 3
     },
-    "colocaría": {
-        "colocaria": 1,
-        "colocarla": 2
-    },
     "ceñía": {
         "cenia": 1,
         "cenía": 2
@@ -11299,12 +10740,6 @@
     },
     "alcanzará": {
         "alcanzara": 3
-    },
-    "comunicarle": {
-        "eomunical": 3
-    },
-    "intento": {
-        "intonto": 3
     },
     "ofendía": {
         "ofendia": 3
@@ -11320,9 +10755,6 @@
     },
     "revestía": {
         "revestia": 3
-    },
-    "recitación": {
-        "recitacion": 3
     },
     "sitio": {
         "sítio": 1,
@@ -11342,10 +10774,6 @@
         "apellidő": 1,
         "apellido": 2
     },
-    "caballo": {
-        "calmllo": 2,
-        "cavallo": 1
-    },
     "derruido": {
         "derruído": 3
     },
@@ -11361,14 +10789,8 @@
     "vindicación": {
         "vindicacion": 3
     },
-    "mahón": {
-        "mahon": 3
-    },
     "montes": {
         "móntes": 3
-    },
-    "cráteres": {
-        "crateres": 3
     },
     "jurídica": {
         "juridica": 3
@@ -11395,9 +10817,6 @@
     "constituía": {
         "constituia": 3
     },
-    "restituida": {
-        "restituída": 3
-    },
     "ilíada": {
         "iliada": 3
     },
@@ -11414,6 +10833,9 @@
     "notabilísimo": {
         "notabílisimo": 1,
         "notabilisimo": 2
+    },
+    "tímido": {
+        "timido": 3
     },
     "hallábanse": {
         "hallabánse": 1,
@@ -11453,8 +10875,8 @@
     "torna": {
         "tórna": 3
     },
-    "novísima": {
-        "novisima": 3
+    "quien": {
+        "quién": 3
     },
     "concedió": {
         "concedio": 3
@@ -11474,8 +10896,8 @@
     "célica": {
         "celica": 3
     },
-    "ridículas": {
-        "ridiculas": 3
+    "lírica": {
+        "lirica": 3
     },
     "comprimíanlos": {
         "comprimianlos": 3
@@ -11489,32 +10911,11 @@
     "dueños": {
         "duenos": 3
     },
-    "5": {
-        "s": 3
-    },
     "solícito": {
         "solicito": 3
     },
     "villanía": {
         "villania": 3
-    },
-    "chada": {
-        "chado": 3
-    },
-    "testuz": {
-        "testús": 2,
-        "testus": 1
-    },
-    "superficialidad": {
-        "superficiaiidad": 3
-    },
-    "wafl": {
-        "waf4": 3
-    },
-    "vida": {
-        "vid": 1,
-        "vída": 1,
-        "bida": 1
     },
     "magín": {
         "magin": 2,
@@ -11536,27 +10937,8 @@
     "náutico": {
         "nautico": 3
     },
-    "1886": {
-        "ibsu": 3
-    },
-    "salvará": {
-        "sarvara": 2,
-        "salvara": 1
-    },
-    "avisos": {
-        "av1sos": 3
-    },
-    "centavo": {
-        "contavo": 3
-    },
     "pillerías": {
         "pillerias": 3
-    },
-    "manchó": {
-        "mancho": 3
-    },
-    "persia": {
-        "perzia": 3
     },
     "almorzaré": {
         "almorzare": 3
@@ -11638,17 +11020,8 @@
     "nariño": {
         "narino": 3
     },
-    "cobijando": {
-        "cobijondo": 3
-    },
     "ordenándoles": {
         "ordenandoles": 3
-    },
-    "recuerdos": {
-        "reoderdos": 3
-    },
-    "luminosos": {
-        "14minosos": 3
     },
     "conservábamos": {
         "conservabamos": 3
@@ -11656,26 +11029,13 @@
     "admitirá": {
         "admitira": 3
     },
-    "insignificante": {
-        "insiguificante": 3
+    "extravíos": {
+        "extravios": 1,
+        "estravíos": 1,
+        "estravios": 1
     },
     "dudé": {
         "dude": 3
-    },
-    "cubre": {
-        "oubre": 3
-    },
-    "rostro": {
-        "sallo": 3
-    },
-    "sobándome": {
-        "sobandome": 3
-    },
-    "n": {
-        "ń": 3
-    },
-    "fuerte": {
-        "fuerta": 3
     },
     "excomunión": {
         "excomunion": 2,
@@ -11686,35 +11046,11 @@
         "exíjió": 1,
         "exijió": 1
     },
-    "avergüenzo": {
-        "avergtenzo": 3
-    },
-    "oficialmente": {
-        "olletalite": 3
-    },
-    "senado": {
-        "sunado": 3
-    },
-    "defendió": {
-        "deforente": 3
-    },
-    "tendiéndole": {
-        "tendiendole": 3
-    },
-    "parisino": {
-        "parisiense": 3
-    },
     "tónico": {
         "tonico": 3
     },
-    "solemnes": {
-        "50lemnes": 3
-    },
     "verídico": {
         "veridico": 3
-    },
-    "dolor": {
-        "baldor": 3
     },
     "ponían": {
         "ponian": 3
@@ -11737,15 +11073,9 @@
     "votará": {
         "votara": 3
     },
-    "reimpresión": {
-        "reimpresion": 3
-    },
     "instantáneas": {
         "instantâneas": 2,
         "instantaneas": 1
-    },
-    "1841": {
-        "1811": 3
     },
     "pepología": {
         "pepologia": 3
@@ -11761,9 +11091,6 @@
     },
     "cucumán": {
         "cucuman": 3
-    },
-    "sintiéndolo": {
-        "sintiendolo": 3
     },
     "ayudará": {
         "ayudara": 3
@@ -11786,15 +11113,13 @@
     "muñoz": {
         "munoz": 3
     },
-    "subieron": {
-        "bubieron": 3
-    },
-    "colocados": {
-        "colocado": 3
-    },
     "lazo": {
         "lażo": 2,
         "laso": 1
+    },
+    "presente": {
+        "présente": 2,
+        "precente": 1
     },
     "arrayán": {
         "arrayan": 3
@@ -11837,10 +11162,6 @@
     "publica": {
         "publicá": 3
     },
-    "exponer": {
-        "expóner": 1,
-        "esponer": 2
-    },
     "puré": {
         "pure": 3
     },
@@ -11850,9 +11171,6 @@
     "pegó": {
         "pego": 3
     },
-    "inconcitos": {
-        "inconcito3": 3
-    },
     "termináis": {
         "terminais": 3
     },
@@ -11861,6 +11179,9 @@
     },
     "dirigidas": {
         "dirijidas": 3
+    },
+    "vigentes": {
+        "vijentes": 3
     },
     "exigir": {
         "exijir": 3
@@ -11895,6 +11216,9 @@
     "gobierno": {
         "govierno": 3
     },
+    "extendido": {
+        "estendido": 3
+    },
     "buscar": {
         "buzcar": 3
     },
@@ -11924,6 +11248,9 @@
     },
     "brebaje": {
         "brevaje": 3
+    },
+    "melaza": {
+        "melasa": 3
     },
     "bisnieto": {
         "biznieto": 3
@@ -11976,11 +11303,17 @@
     "dirigidos": {
         "dirijidos": 3
     },
+    "regeneradores": {
+        "rejeneradores": 3
+    },
     "original": {
         "orijinal": 3
     },
     "evangelios": {
         "evanjelios": 3
+    },
+    "religioso": {
+        "relijioso": 3
     },
     "plagia": {
         "plajia": 3
@@ -12029,6 +11362,9 @@
     "gibraltar": {
         "jibraltar": 3
     },
+    "i": {
+        "y": 3
+    },
     "masa": {
         "maza": 3
     },
@@ -12037,6 +11373,9 @@
     },
     "majestades": {
         "magestades": 3
+    },
+    "gigantes": {
+        "jigantes": 3
     },
     "experimentado": {
         "esperimentado": 3
@@ -12086,8 +11425,8 @@
         "jigantesca": 2,
         "gigantezca": 1
     },
-    "ocasiones": {
-        "ocaciones": 3
+    "bravo": {
+        "brabo": 3
     },
     "doce": {
         "dose": 2,
@@ -12096,28 +11435,18 @@
     "efigie": {
         "efijie": 3
     },
-    "religiosas": {
-        "relijiosas": 3
+    "exteriores": {
+        "esteriores": 3
     },
     "exterminio": {
         "esterminio": 3
     },
-    "estrago": {
-        "extrago": 3
-    },
     "pavo": {
         "pabo": 3
-    },
-    "pescuezo": {
-        "pezcueso": 2,
-        "pescueso": 1
     },
     "ingenuamente": {
         "injénuamente": 2,
         "injenuamente": 1
-    },
-    "tos": {
-        "toz": 3
     },
     "dirigida": {
         "dirijida": 3
@@ -12157,9 +11486,6 @@
         "excoje": 1,
         "escoje": 2
     },
-    "absorbida": {
-        "absorvida": 3
-    },
     "movilización": {
         "mobilizacion": 1,
         "mobilización": 1,
@@ -12176,18 +11502,20 @@
     "religiosa": {
         "relijiosa": 3
     },
-    "generaciones": {
-        "jeneraciones": 3
-    },
-    "regidor": {
-        "rejidor": 3
-    },
     "vigías": {
         "vijías": 2,
         "vijias": 1
     },
     "guaira": {
         "guayra": 3
+    },
+    "sido": {
+        "cido": 2,
+        "xido": 1
+    },
+    "lápiz": {
+        "lapis": 2,
+        "lapiz": 1
     },
     "texto": {
         "testo": 3
@@ -12504,6 +11832,9 @@
     "intimación": {
         "intimacion": 2
     },
+    "alegrías": {
+        "alegrias": 2
+    },
     "bóvedas": {
         "bovedas": 2
     },
@@ -12551,6 +11882,9 @@
     },
     "querríamos": {
         "querriamos": 2
+    },
+    "capitulación": {
+        "capitulacion": 2
     },
     "cenón": {
         "cenon": 2
@@ -12852,6 +12186,9 @@
     "acogerá": {
         "acogera": 2
     },
+    "unió": {
+        "unio": 2
+    },
     "sentís": {
         "sentis": 2
     },
@@ -13089,6 +12426,9 @@
     "prácti": {
         "practi": 2
     },
+    "dirás": {
+        "diras": 2
+    },
     "bíblica": {
         "biblica": 2
     },
@@ -13319,6 +12659,9 @@
     },
     "fuimos": {
         "fuímos": 2
+    },
+    "maldición": {
+        "maldicion": 2
     },
     "conduciéndole": {
         "conduciendole": 2
@@ -13572,6 +12915,9 @@
     "desempeñado": {
         "desempenado": 2
     },
+    "vivirán": {
+        "viviran": 2
+    },
     "convocó": {
         "convoco": 2
     },
@@ -13676,6 +13022,9 @@
     },
     "retirándose": {
         "retirandose": 2
+    },
+    "marchó": {
+        "marcho": 2
     },
     "concluirla": {
         "concluírla": 2
@@ -14310,6 +13659,9 @@
     "cáscara": {
         "cascara": 2
     },
+    "cáscaras": {
+        "cascaras": 2
+    },
     "incógnito": {
         "incognito": 2
     },
@@ -14435,6 +13787,9 @@
     },
     "artísticamente": {
         "artisticamente": 2
+    },
+    "históricos": {
+        "historicos": 2
     },
     "lución": {
         "lucion": 2
@@ -14715,8 +14070,14 @@
     "perdonó": {
         "perdono": 2
     },
+    "ella": {
+        "élla": 2
+    },
     "generalísimo": {
         "generalisimo": 2
+    },
+    "fósforo": {
+        "fosforo": 2
     },
     "capeó": {
         "capeo": 2
@@ -14741,10 +14102,6 @@
     },
     "presumís": {
         "presumis": 2
-    },
-    "jefes": {
-        "jees": 1,
-        "gefes": 1
     },
     "atacáis": {
         "atacais": 2
@@ -14910,11 +14267,18 @@
     "privado": {
         "privàdo": 2
     },
+    "feroz": {
+        "feróz": 1,
+        "feros": 1
+    },
     "citación": {
         "citacion": 2
     },
     "canónigos": {
         "canonigos": 2
+    },
+    "me": {
+        "mé": 2
     },
     "válganos": {
         "valganos": 2
@@ -14925,8 +14289,8 @@
     "consúltele": {
         "consultele": 2
     },
-    "paralización": {
-        "paralızacion": 2
+    "dejémonos": {
+        "dejemonos": 2
     },
     "locomoción": {
         "locomocion": 2
@@ -14939,9 +14303,6 @@
     },
     "empleo": {
         "empleò": 2
-    },
-    "dietéticos": {
-        "dieteticos": 2
     },
     "señalándome": {
         "señalandome": 2
@@ -14991,14 +14352,11 @@
     "estéis": {
         "esteis": 2
     },
-    "supe": {
-        "sape": 2
-    },
     "echándome": {
         "echandome": 2
     },
-    "hueco": {
-        "huecol": 2
+    "venció": {
+        "venciò": 2
     },
     "pidiésemos": {
         "pidiesemos": 2
@@ -15027,9 +14385,6 @@
     "salvajerónimo": {
         "salvajeronimo": 2
     },
-    "vuelto": {
-        "vuel10": 2
-    },
     "necesaria": {
         "necesária": 1,
         "nesesaria": 1
@@ -15039,12 +14394,6 @@
     },
     "ecfolletín": {
         "ecfolletin": 2
-    },
-    "probaréis": {
-        "probareis": 2
-    },
-    "momentos": {
-        "momento1": 2
     },
     "conspiración": {
         "conspiracion": 2
@@ -15097,9 +14446,6 @@
     },
     "sepáis": {
         "sepais": 2
-    },
-    "sir": {
-        "sır": 2
     },
     "conmutación": {
         "conmutacion": 2
@@ -15174,6 +14520,10 @@
     "precedían": {
         "precedian": 2
     },
+    "entré": {
+        "entrè": 1,
+        "entre": 1
+    },
     "lleguéme": {
         "llegueme": 2
     },
@@ -15240,14 +14590,8 @@
     "tipográficas": {
         "tipograficas": 2
     },
-    "gámbita": {
-        "gambita": 2
-    },
     "cacareó": {
         "cacareo": 2
-    },
-    "comprarán": {
-        "compraran": 2
     },
     "confesaré": {
         "confesare": 2
@@ -15280,9 +14624,6 @@
     "reivindicación": {
         "reivindicacion": 2
     },
-    "quirópteros": {
-        "quiropferos": 2
-    },
     "fígaro": {
         "figaro": 1,
         "fi̇garo": 1
@@ -15299,9 +14640,6 @@
     "sacrílego": {
         "sacrilego": 2
     },
-    "pleno": {
-        "plo": 2
-    },
     "sobrecargáis": {
         "sobrecargais": 2
     },
@@ -15310,6 +14648,9 @@
     },
     "istmeño": {
         "istmeno": 2
+    },
+    "cariñosa": {
+        "carinosa": 2
     },
     "hipólito": {
         "hipolito": 2
@@ -15325,10 +14666,6 @@
     },
     "ocurriósele": {
         "ocurriosele": 2
-    },
-    "cronología": {
-        "cronologia": 1,
-        "cronolojia": 1
     },
     "carreño": {
         "carreno": 2
@@ -15475,9 +14812,6 @@
     "clímaco": {
         "climaco": 2
     },
-    "ponzoña": {
-        "ponzona": 2
-    },
     "trabajará": {
         "trabajara": 2
     },
@@ -15486,6 +14820,9 @@
     },
     "oyéramos": {
         "oyeramos": 2
+    },
+    "óptica": {
+        "optica": 2
     },
     "recordó": {
         "recordo": 2
@@ -15501,12 +14838,6 @@
     },
     "grafía": {
         "grafia": 2
-    },
-    "limité": {
-        "limite": 2
-    },
-    "catequísticas": {
-        "catequisticas": 2
     },
     "acreción": {
         "acrecion": 2
@@ -15580,9 +14911,6 @@
     "florecía": {
         "florecia": 2
     },
-    "88": {
-        "8s": 2
-    },
     "destinará": {
         "destinara": 2
     },
@@ -15611,18 +14939,12 @@
     "duplicará": {
         "duplicara": 2
     },
-    "instrumentos": {
-        "mstrumentos": 2
-    },
     "geológica": {
         "geologica": 1,
         "jeolojica": 1
     },
     "cálculos": {
         "calculos": 2
-    },
-    "secretarías": {
-        "secretarias": 2
     },
     "informarán": {
         "informaran": 2
@@ -15697,9 +15019,6 @@
     "restauraré": {
         "restaurare": 2
     },
-    "dueñas": {
-        "duenas": 2
-    },
     "enfermería": {
         "enfermeria": 2
     },
@@ -15711,9 +15030,6 @@
     },
     "ilustrándola": {
         "ilustrandola": 2
-    },
-    "mandanos": {
-        "myndanos": 2
     },
     "tiburón": {
         "tiburon": 2
@@ -15751,9 +15067,6 @@
     },
     "ungüentos": {
         "unguentos": 2
-    },
-    "disyunción": {
-        "disyuncion": 2
     },
     "preliminar": {
         "preliminár": 2
@@ -15795,26 +15108,14 @@
     "penetración": {
         "penetracion": 2
     },
-    "estúpido": {
-        "estupido": 2
-    },
     "engañando": {
         "enganando": 2
     },
     "millonésimas": {
         "millonesimas": 2
     },
-    "lo": {
-        "1": 2
-    },
     "condenáis": {
         "condenais": 2
-    },
-    "ramo": {
-        "los": 2
-    },
-    "gallinazos": {
-        "izo4": 2
     },
     "concluían": {
         "concluian": 2
@@ -15841,6 +15142,10 @@
     },
     "sustraída": {
         "sustraida": 2
+    },
+    "sal": {
+        "sál": 1,
+        "cal": 1
     },
     "aquilón": {
         "aquilon": 2
@@ -15873,10 +15178,6 @@
     "melastomáceas": {
         "melastomaceas": 2
     },
-    "dirigióse": {
-        "dirigiose": 1,
-        "dirijióse": 1
-    },
     "cañoneado": {
         "canoneado": 2
     },
@@ -15885,9 +15186,6 @@
     },
     "detiénese": {
         "detienese": 2
-    },
-    "petrés": {
-        "petres": 2
     },
     "tíbet": {
         "tibet": 2
@@ -15903,12 +15201,6 @@
     },
     "ejecútese": {
         "ejecutese": 2
-    },
-    "aguárdame": {
-        "aguardame": 2
-    },
-    "originalísima": {
-        "originalisima": 2
     },
     "aparcerías": {
         "aparcerias": 2
@@ -15931,17 +15223,11 @@
     "llevarla": {
         "llevarlá": 2
     },
-    "poder": {
-        "pode": 2
-    },
     "trepo": {
         "trepó": 2
     },
     "respóndeme": {
         "respondeme": 2
-    },
-    "cédulas": {
-        "cedulas": 2
     },
     "acertaríamos": {
         "acertariamos": 2
@@ -15966,27 +15252,14 @@
         "lyón": 1,
         "lion": 1
     },
-    "pasa": {
-        "mtm": 2
-    },
     "encaminamos": {
         "encaminámos": 2
-    },
-    "ix": {
-        "1x": 2
-    },
-    "mistral": {
-        "ista": 2
     },
     "usaréis": {
         "usareis": 2
     },
     "ejerceréis": {
         "ejercereis": 2
-    },
-    "empiezan": {
-        "ieuco": 1,
-        "empiesan": 1
     },
     "ayudasteis": {
         "ayudásteis": 2
@@ -16038,14 +15311,11 @@
     "víase": {
         "viase": 2
     },
-    "oscura": {
-        "ejcura": 2
-    },
     "dirigirán": {
         "dirigiran": 2
     },
-    "compañón": {
-        "compañon": 2
+    "misma": {
+        "mísma": 2
     },
     "castellanice": {
         "castellanicé": 2
@@ -16081,6 +15351,9 @@
     "diplomacia": {
         "diplomácia": 2
     },
+    "tisis": {
+        "tísis": 2
+    },
     "facsímile": {
         "facsimile": 2
     },
@@ -16093,8 +15366,8 @@
     "adivináis": {
         "adivinais": 2
     },
-    "antropología": {
-        "antropologia": 2
+    "astronomía": {
+        "astronomia": 2
     },
     "conmoviéndolos": {
         "conmoviendolos": 2
@@ -16111,8 +15384,8 @@
     "munatones": {
         "muñatones": 2
     },
-    "1816": {
-        "181g": 2
+    "ausenté": {
+        "ausente": 2
     },
     "llegaremos": {
         "llegarémos": 2
@@ -16299,9 +15572,6 @@
     "rosas": {
         "rósas": 2
     },
-    "1802": {
-        "j802": 2
-    },
     "gamín": {
         "gamin": 2
     },
@@ -16333,9 +15603,6 @@
     "distraídos": {
         "distraidos": 2
     },
-    "megaterio": {
-        "megatério": 2
-    },
     "quítese": {
         "quitese": 2
     },
@@ -16361,10 +15628,6 @@
         "géografo": 1,
         "geografo": 1
     },
-    "apagará": {
-        "apagar": 1,
-        "apagarâ": 1
-    },
     "consumiría": {
         "consumiria": 2
     },
@@ -16382,9 +15645,6 @@
     },
     "hipocondríacas": {
         "hipocondriacas": 2
-    },
-    "prosaico": {
-        "prosáico": 2
     },
     "matís": {
         "matis": 2
@@ -16505,17 +15765,8 @@
     "arcángeles": {
         "arcangeles": 2
     },
-    "soberana": {
-        "soborana": 2
-    },
-    "ceñírsela": {
-        "cenfreela": 2
-    },
     "frigisísimo": {
         "frigisisimo": 2
-    },
-    "rentísticas": {
-        "rentisticas": 2
     },
     "efímero": {
         "efimero": 2
@@ -16541,9 +15792,6 @@
     "asciéndese": {
         "asciendese": 2
     },
-    "encárgase": {
-        "encargase": 2
-    },
     "desmerecían": {
         "desmerecian": 2
     },
@@ -16559,11 +15807,11 @@
     "místico": {
         "mistico": 2
     },
-    "filosófico": {
-        "filosofico": 2
-    },
     "categórica": {
         "categorica": 2
+    },
+    "ridículas": {
+        "ridiculas": 2
     },
     "graciosísima": {
         "graciosisima": 2
@@ -16579,9 +15827,6 @@
     },
     "risueña": {
         "risuena": 2
-    },
-    "inválidos": {
-        "invalidos": 2
     },
     "mostrarán": {
         "mostraran": 2
@@ -16617,9 +15862,6 @@
     "votarían": {
         "votarian": 2
     },
-    "14": {
-        "ry": 2
-    },
     "homéricos": {
         "homericos": 2
     },
@@ -16635,10 +15877,6 @@
     "implícita": {
         "implicita": 2
     },
-    "veré": {
-        "vere": 1,
-        "vee": 1
-    },
     "dogmática": {
         "dogmatica": 2
     },
@@ -16647,9 +15885,6 @@
     },
     "anatematizándolo": {
         "anatematizandolo": 2
-    },
-    "unidades": {
-        "unvidades": 2
     },
     "remolón": {
         "remolon": 2
@@ -16675,9 +15910,6 @@
     "santón": {
         "santon": 2
     },
-    "ahorcó": {
-        "ahorco": 2
-    },
     "échese": {
         "echése": 1,
         "echese": 1
@@ -16695,12 +15927,6 @@
         "pequeñisimo": 1,
         "pequenisimo": 1
     },
-    "saxón": {
-        "saxon": 2
-    },
-    "tírelo": {
-        "tirelo": 2
-    },
     "cató": {
         "cato": 2
     },
@@ -16712,9 +15938,6 @@
     },
     "torcía": {
         "torcia": 2
-    },
-    "manotón": {
-        "manoton": 2
     },
     "logré": {
         "logre": 2
@@ -16729,8 +15952,8 @@
     "averigüé": {
         "averigue": 2
     },
-    "apadrinado": {
-        "apadrinath": 2
+    "estornudó": {
+        "estornudo": 2
     },
     "empezaré": {
         "empezare": 2
@@ -16750,9 +15973,6 @@
     "resolváis": {
         "resolvais": 2
     },
-    "rompérselo": {
-        "romperselo": 2
-    },
     "zumbranería": {
         "zumbraneria": 2
     },
@@ -16761,15 +15981,6 @@
     },
     "atronó": {
         "atrono": 2
-    },
-    "ahora": {
-        "ora": 2
-    },
-    "comer": {
-        "come": 2
-    },
-    "chicos": {
-        "chicoj": 2
     },
     "huérfanillas": {
         "huerfanillas": 2
@@ -16832,18 +16043,15 @@
     "placía": {
         "placia": 2
     },
-    "efectuó": {
-        "efectu6": 2
-    },
     "taquígrafa": {
         "taquigrafa": 2
-    },
-    "tratóse": {
-        "tratose": 2
     },
     "bisturí": {
         "bisturi": 1,
         "visturi": 1
+    },
+    "manchó": {
+        "mancho": 2
     },
     "empuño": {
         "empuno": 2
@@ -16909,9 +16117,6 @@
     "meritísimos": {
         "meritisimos": 2
     },
-    "mormón": {
-        "mormon": 2
-    },
     "elegían": {
         "elegian": 2
     },
@@ -16929,9 +16134,6 @@
     },
     "anfibologías": {
         "anfibologias": 2
-    },
-    "robarás": {
-        "robaras": 2
     },
     "famélico": {
         "famelico": 2
@@ -16966,9 +16168,6 @@
         "regia": 1,
         "rejía": 1
     },
-    "ensayos": {
-        "sepsayos": 2
-    },
     "trataré": {
         "tratare": 2
     },
@@ -16978,10 +16177,6 @@
     "cumpliré": {
         "cumplire": 2
     },
-    "regalía": {
-        "reneralia": 1,
-        "regalia": 1
-    },
     "éter": {
         "eter": 2
     },
@@ -16990,12 +16185,6 @@
     },
     "recomiéndase": {
         "recomiendase": 2
-    },
-    "estaré": {
-        "estare": 2
-    },
-    "11": {
-        "il": 2
     },
     "levántate": {
         "levantate": 2
@@ -17033,60 +16222,20 @@
     "homeopático": {
         "homeopatico": 2
     },
-    "formada": {
-        "mada": 2
-    },
-    "diferente": {
-        "dieijente": 2
-    },
-    "nivelando": {
-        "niveland": 2
-    },
-    "60": {
-        "go": 2
-    },
-    "juzgados": {
-        "jucoca": 2
-    },
-    "cauca": {
-        "cato": 2
-    },
     "abdías": {
         "abdias": 2
     },
     "entregárselos": {
         "entregarselos": 2
     },
-    "mejía": {
-        "mejia": 2
-    },
     "gutiérrez_": {
         "gutierrez_": 2
-    },
-    "luciano": {
-        "laciano": 2
-    },
-    "refunfuñó": {
-        "refunfun6": 2
-    },
-    "muerto": {
-        "maerto": 2
     },
     "empedó": {
         "empedo": 2
     },
     "alfabético": {
         "alfabetico": 2
-    },
-    "orígenes": {
-        "origenes": 1,
-        "oríjenes": 1
-    },
-    "habana": {
-        "habavalifcaotones": 2
-    },
-    "validaciones": {
-        "it": 2
     },
     "háblame": {
         "hablame": 2
@@ -17096,9 +16245,6 @@
     },
     "tución": {
         "tucion": 2
-    },
-    "liberal": {
-        "libera": 2
     },
     "quitándole": {
         "quitandole": 2
@@ -17116,32 +16262,11 @@
     "descansábamos": {
         "descansabamos": 2
     },
-    "primer": {
-        "primo": 2
-    },
-    "númeroes": {
-        "numeroes": 2
-    },
     "sobrevendrá": {
         "sobrevendra": 2
     },
-    "entiende": {
-        "entendido": 2
-    },
-    "tánez": {
-        "tanez": 2
-    },
     "matemática": {
         "matematica": 2
-    },
-    "82": {
-        "e2": 2
-    },
-    "armónico": {
-        "armonico": 2
-    },
-    "órga": {
-        "orga": 2
     },
     "absalón": {
         "absalon": 2
@@ -17164,9 +16289,6 @@
     },
     "ministración": {
         "ministracion": 2
-    },
-    "891": {
-        "89i": 2
     },
     "conjunción": {
         "conjuncion": 2
@@ -17192,9 +16314,6 @@
     },
     "alacrán": {
         "alacran": 2
-    },
-    "rosalía": {
-        "rosalia": 2
     },
     "partículas": {
         "particulas": 2
@@ -17259,23 +16378,11 @@
     "cómodo": {
         "comodo": 2
     },
-    "6º": {
-        "so": 2
-    },
     "pintándole": {
         "pintandole": 2
     },
-    "subordinados": {
-        "subordinadosi": 2
-    },
-    "nadie": {
-        "nadje": 2
-    },
     "jugó": {
         "jugo": 2
-    },
-    "ganarse": {
-        "ganarso": 2
     },
     "litográfica": {
         "litografica": 2
@@ -17303,9 +16410,6 @@
     },
     "discípula": {
         "discipula": 2
-    },
-    "1": {
-        "i": 2
     },
     "liquefacción": {
         "liquefaccion": 2
@@ -17344,11 +16448,18 @@
     "cerré": {
         "cerre": 2
     },
+    "vida": {
+        "vída": 1,
+        "bida": 1
+    },
     "nocía": {
         "nocia": 2
     },
     "arrastráis": {
         "arrastrais": 2
+    },
+    "físicamente": {
+        "fisicamente": 2
     },
     "posible": {
         "posíble": 2
@@ -17365,9 +16476,6 @@
     },
     "estropeadísimo": {
         "estropeadisimo": 2
-    },
-    "trae": {
-        "tra3": 2
     },
     "oírla": {
         "oirla": 2
@@ -17402,12 +16510,6 @@
     },
     "oirán": {
         "oiran": 2
-    },
-    "renuncia": {
-        "cia": 2
-    },
-    "ofendió": {
-        "ofendio": 2
     },
     "repercutió": {
         "repercutio": 2
@@ -17457,12 +16559,6 @@
     "apuró": {
         "apuro": 2
     },
-    "alimañas": {
-        "alimanas": 2
-    },
-    "dañinas": {
-        "daninas": 2
-    },
     "arévalo": {
         "arevalo": 2
     },
@@ -17481,14 +16577,8 @@
     "desplomó": {
         "desplomo": 2
     },
-    "cualidades": {
-        "cualidas": 2
-    },
     "besó": {
         "beso": 2
-    },
-    "honor": {
-        "bonor": 2
     },
     "pronunciación": {
         "pronunciacion": 2
@@ -17511,14 +16601,11 @@
     "pedírmela": {
         "pedirmela": 2
     },
+    "novísima": {
+        "novisima": 2
+    },
     "acuérdate": {
         "acuerdate": 2
-    },
-    "imprímome": {
-        "imprinome": 2
-    },
-    "log": {
-        "1og": 2
     },
     "cañerías": {
         "canerías": 2
@@ -17575,9 +16662,6 @@
     "tiránico": {
         "tiranico": 2
     },
-    "pasquín": {
-        "pasquin": 2
-    },
     "pequeñitos": {
         "pequenitos": 2
     },
@@ -17605,12 +16689,6 @@
     "campañas": {
         "campanas": 2
     },
-    "lecherías": {
-        "lecherias": 2
-    },
-    "noria": {
-        "nor": 2
-    },
     "puntas": {
         "puntás": 2
     },
@@ -17620,6 +16698,10 @@
     },
     "genealogía": {
         "genealogia": 2
+    },
+    "exponer": {
+        "expóner": 1,
+        "esponer": 1
     },
     "erótica": {
         "erotica": 2
@@ -17635,12 +16717,6 @@
     },
     "cancrónica": {
         "cancronica": 2
-    },
-    "leíamos": {
-        "lefamos": 2
-    },
-    "carta": {
-        "eart": 2
     },
     "habiéndoles": {
         "habiendoles": 2
@@ -17712,9 +16788,6 @@
     "cerrado": {
         "čerrado": 2
     },
-    "flautín": {
-        "flautin": 2
-    },
     "calificársela": {
         "calificarsela": 2
     },
@@ -17723,12 +16796,6 @@
     },
     "tínua": {
         "tinua": 2
-    },
-    "bravío": {
-        "bravio": 2
-    },
-    "jus": {
-        "1jus": 2
     },
     "sisaldrí": {
         "sisaldri": 2
@@ -17837,6 +16904,9 @@
     },
     "descansa": {
         "descanza": 2
+    },
+    "hubo": {
+        "huvo": 2
     },
     "suelas": {
         "zuelas": 2
@@ -18012,6 +17082,9 @@
     "ropaje": {
         "ropage": 2
     },
+    "ocasiones": {
+        "ocaciones": 2
+    },
     "censura": {
         "sensura": 2
     },
@@ -18035,6 +17108,9 @@
     },
     "ganso": {
         "ganzo": 2
+    },
+    "religiosas": {
+        "relijiosas": 2
     },
     "narices": {
         "narizes": 2
@@ -18060,6 +17136,9 @@
     "sumergida": {
         "sumerjida": 2
     },
+    "estrago": {
+        "extrago": 2
+    },
     "argentina": {
         "arjentina": 2
     },
@@ -18077,6 +17156,9 @@
     },
     "toser": {
         "tocer": 2
+    },
+    "tos": {
+        "toz": 2
     },
     "argel": {
         "arjel": 2
@@ -18099,14 +17181,8 @@
     "silbando": {
         "silvando": 2
     },
-    "gestos": {
-        "jestos": 2
-    },
     "cuervo": {
         "cuerbo": 2
-    },
-    "necesidad": {
-        "nececidad": 2
     },
     "escenas": {
         "ecsenas": 1,
@@ -18122,11 +17198,11 @@
     "fingido": {
         "finjido": 2
     },
-    "extraordinaria": {
-        "estraordinaria": 2
-    },
     "expuesta": {
         "espuesta": 2
+    },
+    "ver": {
+        "ber": 2
     },
     "experimentar": {
         "esperimentar": 2
@@ -18174,9 +17250,6 @@
     "utensilios": {
         "utencilios": 2
     },
-    "odaliscas": {
-        "odalizcas": 2
-    },
     "ruso": {
         "ruzo": 2
     },
@@ -18195,9 +17268,6 @@
     "esfuerzos": {
         "esfuersos": 1,
         "exfuerzos": 1
-    },
-    "discusiones": {
-        "discuciones": 2
     },
     "cabal": {
         "caval": 2
@@ -18228,9 +17298,6 @@
     "escogido": {
         "escojido": 2
     },
-    "desasosiego": {
-        "desasociego": 2
-    },
     "cuadro": {
         "quadro": 2
     },
@@ -18246,6 +17313,9 @@
     },
     "lisiados": {
         "liciados": 2
+    },
+    "absorbida": {
+        "absorvida": 2
     },
     "ingeniero": {
         "yngeniero": 1,
@@ -18266,6 +17336,9 @@
     },
     "excusa": {
         "escusa": 2
+    },
+    "zacarías": {
+        "sacarias": 2
     },
     "corbeta": {
         "corveta": 2
@@ -18296,20 +17369,14 @@
     "excéntricos": {
         "escéntricos": 2
     },
-    "expresado": {
-        "espresado": 2
-    },
-    "genuflexiones": {
-        "jenuflexiones": 2
-    },
     "ligeras": {
         "lijeras": 2
     },
+    "regidor": {
+        "rejidor": 2
+    },
     "grabada": {
         "gravada": 2
-    },
-    "haz": {
-        "has": 2
     },
     "trajeren": {
         "traxeren": 1,
@@ -18334,6 +17401,9 @@
     },
     "socavó": {
         "socabó": 2
+    },
+    "cocida": {
+        "cosida": 2
     },
     "cruje": {
         "cruge": 2
@@ -18370,8 +17440,15 @@
     "cuarto": {
         "quarto": 2
     },
-    "has": {
-        "haz": 2
+    "saliva": {
+        "saliba": 2
+    },
+    "testuz": {
+        "testús": 1,
+        "testus": 1
+    },
+    "sacerdote": {
+        "saserdote": 2
     },
     "esfuerzo": {
         "esfuerso": 1,
@@ -18396,9 +17473,6 @@
     "zapatos": {
         "sapatos": 2
     },
-    "infeliz": {
-        "infelis": 2
-    },
     "congresos": {
         "congresox": 1,
         "congrecos": 1
@@ -18410,18 +17484,8 @@
         "presico": 1,
         "presiso": 1
     },
-    "rapidez": {
-        "rapides": 2
-    },
-    "farsante": {
-        "farzante": 1,
-        "farcante": 1
-    },
     "efigies": {
         "efijies": 2
-    },
-    "vosotros": {
-        "bosotros": 2
     },
     "extraer": {
         "estraer": 2
@@ -18451,6 +17515,9 @@
     "explícito": {
         "esplicito": 2
     },
+    "generaciones": {
+        "jeneraciones": 2
+    },
     "explica": {
         "esplica": 2
     },
@@ -18462,9 +17529,6 @@
     },
     "cierto": {
         "sierto": 2
-    },
-    "barniz": {
-        "barnis": 2
     },
     "boletas": {
         "voletas": 2
@@ -18478,14 +17542,8 @@
     "gime": {
         "jime": 2
     },
-    "agilidad": {
-        "ajilidad": 2
-    },
     "gil": {
         "jil": 2
-    },
-    "imaginarios": {
-        "imajinarios": 2
     },
     "cogidos": {
         "cojidos": 2
@@ -18529,14 +17587,8 @@
     "empeñará": {
         "empeñara": 1
     },
-    "confundirían": {
-        "confundirian": 1
-    },
     "sonrió": {
         "sonrio": 1
-    },
-    "ofendáis": {
-        "ofendais": 1
     },
     "tenazmente": {
         "tenáżmente": 1
@@ -18742,11 +17794,8 @@
     "parangón": {
         "parangon": 1
     },
-    "maduramente": {
-        "maduramene": 1
-    },
-    "acuérdese": {
-        "acuerdese": 1
+    "acefalía": {
+        "acefalia": 1
     },
     "entreabrió": {
         "entreabrio": 1
@@ -18789,6 +17838,9 @@
     },
     "manifestáis": {
         "manifestais": 1
+    },
+    "presumía": {
+        "presumia": 1
     },
     "estímulos": {
         "estimulos": 1
@@ -18919,14 +17971,8 @@
     "hubiésemos": {
         "hubiesemos": 1
     },
-    "vaguedades": {
-        "vagatelas": 1
-    },
     "quiere": {
         "quière": 1
-    },
-    "vienen": {
-        "viene": 1
     },
     "téngalo": {
         "tengalo": 1
@@ -19009,6 +18055,9 @@
     "capaces": {
         "capáces": 1
     },
+    "dietéticos": {
+        "dieteticos": 1
+    },
     "necia": {
         "nécia": 1
     },
@@ -19075,9 +18124,6 @@
     "gradúe": {
         "gradûe": 1
     },
-    "culpo": {
-        "culpole": 1
-    },
     "gerión": {
         "gerion": 1
     },
@@ -19113,9 +18159,6 @@
     },
     "negándonos": {
         "negandonos": 1
-    },
-    "formarse": {
-        "formare": 1
     },
     "anfión": {
         "anfion": 1
@@ -19441,8 +18484,14 @@
     "trayéndome": {
         "trayendome": 1
     },
+    "patriotismo": {
+        "patriótismo": 1
+    },
     "adquirí": {
         "adquiri": 1
+    },
+    "capital": {
+        "capítal": 1
     },
     "andaremos": {
         "andarémos": 1
@@ -19575,6 +18624,9 @@
     },
     "sean": {
         "séan": 1
+    },
+    "contaría": {
+        "contaria": 1
     },
     "parlachín": {
         "parlachin": 1
@@ -19747,9 +18799,6 @@
     "clau": {
         "claú": 1
     },
-    "pendal": {
-        "endal": 1
-    },
     "cumplían": {
         "cumplian": 1
     },
@@ -19788,6 +18837,9 @@
     },
     "batía": {
         "batia": 1
+    },
+    "comprarán": {
+        "compraran": 1
     },
     "disponíamos": {
         "disponiamos": 1
@@ -19978,9 +19030,6 @@
     "judaísmo": {
         "judaismo": 1
     },
-    "apercibió": {
-        "apercibio": 1
-    },
     "escasísimo": {
         "escasisimo": 1
     },
@@ -20124,9 +19173,6 @@
     },
     "pródiga": {
         "prodiga": 1
-    },
-    "llámalos": {
-        "llamalos": 1
     },
     "guíe": {
         "guie": 1
@@ -20416,6 +19462,9 @@
     "medianía": {
         "mediania": 1
     },
+    "temístocles": {
+        "temistocles": 1
+    },
     "cambiársela": {
         "cambiarsela": 1
     },
@@ -20475,9 +19524,6 @@
     },
     "habrás": {
         "habras": 1
-    },
-    "calor": {
-        "caloro": 1
     },
     "timaná": {
         "timana": 1
@@ -20554,9 +19600,6 @@
     "espantó": {
         "espanto": 1
     },
-    "sacrifiqué": {
-        "sacrifique": 1
-    },
     "disuélvase": {
         "disuelvase": 1
     },
@@ -20578,6 +19621,9 @@
     "estéticamente": {
         "esteticamente": 1
     },
+    "enviándolo": {
+        "enviandolo": 1
+    },
     "imitó": {
         "imito": 1
     },
@@ -20589,6 +19635,9 @@
     },
     "característico": {
         "caracteristico": 1
+    },
+    "ampurdán": {
+        "ampurdan": 1
     },
     "preocupará": {
         "preocupara": 1
@@ -20775,9 +19824,6 @@
     },
     "pedís": {
         "pedis": 1
-    },
-    "pidieron": {
-        "pedipin": 1
     },
     "desaprobó": {
         "desaprobo": 1
@@ -20971,6 +20017,9 @@
     "fantásticas": {
         "fantasticas": 1
     },
+    "ponzoña": {
+        "ponzona": 1
+    },
     "barcelonés": {
         "barcelones": 1
     },
@@ -21021,12 +20070,6 @@
     },
     "subdivisión": {
         "subdivision": 1
-    },
-    "estemos": {
-        "tamos": 1
-    },
-    "alejarán": {
-        "alejaran": 1
     },
     "trémulos": {
         "tremulos": 1
@@ -21096,12 +20139,6 @@
     },
     "fatídicas": {
         "fatidicas": 1
-    },
-    "dólares": {
-        "dollars": 1
-    },
-    "inglaterra": {
-        "inglatera": 1
     },
     "signación": {
         "signacion": 1
@@ -21232,9 +20269,6 @@
     "peñó": {
         "peño": 1
     },
-    "aprovechémoslo": {
-        "aprovechemoslo": 1
-    },
     "lavapiés": {
         "lavapies": 1
     },
@@ -21330,12 +20364,6 @@
     },
     "agítanse": {
         "agitanse": 1
-    },
-    "anticatólico": {
-        "anticatolico": 1
-    },
-    "ganan": {
-        "gan": 1
     },
     "debilitó": {
         "debilito": 1
@@ -21667,6 +20695,9 @@
     "pagarés": {
         "pagares": 1
     },
+    "extorsión": {
+        "extorsion": 1
+    },
     "transigió": {
         "transigio": 1
     },
@@ -21702,9 +20733,6 @@
     },
     "introduciéndole": {
         "introduciendole": 1
-    },
-    "yáñez": {
-        "yanez": 1
     },
     "sobra": {
         "sóbra": 1
@@ -21778,9 +20806,6 @@
     "recerán": {
         "receran": 1
     },
-    "consagrará": {
-        "consagrara": 1
-    },
     "pórticos": {
         "porticos": 1
     },
@@ -21810,9 +20835,6 @@
     },
     "sustraído": {
         "sustraido": 1
-    },
-    "d": {
-        "di": 1
     },
     "demostrarán": {
         "demostraran": 1
@@ -22018,6 +21040,9 @@
     "nenén": {
         "nenen": 1
     },
+    "dueñas": {
+        "duenas": 1
+    },
     "publicaría": {
         "publicaria": 1
     },
@@ -22177,9 +21202,6 @@
     "camas": {
         "camás": 1
     },
-    "inspirado": {
-        "nspirado": 1
-    },
     "oirás": {
         "oiras": 1
     },
@@ -22200,9 +21222,6 @@
     },
     "ponérselo": {
         "ponerselo": 1
-    },
-    "europa": {
-        "europal": 1
     },
     "evapórese": {
         "evaporese": 1
@@ -22261,9 +21280,6 @@
     "discutíamos": {
         "discutiamos": 1
     },
-    "9": {
-        "94": 1
-    },
     "ríndete": {
         "rindete": 1
     },
@@ -22311,6 +21327,9 @@
     },
     "podrás": {
         "podras": 1
+    },
+    "pedantería": {
+        "pedanteria": 1
     },
     "lloró": {
         "llorò": 1
@@ -22459,6 +21478,9 @@
     "salvé": {
         "salve": 1
     },
+    "estúpido": {
+        "estupido": 1
+    },
     "galpón": {
         "galpon": 1
     },
@@ -22504,9 +21526,6 @@
     "nombrara": {
         "nombrará": 1
     },
-    "soñaba": {
-        "sonaba": 1
-    },
     "arrastrándose": {
         "arrastrandose": 1
     },
@@ -22531,17 +21550,11 @@
     "niníe": {
         "ninie": 1
     },
-    "literarias": {
-        "litarias": 1
-    },
     "ocupábame": {
         "ocupabame": 1
     },
     "cantarán": {
         "cantaran": 1
-    },
-    "rogámoste": {
-        "rogamoste": 1
     },
     "senaturía": {
         "senaturia": 1
@@ -22863,6 +21876,9 @@
     },
     "señalándola": {
         "señalandola": 1
+    },
+    "dirigióse": {
+        "dirigiose": 1
     },
     "mentón": {
         "ménton": 1
@@ -23203,9 +22219,6 @@
     "podremos": {
         "podrémos": 1
     },
-    "predestinación": {
-        "predestinacion": 1
-    },
     "balbón": {
         "balbon": 1
     },
@@ -23416,9 +22429,6 @@
     "nómades": {
         "nomades": 1
     },
-    "grado": {
-        "rado": 1
-    },
     "azul": {
         "azúl": 1
     },
@@ -23548,6 +22558,9 @@
     "construirla": {
         "construírla": 1
     },
+    "inéditas": {
+        "ineditas": 1
+    },
     "edito": {
         "édito": 1
     },
@@ -23610,6 +22623,9 @@
     },
     "agotó": {
         "agoto": 1
+    },
+    "compañón": {
+        "compañon": 1
     },
     "compañera": {
         "companera": 1
@@ -23676,9 +22692,6 @@
     },
     "arrancársela": {
         "arrancarsela": 1
-    },
-    "quiérala": {
-        "quierala": 1
     },
     "animarán": {
         "animaran": 1
@@ -23908,6 +22921,9 @@
     "recorría": {
         "recorria": 1
     },
+    "colocaría": {
+        "colocaria": 1
+    },
     "preparóse": {
         "preparose": 1
     },
@@ -23974,6 +22990,9 @@
     "fortificándose": {
         "fortificandose": 1
     },
+    "antropología": {
+        "antropologia": 1
+    },
     "fincó": {
         "finco": 1
     },
@@ -24036,9 +23055,6 @@
     },
     "regios": {
         "régios": 1
-    },
-    "mente": {
-        "menttl": 1
     },
     "egoísmos": {
         "egoismos": 1
@@ -24124,9 +23140,6 @@
     "insubordinación": {
         "insubordinacion": 1
     },
-    "yarqas": {
-        "yárqas": 1
-    },
     "eslabón": {
         "eslabon": 1
     },
@@ -24153,9 +23166,6 @@
     },
     "acudisteis": {
         "acudísteis": 1
-    },
-    "clamáis": {
-        "clamais": 1
     },
     "zéfiro": {
         "zefiro": 1
@@ -24189,6 +23199,9 @@
     },
     "excedía": {
         "excedia": 1
+    },
+    "recitación": {
+        "recitacion": 1
     },
     "échales": {
         "echales": 1
@@ -24367,9 +23380,6 @@
     "escribían": {
         "escribíań": 1
     },
-    "dar": {
-        "da": 1
-    },
     "reimprimiéndolas": {
         "reimprimiendolas": 1
     },
@@ -24514,9 +23524,6 @@
     "biógrafo": {
         "biografo": 1
     },
-    "tirania": {
-        "tiranía": 1
-    },
     "luján": {
         "lujan": 1
     },
@@ -24613,6 +23620,9 @@
     "permitían": {
         "permitian": 1
     },
+    "mahón": {
+        "mahon": 1
+    },
     "agotaronse": {
         "agotáronse": 1
     },
@@ -24669,6 +23679,9 @@
     },
     "veló": {
         "velo": 1
+    },
+    "cráteres": {
+        "crateres": 1
     },
     "maravedís": {
         "maravedis": 1
@@ -24841,6 +23854,9 @@
     "apio": {
         "ápio": 1
     },
+    "restituida": {
+        "restituída": 1
+    },
     "indépendance": {
         "independance": 1
     },
@@ -24958,12 +23974,6 @@
     "adornó": {
         "adorno": 1
     },
-    "4º": {
-        "4": 1
-    },
-    "excítase": {
-        "excitase": 1
-    },
     "concurrirán": {
         "concurriran": 1
     },
@@ -25029,6 +24039,9 @@
     },
     "perdonémonos": {
         "perdonemonos": 1
+    },
+    "dan": {
+        "dán": 1
     },
     "elipsis": {
         "elípsis": 1
@@ -25254,9 +24267,6 @@
     },
     "devolviéndome": {
         "devolviendome": 1
-    },
-    "juan": {
-        "jua": 1
     },
     "déjadme": {
         "dejadme": 1
@@ -26188,9 +25198,6 @@
     "mátrica": {
         "matrica": 1
     },
-    "decretamos": {
-        "decretamost": 1
-    },
     "expropíaseles": {
         "expropiaseles": 1
     },
@@ -26226,6 +25233,9 @@
     },
     "almíbares": {
         "almibares": 1
+    },
+    "filosófico": {
+        "filosofico": 1
     },
     "gárrula": {
         "garrula": 1
@@ -26373,9 +25383,6 @@
     },
     "gruñen": {
         "grunen": 1
-    },
-    "perjuicio": {
-        "percuun": 1
     },
     "fortificó": {
         "fortifico": 1
@@ -26668,6 +25675,9 @@
     "corroída": {
         "corroida": 1
     },
+    "veré": {
+        "vere": 1
+    },
     "suprímanséle": {
         "suprimánsele": 1
     },
@@ -26875,9 +25885,6 @@
     "nóveles": {
         "noveles": 1
     },
-    "rentística": {
-        "rentistica": 1
-    },
     "enderezó": {
         "enderezo": 1
     },
@@ -26907,9 +25914,6 @@
     },
     "atendía": {
         "atendia": 1
-    },
-    "oh": {
-        "toh": 1
     },
     "llevéis": {
         "lleveis": 1
@@ -27052,17 +26056,11 @@
     "asoló": {
         "asolo": 1
     },
-    "reciba": {
-        "recilia": 1
-    },
     "raídos": {
         "raidos": 1
     },
     "beatífica": {
         "beatifica": 1
-    },
-    "tómalos": {
-        "tomaloss": 1
     },
     "acostumbrándola": {
         "acostumbrandola": 1
@@ -27174,9 +26172,6 @@
     },
     "refiéranos": {
         "refieranos": 1
-    },
-    "acompañóme": {
-        "acompanome": 1
     },
     "moste": {
         "mosté": 1
@@ -27504,9 +26499,6 @@
     },
     "circuían": {
         "circuian": 1
-    },
-    "retraeme": {
-        "moretraeme": 1
     },
     "chupó": {
         "chupo": 1
@@ -27940,9 +26932,6 @@
     "vilipendió": {
         "vilipendio": 1
     },
-    "mama": {
-        "mamaj": 1
-    },
     "turbará": {
         "turbara": 1
     },
@@ -27969,9 +26958,6 @@
     },
     "palpábamos": {
         "palpabamos": 1
-    },
-    "desvanecer": {
-        "desvane": 1
     },
     "frenética": {
         "frenetica": 1
@@ -28065,9 +27051,6 @@
     },
     "formaría": {
         "formaria": 1
-    },
-    "enhiesta": {
-        "enhiésta": 1
     },
     "sumió": {
         "sumio": 1
@@ -28213,9 +27196,6 @@
     "felicitándoles": {
         "felicitandoles": 1
     },
-    "hacienda": {
-        "hacien": 1
-    },
     "procuráis": {
         "procurais": 1
     },
@@ -28230,9 +27210,6 @@
     },
     "nobilísima": {
         "nobilisima": 1
-    },
-    "amado": {
-        "mimado": 1
     },
     "sacábamos": {
         "sacabamos": 1
@@ -28432,12 +27409,6 @@
     "engañoto": {
         "enganoto": 1
     },
-    "copfrito": {
-        "copfritu": 1
-    },
-    "inmortal": {
-        "inmorta": 1
-    },
     "acabáramos": {
         "acabaramos": 1
     },
@@ -28476,9 +27447,6 @@
     },
     "efectísimo": {
         "efectisimo": 1
-    },
-    "cargado": {
-        "carado": 1
     },
     "democrápoder": {
         "democrapoder": 1
@@ -28684,6 +27652,9 @@
     "existirán": {
         "existiran": 1
     },
+    "mejía": {
+        "mejia": 1
+    },
     "oligárquicas": {
         "oligarquicas": 1
     },
@@ -28740,9 +27711,6 @@
     },
     "melancolica": {
         "melancólica": 1
-    },
-    "crear": {
-        "ereu": 1
     },
     "sesquiló": {
         "sesquilo": 1
@@ -28822,6 +27790,9 @@
     "jurí": {
         "juri": 1
     },
+    "orígenes": {
+        "origenes": 1
+    },
     "buscándolas": {
         "buscandolas": 1
     },
@@ -28881,9 +27852,6 @@
     },
     "mocía": {
         "mocia": 1
-    },
-    "grillo": {
-        "grilo": 1
     },
     "aristócratas": {
         "aristocratas": 1
@@ -29029,9 +27997,6 @@
     "telérico": {
         "telerico": 1
     },
-    "alentó": {
-        "alento": 1
-    },
     "farías": {
         "farias": 1
     },
@@ -29043,15 +28008,6 @@
     },
     "resistí": {
         "resisti": 1
-    },
-    "correspondencia": {
-        "cuscoincion": 1
-    },
-    "llón": {
-        "llon": 1
-    },
-    "colombia": {
-        "colombi": 1
     },
     "personalísimo": {
         "personalisimo": 1
@@ -29076,9 +28032,6 @@
     },
     "arriverábamos": {
         "arriverabamos": 1
-    },
-    "hemos": {
-        "heinos": 1
     },
     "ccalión": {
         "ccalion": 1
@@ -29109,9 +28062,6 @@
     },
     "reforme": {
         "réforme": 1
-    },
-    "inmenso": {
-        "1": 1
     },
     "existirá": {
         "existira": 1
@@ -29182,12 +28132,6 @@
     "antipatizaría": {
         "antipatizaria": 1
     },
-    "espera": {
-        "sesprite": 1
-    },
-    "intercederéis": {
-        "intercedereis": 1
-    },
     "brújula": {
         "brujula": 1
     },
@@ -29211,9 +28155,6 @@
     },
     "escuálidos": {
         "escualidos": 1
-    },
-    "segundo": {
-        "seondo": 1
     },
     "verídica": {
         "veridica": 1
@@ -29260,9 +28201,6 @@
     "imputándole": {
         "imputandole": 1
     },
-    "urgente": {
-        "gencin": 1
-    },
     "antístenes": {
         "antistenes": 1
     },
@@ -29293,12 +28231,6 @@
     "tímese": {
         "timese": 1
     },
-    "joyerías": {
-        "joteriary": 1
-    },
-    "almacenes": {
-        "almacenca": 1
-    },
     "contémplale": {
         "contemplale": 1
     },
@@ -29326,8 +28258,8 @@
     "desconocía": {
         "desconocia": 1
     },
-    "abatía": {
-        "abatia": 1
+    "regalía": {
+        "regalia": 1
     },
     "clérigo": {
         "clerigo": 1
@@ -29346,6 +28278,9 @@
     },
     "mediándose": {
         "mediandose": 1
+    },
+    "rosalía": {
+        "rosalia": 1
     },
     "recomendé": {
         "recomende": 1
@@ -29373,6 +28308,9 @@
     },
     "trasportándola": {
         "trasportandola": 1
+    },
+    "compresión": {
+        "compresion": 1
     },
     "largándose": {
         "largandose": 1
@@ -29466,6 +28404,9 @@
     },
     "trimiño": {
         "trimino": 1
+    },
+    "secretarías": {
+        "secretarias": 1
     },
     "caños": {
         "canos": 1
@@ -29827,9 +28768,6 @@
     "lastimó": {
         "lastimo": 1
     },
-    "recíbalo": {
-        "recibalo": 1
-    },
     "échale": {
         "echale": 1
     },
@@ -29917,8 +28855,14 @@
     "sabrosísima": {
         "sabrosisima": 1
     },
+    "apagará": {
+        "apagarâ": 1
+    },
     "guardia": {
         "guardía": 1
+    },
+    "noticias": {
+        "notícias": 1
     },
     "venia": {
         "vénia": 1
@@ -29965,11 +28909,11 @@
     "muchos": {
         "muchós": 1
     },
-    "léelo": {
-        "leelo": 1
-    },
     "preparaaranguito": {
         "préparaaranguito": 1
+    },
+    "aguárdame": {
+        "aguardame": 1
     },
     "últimes": {
         "ültimes": 1
@@ -30064,9 +29008,6 @@
     "sepultarás": {
         "sepultaras": 1
     },
-    "progreso": {
-        "rogreso": 1
-    },
     "destilación": {
         "destilacion": 1
     },
@@ -30100,6 +29041,9 @@
     "encontrándonos": {
         "encontrandonos": 1
     },
+    "estaré": {
+        "estare": 1
+    },
     "frenéticamente": {
         "freneticamente": 1
     },
@@ -30108,15 +29052,6 @@
     },
     "impondrá": {
         "impondra": 1
-    },
-    "tiránicamente": {
-        "tiranicamente": 1
-    },
-    "usurpados": {
-        "usurpadose": 1
-    },
-    "ignominia": {
-        "ignomini": 1
     },
     "asediándole": {
         "asediandole": 1
@@ -30601,9 +29536,6 @@
     "apóyate": {
         "apoyate": 1
     },
-    "gratitud": {
-        "gratitude": 1
-    },
     "poniéndome": {
         "poniendome": 1
     },
@@ -30618,9 +29550,6 @@
     },
     "maldecirá": {
         "maldecira": 1
-    },
-    "1872": {
-        "18724": 1
     },
     "vertían": {
         "vertian": 1
@@ -30666,9 +29595,6 @@
     },
     "báñense": {
         "banense": 1
-    },
-    "rebuscado": {
-        "rebusado": 1
     },
     "lloraréis": {
         "llorareis": 1
@@ -30756,9 +29682,6 @@
     },
     "quebrantándoles": {
         "quebrantandoles": 1
-    },
-    "tranquilícense": {
-        "tranquilicense": 1
     },
     "armiño": {
         "armino": 1
@@ -30940,9 +29863,6 @@
     "cómputo": {
         "computo": 1
     },
-    "lloran": {
-        "horan": 1
-    },
     "correré": {
         "correre": 1
     },
@@ -30954,9 +29874,6 @@
     },
     "refugió": {
         "refugio": 1
-    },
-    "indóciles": {
-        "indociles": 1
     },
     "agregárselo": {
         "agregarselo": 1
@@ -31038,6 +29955,9 @@
     },
     "sustentáculo": {
         "sustentaculo": 1
+    },
+    "salvará": {
+        "salvara": 1
     },
     "combatí": {
         "combati": 1
@@ -31408,9 +30328,6 @@
     "españ": {
         "espan": 1
     },
-    "tuación": {
-        "tuacion": 1
-    },
     "romperá": {
         "rompera": 1
     },
@@ -31434,9 +30351,6 @@
     },
     "recordándole": {
         "recordandole": 1
-    },
-    "tratada": {
-        "atratada": 1
     },
     "preparé": {
         "prepare": 1
@@ -31747,9 +30661,6 @@
     "chitré": {
         "chitre": 1
     },
-    "sucedía": {
-        "sucedia": 1
-    },
     "rábulas": {
         "rabulas": 1
     },
@@ -31987,6 +30898,9 @@
     "reírte": {
         "reirte": 1
     },
+    "flautín": {
+        "flautin": 1
+    },
     "endecornetín": {
         "endecornetin": 1
     },
@@ -32107,6 +31021,9 @@
     "urgía": {
         "urjía": 1
     },
+    "pescuezo": {
+        "pezcueso": 1
+    },
     "traseros": {
         "traceros": 1
     },
@@ -32197,9 +31114,6 @@
     "extenuación": {
         "estenuacion": 1
     },
-    "regenerándolo": {
-        "rejenerandolo": 1
-    },
     "grabador": {
         "gravador": 1
     },
@@ -32232,12 +31146,6 @@
     },
     "dirigime": {
         "dirijime": 1
-    },
-    "despedacé": {
-        "despedasé": 1
-    },
-    "desbaraté": {
-        "desvaraté": 1
     },
     "descuarticé": {
         "descuartisè": 1
@@ -32299,12 +31207,6 @@
     "turbaría": {
         "turbaria": 1
     },
-    "extinguido": {
-        "estinguido": 1
-    },
-    "legislativos": {
-        "lejislativos": 1
-    },
     "despabilarme": {
         "despavilarme": 1
     },
@@ -32355,12 +31257,6 @@
     },
     "sobrecogido": {
         "sobrecojido": 1
-    },
-    "consiente": {
-        "conciente": 1
-    },
-    "véis": {
-        "beis": 1
     },
     "cachivaches": {
         "cachibaches": 1
@@ -32467,6 +31363,9 @@
     "diversiones": {
         "diverciones": 1
     },
+    "empiezan": {
+        "empiesan": 1
+    },
     "avanzamos": {
         "abanzamos": 1
     },
@@ -32506,14 +31405,14 @@
     "calcetas": {
         "calzetas": 1
     },
-    "risa": {
-        "riza": 1
-    },
     "llaves": {
         "llabes": 1
     },
     "tuviese": {
         "tubiese": 1
+    },
+    "avanzado": {
+        "abanzado": 1
     },
     "corregirme": {
         "correjirme": 1
@@ -32523,6 +31422,9 @@
     },
     "pasiones": {
         "paciones": 1
+    },
+    "extraordinaria": {
+        "estraordinaria": 1
     },
     "extranjera": {
         "estranjera": 1
@@ -32553,6 +31455,9 @@
     },
     "verlas": {
         "berlas": 1
+    },
+    "vale": {
+        "bale": 1
     },
     "viajes": {
         "víages": 1
@@ -32599,6 +31504,9 @@
     "levanten": {
         "lebanten": 1
     },
+    "olvidemos": {
+        "olbidemos": 1
+    },
     "valor": {
         "balor": 1
     },
@@ -32623,26 +31531,20 @@
     "ostensiblemente": {
         "ostenciblemente": 1
     },
+    "necesidad": {
+        "nececidad": 1
+    },
     "inversa": {
         "inverza": 1
     },
     "impresiones": {
         "impreciones": 1
     },
-    "sensibilidad": {
-        "sencibilidad": 1
-    },
     "rosal": {
         "rozal": 1
     },
     "mantuviera": {
         "mantubiera": 1
-    },
-    "obrarían": {
-        "obrarian": 1
-    },
-    "procederían": {
-        "prosederian": 1
     },
     "singularizarme": {
         "singularisarme": 1
@@ -32884,6 +31786,9 @@
     "extraerlos": {
         "estraerlos": 1
     },
+    "odaliscas": {
+        "odalizcas": 1
+    },
     "exteriormente": {
         "esteriormente": 1
     },
@@ -32944,11 +31849,14 @@
     "mascar": {
         "mazcar": 1
     },
+    "jefes": {
+        "gefes": 1
+    },
     "concisa": {
         "consisa": 1
     },
-    "explícita": {
-        "esplicita": 1
+    "discusiones": {
+        "discuciones": 1
     },
     "dicha": {
         "disha": 1
@@ -33010,12 +31918,6 @@
     "vejez": {
         "vejes": 1
     },
-    "tocológicas": {
-        "tocolójicas": 1
-    },
-    "paradójica": {
-        "paradogica": 1
-    },
     "ensalzando": {
         "enzalsando": 1
     },
@@ -33030,6 +31932,9 @@
     },
     "exigencia": {
         "exijencia": 1
+    },
+    "desasosiego": {
+        "desasociego": 1
     },
     "inexplicables": {
         "inesplicables": 1
@@ -33075,9 +31980,6 @@
     },
     "acechan": {
         "asechan": 1
-    },
-    "alturas": {
-        "alturaz": 1
     },
     "inescrutables": {
         "inexcrutables": 1
@@ -33157,9 +32059,6 @@
     "señalo": {
         "senalo": 1
     },
-    "dependientes": {
-        "dependientex": 1
-    },
     "grasosas": {
         "gracosas": 1
     },
@@ -33208,6 +32107,9 @@
     "estrenará": {
         "extrenará": 1
     },
+    "clichy": {
+        "clichi": 1
+    },
     "sirven": {
         "sirben": 1
     },
@@ -33223,6 +32125,9 @@
     "beneficencia": {
         "beneficensia": 1
     },
+    "limité": {
+        "limite": 1
+    },
     "costa": {
         "sosta": 1
     },
@@ -33237,9 +32142,6 @@
     },
     "francesa": {
         "franceca": 1
-    },
-    "establece": {
-        "extablece": 1
     },
     "vagina": {
         "vajina": 1
@@ -33307,9 +32209,6 @@
     "chemnitz": {
         "chemnits": 1
     },
-    "vayan": {
-        "bayan": 1
-    },
     "transacciones": {
         "transacsiones": 1
     },
@@ -33366,9 +32265,6 @@
     },
     "eficacísima": {
         "eficasisima": 1
-    },
-    "puertas": {
-        "puertaz": 1
     },
     "insensato": {
         "incensato": 1
@@ -33526,6 +32422,9 @@
     "extorsiones": {
         "estorciones": 1
     },
+    "expresado": {
+        "espresado": 1
+    },
     "registró": {
         "rejistro": 1
     },
@@ -33540,6 +32439,12 @@
     },
     "vermellón": {
         "vermellon": 1
+    },
+    "genuflexiones": {
+        "jenuflexiones": 1
+    },
+    "gestos": {
+        "jestos": 1
     },
     "comulgarían": {
         "comulgarian": 1
@@ -33558,9 +32463,6 @@
     },
     "exprimen": {
         "esprimen": 1
-    },
-    "egipto": {
-        "ejipto": 1
     },
     "exigidos": {
         "exijidos": 1
@@ -33600,9 +32502,6 @@
     },
     "halagüeñas": {
         "halagueñas": 1
-    },
-    "cantará": {
-        "cantara": 1
     },
     "repartía": {
         "repartia": 1
@@ -33808,17 +32707,11 @@
     "yace": {
         "yase": 1
     },
-    "cocida": {
-        "cosida": 1
-    },
     "cocer": {
         "coser": 1
     },
     "cocerla": {
         "coserla": 1
-    },
-    "guajadas": {
-        "juajadas": 1
     },
     "sollozo": {
         "zolloso": 1
@@ -33849,6 +32742,9 @@
     },
     "dirigiste": {
         "dirijiste": 1
+    },
+    "pebeteros": {
+        "peveteros": 1
     },
     "estremecen": {
         "extremecen": 1
@@ -33949,9 +32845,6 @@
     "vendavales": {
         "vendabales": 1
     },
-    "brabante": {
-        "bravante": 1
-    },
     "vecinos": {
         "vezinos": 1
     },
@@ -33978,9 +32871,6 @@
     },
     "reveses": {
         "reveces": 1
-    },
-    "hogaza": {
-        "hogasa": 1
     },
     "jerárquica": {
         "gerárquica": 1
@@ -34240,9 +33130,6 @@
     "nube": {
         "nuve": 1
     },
-    "tejidos": {
-        "tegidos": 1
-    },
     "poderoso": {
         "poderoco": 1
     },
@@ -34297,14 +33184,14 @@
     "carcajes": {
         "carcaxes": 1
     },
+    "estado": {
+        "extado": 1
+    },
     "sirios": {
         "syrios": 1
     },
     "esplendores": {
         "explendores": 1
-    },
-    "pahez": {
-        "pahes": 1
     },
     "expectativas": {
         "espectativas": 1
@@ -34345,14 +33232,8 @@
     "avestruz": {
         "avestrus": 1
     },
-    "atenernos": {
-        "atenernox": 1
-    },
     "insomnios": {
         "insomniox": 1
-    },
-    "forzosa": {
-        "forzoza": 1
     },
     "desvalijado": {
         "desbalijado": 1
@@ -34362,6 +33243,9 @@
     },
     "rija": {
         "riga": 1
+    },
+    "has": {
+        "haz": 1
     },
     "chapucería": {
         "chapusería": 1
@@ -34381,11 +33265,14 @@
     "ronzal": {
         "ronsal": 1
     },
-    "venias": {
-        "benias": 1
-    },
     "trajinado": {
         "traginado": 1
+    },
+    "componiéndole": {
+        "componiendole": 1
+    },
+    "revisándole": {
+        "revisandole": 1
     },
     "naturalezas": {
         "naturalesas": 1
@@ -34395,6 +33282,9 @@
     },
     "vil": {
         "bil": 1
+    },
+    "ahorcó": {
+        "ahorco": 1
     },
     "parnaso": {
         "parnazo": 1
@@ -34417,6 +33307,9 @@
     "esquilmando": {
         "exquilmando": 1
     },
+    "manotón": {
+        "manoton": 1
+    },
     "absorbió": {
         "absorvió": 1
     },
@@ -34425,9 +33318,6 @@
     },
     "apacibles": {
         "apasibles": 1
-    },
-    "vuecencias": {
-        "vuecensias": 1
     },
     "votar": {
         "botar": 1
@@ -34462,9 +33352,6 @@
     "esófago": {
         "exófago": 1
     },
-    "maso": {
-        "mazo": 1
-    },
     "avezados": {
         "avesados": 1
     },
@@ -34483,6 +33370,9 @@
     "hambrientos": {
         "hambrientox": 1
     },
+    "persia": {
+        "perzia": 1
+    },
     "cipreses": {
         "cipreces": 1
     },
@@ -34497,6 +33387,9 @@
     },
     "audaz": {
         "audas": 1
+    },
+    "prisa": {
+        "priza": 1
     },
     "zafarse": {
         "safarse": 1
@@ -34545,9 +33438,6 @@
     },
     "exprime": {
         "esprime": 1
-    },
-    "recoged": {
-        "recojed": 1
     },
     "recen": {
         "rezen": 1
@@ -34702,9 +33592,6 @@
     "consecuentes": {
         "consequentes": 1
     },
-    "paso": {
-        "paco": 1
-    },
     "magnético": {
         "magnetico": 1
     },
@@ -34747,14 +33634,14 @@
     "linicación": {
         "linicasión": 1
     },
+    "infeliz": {
+        "infelis": 1
+    },
     "afinó": {
         "afino": 1
     },
     "vernos": {
         "bernos": 1
-    },
-    "siendo": {
-        "ciendo": 1
     },
     "tapiz": {
         "tapis": 1
@@ -34779,9 +33666,6 @@
     },
     "odisea": {
         "odicea": 1
-    },
-    "ocho": {
-        "osho": 1
     },
     "verse": {
         "berse": 1
@@ -34846,9 +33730,6 @@
     "preparaba": {
         "preparava": 1
     },
-    "cuesta": {
-        "questa": 1
-    },
     "extensiones": {
         "extenciones": 1
     },
@@ -34858,6 +33739,9 @@
     "carabela": {
         "caravela": 1
     },
+    "tánez": {
+        "tanez": 1
+    },
     "exploradores": {
         "esploradores": 1
     },
@@ -34866,6 +33750,9 @@
     },
     "vos": {
         "bos": 1
+    },
+    "caballo": {
+        "cavallo": 1
     },
     "cualquiera": {
         "qualquiera": 1
@@ -34906,9 +33793,6 @@
     "zón": {
         "son": 1
     },
-    "cualia": {
-        "qualia": 1
-    },
     "nacional": {
         "nasional": 1
     },
@@ -34920,6 +33804,9 @@
     },
     "conocida": {
         "conosida": 1
+    },
+    "rapidez": {
+        "rapides": 1
     },
     "octubre": {
         "ostubre": 1
@@ -34969,6 +33856,9 @@
     "silbos": {
         "silvos": 1
     },
+    "farsante": {
+        "farzante": 1
+    },
     "cuadragésimal": {
         "cuadrajésimal": 1
     },
@@ -34999,9 +33889,6 @@
     "deseada": {
         "deceada": 1
     },
-    "registrara": {
-        "rejistrara": 1
-    },
     "deseaba": {
         "deceaba": 1
     },
@@ -35026,6 +33913,9 @@
     "lance": {
         "lanze": 1
     },
+    "haz": {
+        "has": 1
+    },
     "cismático": {
         "cismatico": 1
     },
@@ -35049,6 +33939,9 @@
     },
     "giboso": {
         "jiboso": 1
+    },
+    "anónimas": {
+        "anonimas": 1
     },
     "disfraces": {
         "disfrazes": 1
@@ -35076,9 +33969,6 @@
     },
     "extraigan": {
         "estraigan": 1
-    },
-    "exactas": {
-        "esactas": 1
     },
     "inexacta": {
         "inesacta": 1
@@ -35136,9 +34026,6 @@
     },
     "brincón": {
         "brincon": 1
-    },
-    "cometían": {
-        "cometian": 1
     },
     "excite": {
         "escite": 1
@@ -35257,9 +34144,6 @@
     "agiotistas": {
         "ajiotistas": 1
     },
-    "ronsus": {
-        "ronzus": 1
-    },
     "explican": {
         "esplican": 1
     },
@@ -35278,11 +34162,11 @@
     "excitándome": {
         "escitandome": 1
     },
+    "cronología": {
+        "cronolojia": 1
+    },
     "magistratura": {
         "majistratura": 1
-    },
-    "excediere": {
-        "escediere": 1
     },
     "gérmen": {
         "jérmen": 1
@@ -35334,6 +34218,9 @@
     },
     "inenajenables": {
         "inenagenables": 1
+    },
+    "forajido": {
+        "foragido": 1
     },
     "pasajes": {
         "pasages": 1
@@ -35389,9 +34276,6 @@
     "degeneración": {
         "dejeneración": 1
     },
-    "exagero": {
-        "exajero": 1
-    },
     "cogieron": {
         "cojieron": 1
     },
@@ -35409,6 +34293,9 @@
     },
     "esposa": {
         "espoca": 1
+    },
+    "barniz": {
+        "barnis": 1
     },
     "san": {
         "zan": 1
@@ -35491,9 +34378,6 @@
     "predicación": {
         "predicacion": 1
     },
-    "derribará": {
-        "derribara": 1
-    },
     "reconstrucción": {
         "reconstruccion": 1
     },
@@ -35542,12 +34426,6 @@
     "descorría": {
         "descorria": 1
     },
-    "excusará": {
-        "escusara": 1
-    },
-    "bajeza": {
-        "bajesa": 1
-    },
     "extienden": {
         "estienden": 1
     },
@@ -35572,6 +34450,9 @@
     "destrozándole": {
         "destrozandole": 1
     },
+    "agilidad": {
+        "ajilidad": 1
+    },
     "extraños": {
         "estraños": 1
     },
@@ -35586,9 +34467,6 @@
     },
     "girardot": {
         "jirardot": 1
-    },
-    "angelical": {
-        "anjelical": 1
     },
     "ágiles": {
         "ájiles": 1
@@ -35632,6 +34510,9 @@
     "regis": {
         "rejis": 1
     },
+    "arengó": {
+        "arengo": 1
+    },
     "violón": {
         "violon": 1
     },
@@ -35650,9 +34531,6 @@
     "divergentes": {
         "diverjentes": 1
     },
-    "corregidor": {
-        "correjidor": 1
-    },
     "molesto": {
         "molestó": 1
     },
@@ -35662,17 +34540,8 @@
     "encerados": {
         "enserados": 1
     },
-    "regañaba": {
-        "reganaba": 1
-    },
-    "reconviniéndola": {
-        "reconviniendola": 1
-    },
     "sumergidas": {
         "sumerjidas": 1
-    },
-    "cogida": {
-        "cojida": 1
     },
     "regenerará": {
         "rejenerara": 1
@@ -35685,12 +34554,6 @@
     },
     "expidan": {
         "espidan": 1
-    },
-    "acercóse": {
-        "acercose": 1
-    },
-    "preguntóle": {
-        "preguntole": 1
     },
     "expresivo": {
         "espresivo": 1
@@ -35706,9 +34569,6 @@
     },
     "morigerada": {
         "morijerada": 1
-    },
-    "llévate": {
-        "llevate": 1
     },
     "exigencias": {
         "exijencias": 1
@@ -35727,9 +34587,6 @@
     },
     "regio": {
         "réjio": 1
-    },
-    "mercedes": {
-        "mercédes": 1
     },
     "cubriéndose": {
         "cubriendose": 1
@@ -35755,6 +34612,9 @@
     "geólogos": {
         "jeologos": 1
     },
+    "citado": {
+        "sitado": 1
+    },
     "rugen": {
         "rujen": 1
     },
@@ -35766,12 +34626,6 @@
     },
     "exprese": {
         "esprese": 1
-    },
-    "regeneran": {
-        "rejeneran": 1
-    },
-    "exigirles": {
-        "exijirles": 1
     },
     "exigirlo": {
         "exijirlo": 1
@@ -35788,9 +34642,6 @@
     "compungido": {
         "compunjido": 1
     },
-    "intransigente": {
-        "intransijente": 1
-    },
     "egregio": {
         "egrejio": 1
     },
@@ -35803,23 +34654,17 @@
     "exclamación": {
         "esclamacion": 1
     },
+    "imaginarios": {
+        "imajinarios": 1
+    },
     "fingidas": {
         "finjidas": 1
     },
     "registrar": {
         "rejistrar": 1
     },
-    "agitada": {
-        "ajítada": 1
-    },
     "expusieron": {
         "espusieron": 1
-    },
-    "exención": {
-        "esencion": 1
-    },
-    "autorizará": {
-        "autorizara": 1
     },
     "amanecerá": {
         "amanecera": 1
@@ -35902,9 +34747,6 @@
     "espectro": {
         "expectro": 1
     },
-    "salesianos": {
-        "salecianos": 1
-    },
     "congéneres": {
         "conjéneres": 1
     },
@@ -35983,9 +34825,6 @@
     "cuentecita": {
         "cuentesita": 1
     },
-    "chisponazo": {
-        "chizponazo": 1
-    },
     "grandes": {
         "grandex": 1
     },
@@ -36015,9 +34854,6 @@
     },
     "menjurje": {
         "menjurge": 1
-    },
-    "pesebre": {
-        "pecebre": 1
     },
     "recibo": {
         "resivo": 1
@@ -36148,8 +34984,8 @@
     "sine": {
         "zine": 1
     },
-    "parece": {
-        "parese": 1
+    "vosotros": {
+        "bosotros": 1
     },
     "lorenzo": {
         "lorenso": 1

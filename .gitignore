@@ -4,4 +4,5 @@ data/raw
 !template.env
 *.json
 !surfaceForms.json
+!surfaceFormsNonAccents.json
 data/pre-corrected-latam-xix.parquet

@@ -22,10 +22,8 @@ First, a *raw* version of the dataset is on a `/raw` folder within the `/data` f
 			"text": "La publicacion del Oso se harà dos veces cada se mana, y constará de un pliego en cuarto ; ofreciendo à mas sus redactores, dar los gravados oportunos, siempre que loexija el asuntode que trate. Redactado por un Num. 8. TEMA del Periodico. POLITICA MILITAR. OCTAVA SESION. Abierta la sesion á las dore y un minuto de la noche , 25 de Febrero de 1845 , con asistencia de todos los Señores Representantes, se leyó y aprobó la acta de la Asamblea anterior , ménos en lo tocante à la torre del Convento de Santo Domingo, punto que quedó para ventilarse en mejor ocasion. En seguida se dió cuenta de una nota del Ejecutivo , referente à que urjía la necesidad de organizar un Ejército ; pues decia el Excmo. Decano: - \"Un poder sin bayonetas vale tanto como un cero puesto á la izquierda.\" ",
 			"bounding_box": [43.0, 159.0, 496.0, 1496.0],
 			"center": [269.5, 827.5]
-		},
-        ...
+		}
     ]
-    ...
 }
 ```
 
