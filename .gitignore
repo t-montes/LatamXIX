@@ -6,3 +6,5 @@ data/raw
 !surfaceForms.json
 !surfaceFormsNonAccents.json
 data/pre-corrected-latam-xix.parquet
+
+sample.ipynb

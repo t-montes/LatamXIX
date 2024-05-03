@@ -27,7 +27,6 @@ def extract_data_from_json(json_file, title):
 def process_folder(folder_path):
     all_data = []
     for root, _, files in os.walk(folder_path):
-        print(root, extract_title(root))
         for file in files:
             if file.endswith('.json'):
                 json_file = os.path.join(root, file)
