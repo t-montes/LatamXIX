@@ -1,6 +1,9 @@
-data/raw
+data/
+imgs/
+samples/
 *.tsv
 *.env
+*.zip
 !template.env
 *.json
 !surfaceForms.json
