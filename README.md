@@ -1,6 +1,8 @@
 # LatamXIX: Spanish Newspaper Corpus from 19th Century Latin America with LLM OCR Correction
 
-**Authors:** Tony Montes, Rubén Manrique, Laura Manrique
+**Authors:** Laura Manrique-Gómez, Tony Montes, Arturo Rodríguez-Herrera, Rubén Manrique
+
+**Paper:**: [Historical Ink: 19th Century Latin American Spanish Newspaper Corpus with LLM OCR Correction](https://doi.org/10.48550/arXiv.2407.12838)
 
 ## Previous Steps
 
@@ -51,4 +53,16 @@ Finally, for the OCR correction with LLM there are 3 notebooks that must be ran 
 2. [`get-corrections.ipynb`](./correcting/get-corrections.ipynb): From the LLM responses, find each correction made individually in order to later classify it between OCR error, surface form or none. Also, in this step, an initial OCR-correction detection is done for the most basic case.
 3. [`classify-corrections.ipynb`](./correcting/classify-corrections.ipynb): Classify the corrections made by the LLM in the previous step, based on hardcoded rules and exceptions.
 
+## Citation
 
+```bibtex
+@misc{manriquegómez2024historicalink19thcentury,
+      title={Historical Ink: 19th Century Latin American Spanish Newspaper Corpus with LLM OCR Correction}, 
+      author={Laura Manrique-Gómez and Tony Montes and Rubén Manrique},
+      year={2024},
+      eprint={2407.12838},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2407.12838}, 
+}
+```
