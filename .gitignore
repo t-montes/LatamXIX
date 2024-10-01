@@ -3,6 +3,7 @@ imgs/
 samples/
 *.tsv
 *.env
+*.pt
 *.zip
 !template.env
 *.json

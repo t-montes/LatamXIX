@@ -2,7 +2,9 @@
 
 **Authors:** Laura Manrique-Gómez, Tony Montes, Arturo Rodríguez-Herrera, Rubén Manrique
 
-**Paper:**: [Historical Ink: 19th Century Latin American Spanish Newspaper Corpus with LLM OCR Correction](https://doi.org/10.48550/arXiv.2407.12838)
+**Paper:** [Historical Ink: 19th Century Latin American Spanish Newspaper Corpus with LLM OCR Correction](https://doi.org/10.48550/arXiv.2407.12838)
+
+[**Dataset HuggingFace**](https://huggingface.co/datasets/Flaglab/latam-xix)
 
 ## Previous Steps
 
@@ -46,6 +48,10 @@ The cleaning step is done in the [`cleaning.ipynb`](./cleaning.ipynb) notebook, 
 Also, an initial version of a [tokenizer](./data/tokenizer/) (trained from the [BETO](https://huggingface.co/dccuchile/bert-base-spanish-wwm-cased) pre-trained tokenizer in Spanish) is saved in this step
 
 ### 3. LLM OCR Correction
+
+#### Configure Environment
+
+Create the file `./correcting/.env` with the updated values from [this template](./correcting/template.env) .env file (`./correcting/template.env`).
 
 Finally, for the OCR correction with LLM there are 3 notebooks that must be ran in order:
 
